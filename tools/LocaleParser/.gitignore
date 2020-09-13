@@ -1,4 +1,4 @@
 target/
 LocaleParser.iml
-log
+*.log
 .idea
