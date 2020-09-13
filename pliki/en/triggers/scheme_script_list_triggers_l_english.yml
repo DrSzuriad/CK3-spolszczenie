@@ -1,0 +1,9 @@
+﻿l_english:
+ ALL_SCHEMES: "All Schemes:"
+ ANY_SCHEME: "Any Scheme:"
+ ALL_OF_MY_SCHEMES: "All of your Schemes:"
+ ANY_OF_MY_SCHEMES: "Any of your Schemes:"
+ ALL_OF_THEIR_SCHEMES: "All of [CHARACTER.GetShortUINamePossessive] Schemes:"
+ ANY_OF_THEIR_SCHEMES: "Any of [CHARACTER.GetShortUINamePossessive] Schemes:"
+ ALL_SCHEME_AGENTS: "All Agents of the [SCHEME.GetFullActionName] Scheme:"
+ ANY_SCHEME_AGENT: "Any Agent of the [SCHEME.GetFullActionName] Scheme:"

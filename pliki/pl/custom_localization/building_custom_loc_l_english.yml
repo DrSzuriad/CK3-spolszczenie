@@ -1,0 +1,5 @@
+﻿l_english:
+ barony_town_type_city: "miasto"
+ barony_town_type_castle_town: "miasto zamkowe"
+ barony_town_type_town: "miejscowość"
+ barony_town_type_village: "wioska"
