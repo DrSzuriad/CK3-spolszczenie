@@ -1,0 +1,2403 @@
+[main]
+host = https://www.transifex.com
+
+[spolszczenie.abduct_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/abduct_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/abduct_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.activity_feast_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/activity_feast_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/activity_feast_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.activity_hunt_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/activity_hunt_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/activity_hunt_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.activity_pilgrimage_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/activity_pilgrimage_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/activity_pilgrimage_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.birth_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/birth_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/birth_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.childhood_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/childhood_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/childhood_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.claim_throne_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/claim_throne_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/claim_throne_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.council_l_englishyml_1]
+file_filter = pliki/<lang>/opinions/council_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/council_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.council_task_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/council_task_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/council_task_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.court_visit_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/court_visit_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/court_visit_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.dynasty_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/dynasty_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/dynasty_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.election_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/election_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/election_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.fabricate_hook_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/fabricate_hook_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/fabricate_hook_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.general_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/general_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/general_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.governance_lifestyle_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/governance_lifestyle_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/governance_lifestyle_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.intrigue_lifestyle_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/intrigue_lifestyle_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/intrigue_lifestyle_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.intrigue_scheme_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/intrigue_scheme_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/intrigue_scheme_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.learning_lifestyle_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/learning_lifestyle_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/learning_lifestyle_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.lover_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/lover_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/lover_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.marriage_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/marriage_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/marriage_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.martial_lifestyle_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/martial_lifestyle_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/martial_lifestyle_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.murder_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/murder_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/murder_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.peasant_affair_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/peasant_affair_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/peasant_affair_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.prison_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/prison_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/prison_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.punish_reasons_l_englishyml]
+file_filter = pliki/<lang>/opinions/punish_reasons_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/punish_reasons_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.regional_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/regional_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/regional_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.religion_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/religion_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/religion_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.rival_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/rival_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/rival_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.scheme_befriend_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/scheme_befriend_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/scheme_befriend_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.scheme_seduce_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/scheme_seduce_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/scheme_seduce_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.scheme_sway_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/scheme_sway_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/scheme_sway_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.sibling_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/sibling_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/sibling_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.spouse_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/spouse_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/spouse_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.statecraft_lifestyle_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/statecraft_lifestyle_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/statecraft_lifestyle_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.stress_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/stress_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/stress_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.vassal_events_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/vassal_events_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/vassal_events_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.war_opinions_l_englishyml]
+file_filter = pliki/<lang>/opinions/war_opinions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/opinions/war_opinions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.bookmark_adventurers_867_l_englishyml]
+file_filter = pliki/<lang>/bookmark/bookmark_adventurers_867_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/bookmark/bookmark_adventurers_867_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.bookmark_carolingians_867_l_englishyml]
+file_filter = pliki/<lang>/bookmark/bookmark_carolingians_867_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/bookmark/bookmark_carolingians_867_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.bookmark_hastings_1066_l_englishyml]
+file_filter = pliki/<lang>/bookmark/bookmark_hastings_1066_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/bookmark/bookmark_hastings_1066_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.bookmark_iberia_1066_l_englishyml]
+file_filter = pliki/<lang>/bookmark/bookmark_iberia_1066_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/bookmark/bookmark_iberia_1066_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.bookmark_l_englishyml]
+file_filter = pliki/<lang>/bookmark/bookmark_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/bookmark/bookmark_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.bookmark_northmen_867_l_englishyml]
+file_filter = pliki/<lang>/bookmark/bookmark_northmen_867_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/bookmark/bookmark_northmen_867_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.bookmark_rags_to_riches_1066_l_englishyml]
+file_filter = pliki/<lang>/bookmark/bookmark_rags_to_riches_1066_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/bookmark/bookmark_rags_to_riches_1066_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.start_years_l_englishyml]
+file_filter = pliki/<lang>/bookmark/start_years_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/bookmark/start_years_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.credits_l_englishyml]
+file_filter = pliki/<lang>/credits/credits_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/credits/credits_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.cultural_innovations_l_englishyml]
+file_filter = pliki/<lang>/culture/cultural_innovations_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/culture/cultural_innovations_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.cultural_maa_innovations_l_englishyml]
+file_filter = pliki/<lang>/culture/cultural_maa_innovations_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/culture/cultural_maa_innovations_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.culture_eras_l_englishyml]
+file_filter = pliki/<lang>/culture/culture_eras_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/culture/culture_eras_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.culture_titles_l_englishyml]
+file_filter = pliki/<lang>/culture/culture_titles_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/culture/culture_titles_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.cultures_l_englishyml]
+file_filter = pliki/<lang>/culture/cultures_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/culture/cultures_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.placeholder_new_culture_titles_l_englishyml]
+file_filter = pliki/<lang>/culture/placeholder_new_culture_titles_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/culture/placeholder_new_culture_titles_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.ai_value_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/ai_value_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/ai_value_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.appropriate_generic_words_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/appropriate_generic_words_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/appropriate_generic_words_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.building_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/building_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/building_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.casus_belli_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/casus_belli_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/casus_belli_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.character_descriptions_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/character_descriptions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/character_descriptions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.character_relations_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/character_relations_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/character_relations_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.compliment_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/compliment_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/compliment_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.conversation_subjects_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/conversation_subjects_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/conversation_subjects_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.divinity_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/divinity_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/divinity_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.education_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/education_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/education_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.friendly_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/friendly_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/friendly_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.generic_custom_loc_strings_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/generic_custom_loc_strings_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/generic_custom_loc_strings_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.government_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/government_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/government_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.greeting_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/greeting_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/greeting_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.health_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/health_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/health_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.incidental_detail_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/incidental_detail_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/incidental_detail_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.insult_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/insult_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/insult_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.lifestyle_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/lifestyle_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/lifestyle_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.lover_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/lover_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/lover_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.magic_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/magic_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/magic_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.metaphors_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/metaphors_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/metaphors_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.notification_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/notification_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/notification_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.personal_details_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/personal_details_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/personal_details_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.personality_quirks_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/personality_quirks_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/personality_quirks_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.personality_trait_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/personality_trait_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/personality_trait_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.pet_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/pet_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/pet_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.prison_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/prison_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/prison_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.reaction_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/reaction_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/reaction_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.regional_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/regional_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/regional_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.secrets_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/secrets_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/secrets_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.seduction_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/seduction_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/seduction_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.signature_weapon_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/signature_weapon_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/signature_weapon_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.title_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/title_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/title_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.titles_and_rank_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/titles_and_rank_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/titles_and_rank_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.trait_adjectives_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/trait_adjectives_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/trait_adjectives_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.unfriendly_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/unfriendly_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/unfriendly_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.vassals_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/vassals_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/vassals_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.yearly_events_custom_loc_l_englishyml]
+file_filter = pliki/<lang>/custom_localization/yearly_events_custom_loc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/custom_localization/yearly_events_custom_loc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.dynasty_names_l_englishyml]
+file_filter = pliki/<lang>/dynasties/dynasty_names_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/dynasties/dynasty_names_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.legacies_l_englishyml]
+file_filter = pliki/<lang>/dynasty_legacies/legacies_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/dynasty_legacies/legacies_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.land_tier_l_englishyml]
+file_filter = pliki/<lang>/enum/land_tier_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/enum/land_tier_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.bastard_interaction_events_l_englishyml]
+file_filter = pliki/<lang>/event_localization/bastard_interaction_events_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/event_localization/bastard_interaction_events_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.birth_events_l_englishyml]
+file_filter = pliki/<lang>/event_localization/birth_events_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/event_localization/birth_events_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.blackmail_events_l_englishyml]
+file_filter = pliki/<lang>/event_localization/blackmail_events_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/event_localization/blackmail_events_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.british_isles_events_l_englishyml]
+file_filter = pliki/<lang>/event_localization/british_isles_events_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/event_localization/british_isles_events_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.central_asia_events_l_englishyml]
+file_filter = pliki/<lang>/event_localization/central_asia_events_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/event_localization/central_asia_events_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.dynasty_legacy_events_l_englishyml]
+file_filter = pliki/<lang>/event_localization/dynasty_legacy_events_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/event_localization/dynasty_legacy_events_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.generic_event_text_l_englishyml]
+file_filter = pliki/<lang>/event_localization/generic_event_text_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/event_localization/generic_event_text_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.global_culture_events_l_englishyml]
+file_filter = pliki/<lang>/event_localization/global_culture_events_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/event_localization/global_culture_events_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.health_events_l_englishyml]
+file_filter = pliki/<lang>/event_localization/health_events_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/event_localization/health_events_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.marriage_effect_events_l_englishyml]
+file_filter = pliki/<lang>/event_localization/marriage_effect_events_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/event_localization/marriage_effect_events_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.marriage_interaction_events_l_englishyml]
+file_filter = pliki/<lang>/event_localization/marriage_interaction_events_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/event_localization/marriage_interaction_events_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.perk_interaction_events_l_englishyml]
+file_filter = pliki/<lang>/event_localization/perk_interaction_events_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/event_localization/perk_interaction_events_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.pregnancy_events_l_englishyml]
+file_filter = pliki/<lang>/event_localization/pregnancy_events_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/event_localization/pregnancy_events_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.south_asia_events_l_englishyml]
+file_filter = pliki/<lang>/event_localization/south_asia_events_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/event_localization/south_asia_events_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.vassal_interaction_events_l_englishyml]
+file_filter = pliki/<lang>/event_localization/vassal_interaction_events_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/event_localization/vassal_interaction_events_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.witch_events_l_englishyml]
+file_filter = pliki/<lang>/event_localization/witch_events_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/event_localization/witch_events_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.armyview_l_englishyml]
+file_filter = pliki/<lang>/gui/armyview_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/armyview_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.banners_view_l_englishyml]
+file_filter = pliki/<lang>/gui/banners_view_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/banners_view_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.bannerwindow_l_englishyml]
+file_filter = pliki/<lang>/gui/bannerwindow_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/bannerwindow_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.battlesummary_l_englishyml]
+file_filter = pliki/<lang>/gui/battlesummary_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/battlesummary_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.character_finder_l_englishyml]
+file_filter = pliki/<lang>/gui/character_finder_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/character_finder_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.character_list_l_englishyml]
+file_filter = pliki/<lang>/gui/character_list_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/character_list_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.character_window_l_englishyml]
+file_filter = pliki/<lang>/gui/character_window_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/character_window_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.characterfocuswindow_l_englishyml]
+file_filter = pliki/<lang>/gui/characterfocuswindow_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/characterfocuswindow_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.characterinteractionnotificationwindow_l_englishyml]
+file_filter = pliki/<lang>/gui/characterinteractionnotificationwindow_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/characterinteractionnotificationwindow_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.characterinteractionwindow_l_englishyml]
+file_filter = pliki/<lang>/gui/characterinteractionwindow_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/characterinteractionwindow_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.combat_window_l_englishyml]
+file_filter = pliki/<lang>/gui/combat_window_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/combat_window_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.combatview_l_englishyml]
+file_filter = pliki/<lang>/gui/combatview_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/combatview_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.common_l_englishyml]
+file_filter = pliki/<lang>/gui/common_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/common_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.council_window_l_englishyml]
+file_filter = pliki/<lang>/gui/council_window_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/council_window_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.court_window_l_englishyml]
+file_filter = pliki/<lang>/gui/court_window_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/court_window_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.courtwindow_l_englishyml]
+file_filter = pliki/<lang>/gui/courtwindow_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/courtwindow_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.create_claimant_faction_window_l_englishyml]
+file_filter = pliki/<lang>/gui/create_claimant_faction_window_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/create_claimant_faction_window_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.culture_window_l_englishyml]
+file_filter = pliki/<lang>/gui/culture_window_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/culture_window_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.desicionsview_l_englishyml]
+file_filter = pliki/<lang>/gui/desicionsview_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/desicionsview_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.dynasty_view_l_englishyml]
+file_filter = pliki/<lang>/gui/dynasty_view_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/dynasty_view_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.encyclopedia_l_englishyml]
+file_filter = pliki/<lang>/gui/encyclopedia_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/encyclopedia_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.event_window_l_englishyml]
+file_filter = pliki/<lang>/gui/event_window_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/event_window_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.event_window_wigets_l_englishyml]
+file_filter = pliki/<lang>/gui/event_window_wigets_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/event_window_wigets_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.factions_view_l_englishyml]
+file_filter = pliki/<lang>/gui/factions_view_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/factions_view_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.faith_view_l_englishyml]
+file_filter = pliki/<lang>/gui/faith_view_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/faith_view_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.findtitleview_l_englishyml]
+file_filter = pliki/<lang>/gui/findtitleview_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/findtitleview_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.frontend_gamesetup_l_englishyml]
+file_filter = pliki/<lang>/gui/frontend_gamesetup_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/frontend_gamesetup_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.frontend_l_englishyml]
+file_filter = pliki/<lang>/gui/frontend_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/frontend_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.frontend_mp_game_setup_l_englishyml]
+file_filter = pliki/<lang>/gui/frontend_mp_game_setup_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/frontend_mp_game_setup_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.great_holy_war_view_l_englishyml]
+file_filter = pliki/<lang>/gui/great_holy_war_view_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/great_holy_war_view_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.hired_troops_view_l_englishyml]
+file_filter = pliki/<lang>/gui/hired_troops_view_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/hired_troops_view_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.holding_view_l_englishyml]
+file_filter = pliki/<lang>/gui/holding_view_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/holding_view_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.house_view_l_englishyml]
+file_filter = pliki/<lang>/gui/house_view_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/house_view_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.ingame_main_l_englishyml]
+file_filter = pliki/<lang>/gui/ingame_main_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/ingame_main_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.interaction_council_task_window_l_englishyml]
+file_filter = pliki/<lang>/gui/interaction_council_task_window_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/interaction_council_task_window_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.kill_list_l_englishyml]
+file_filter = pliki/<lang>/gui/kill_list_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/kill_list_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.knightsview_l_englishyml]
+file_filter = pliki/<lang>/gui/knightsview_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/knightsview_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.legacy_window_l_englishyml]
+file_filter = pliki/<lang>/gui/legacy_window_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/legacy_window_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.levyview_l_englishyml]
+file_filter = pliki/<lang>/gui/levyview_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/levyview_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.lifestyle_window_l_englishyml]
+file_filter = pliki/<lang>/gui/lifestyle_window_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/lifestyle_window_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.lobbyview_l_englishyml]
+file_filter = pliki/<lang>/gui/lobbyview_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/lobbyview_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.map_l_englishyml]
+file_filter = pliki/<lang>/gui/map_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/map_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.mapicons_l_englishyml]
+file_filter = pliki/<lang>/gui/mapicons_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/mapicons_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.menatarmsview_l_englishyml]
+file_filter = pliki/<lang>/gui/menatarmsview_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/menatarmsview_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.militaryview_l_englishyml]
+file_filter = pliki/<lang>/gui/militaryview_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/militaryview_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.multiplayer_lobby_l_englishyml]
+file_filter = pliki/<lang>/gui/multiplayer_lobby_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/multiplayer_lobby_l_englishyml.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.multiselectionbarwindow_l_englishyml]
+file_filter = pliki/<lang>/gui/multiselectionbarwindow_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/multiselectionbarwindow_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.outliner_l_englishyml]
+file_filter = pliki/<lang>/gui/outliner_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/outliner_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.portrait_customization_window_l_englishyml]
+file_filter = pliki/<lang>/gui/portrait_customization_window_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/portrait_customization_window_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.potential_agents_l_englishyml]
+file_filter = pliki/<lang>/gui/potential_agents_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/potential_agents_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.potential_councillor_l_englishyml]
+file_filter = pliki/<lang>/gui/potential_councillor_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/potential_councillor_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.potential_faction_members_l_englishyml]
+file_filter = pliki/<lang>/gui/potential_faction_members_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/potential_faction_members_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.prison_window_l_englishyml]
+file_filter = pliki/<lang>/gui/prison_window_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/prison_window_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.raid_window_l_englishyml]
+file_filter = pliki/<lang>/gui/raid_window_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/raid_window_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.rally_point_window_l_englishyml]
+file_filter = pliki/<lang>/gui/rally_point_window_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/rally_point_window_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.realm_window_l_englishyml]
+file_filter = pliki/<lang>/gui/realm_window_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/realm_window_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.schemewindow_l_englishyml]
+file_filter = pliki/<lang>/gui/schemewindow_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/schemewindow_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.selectcommanderwindow_l_englishyml]
+file_filter = pliki/<lang>/gui/selectcommanderwindow_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/selectcommanderwindow_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.siege_window_l_englishyml]
+file_filter = pliki/<lang>/gui/siege_window_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/siege_window_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.specialinteractions_l_englishyml]
+file_filter = pliki/<lang>/gui/specialinteractions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/specialinteractions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.succession_election_window_l_englishyml]
+file_filter = pliki/<lang>/gui/succession_election_window_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/succession_election_window_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.succession_event_window_l_englishyml]
+file_filter = pliki/<lang>/gui/succession_event_window_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/succession_event_window_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.temp_loc_for_testing_l_englishyml]
+file_filter = pliki/<lang>/gui/temp_loc_for_testing_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/temp_loc_for_testing_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.title_view_l_englishyml]
+file_filter = pliki/<lang>/gui/title_view_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/title_view_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.tutorialwindow_l_englishyml]
+file_filter = pliki/<lang>/gui/tutorialwindow_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/tutorialwindow_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.waroverview_l_englishyml]
+file_filter = pliki/<lang>/gui/waroverview_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/gui/waroverview_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.categories_l_englishyml]
+file_filter = pliki/<lang>/interactions/categories_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/interactions/categories_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.declare_war_l_englishyml]
+file_filter = pliki/<lang>/interactions/declare_war_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/interactions/declare_war_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.dynast_interaction_l_englishyml]
+file_filter = pliki/<lang>/interactions/dynast_interaction_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/interactions/dynast_interaction_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.house_head_interaction_l_englishyml]
+file_filter = pliki/<lang>/interactions/house_head_interaction_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/interactions/house_head_interaction_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.perk_interaction_l_englishyml]
+file_filter = pliki/<lang>/interactions/perk_interaction_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/interactions/perk_interaction_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.vassal_interaction_l_englishyml]
+file_filter = pliki/<lang>/interactions/vassal_interaction_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/interactions/vassal_interaction_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.perks_l_englishyml]
+file_filter = pliki/<lang>/lifestyles/perks_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/lifestyles/perks_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.load_tips_l_englishyml]
+file_filter = pliki/<lang>/load_tips/load_tips_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/load_tips/load_tips_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.activity_feast_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/activity_feast_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/activity_feast_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.activity_hunt_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/activity_hunt_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/activity_hunt_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.activity_pilgrimage_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/activity_pilgrimage_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/activity_pilgrimage_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.befriend_scheme_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/befriend_scheme_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/befriend_scheme_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.bookmark_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/bookmark_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/bookmark_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.claim_throne_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/claim_throne_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/claim_throne_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.council_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/council_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/council_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.counsel_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/counsel_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/counsel_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.county_corruption_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/county_corruption_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/county_corruption_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.county_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/county_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/county_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.diplomacy_lifestyle_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/diplomacy_lifestyle_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/diplomacy_lifestyle_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.diplomatic_scheme_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/diplomatic_scheme_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/diplomatic_scheme_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.dungeon_stress_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/dungeon_stress_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/dungeon_stress_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.dynasty_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/dynasty_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/dynasty_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.event_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/event_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/event_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.fabricate_hook_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/fabricate_hook_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/fabricate_hook_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.general_scheme_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/general_scheme_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/general_scheme_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.governance_lifestyle_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/governance_lifestyle_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/governance_lifestyle_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.health_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/health_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/health_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.holy_order_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/holy_order_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/holy_order_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.intrigue_lifestyle_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/intrigue_lifestyle_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/intrigue_lifestyle_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.intrigue_scheme_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/intrigue_scheme_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/intrigue_scheme_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.legacy_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/legacy_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/legacy_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.marriage_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/marriage_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/marriage_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.martial_lifestyle_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/martial_lifestyle_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/martial_lifestyle_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.modifier_value_format_l_englishyml]
+file_filter = pliki/<lang>/modifiers/modifier_value_format_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/modifier_value_format_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.nickname_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/nickname_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/nickname_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.parent_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/parent_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/parent_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.perk_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/perk_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/perk_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.religion_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/religion_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/religion_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.romance_character_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/romance_character_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/romance_character_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.scholarship_lifestyle_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/scholarship_lifestyle_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/scholarship_lifestyle_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.seduce_character_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/seduce_character_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/seduce_character_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.seduce_scheme_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/seduce_scheme_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/seduce_scheme_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.sibling_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/sibling_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/sibling_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.story_cycle_murders_at_court_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/story_cycle_murders_at_court_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/story_cycle_murders_at_court_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.story_cycle_mystical_animal_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/story_cycle_mystical_animal_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/story_cycle_mystical_animal_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.story_cycle_pet_animal_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/story_cycle_pet_animal_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/story_cycle_pet_animal_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.stress_effect_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/stress_effect_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/stress_effect_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.yearly_event_modifiers_l_englishyml]
+file_filter = pliki/<lang>/modifiers/yearly_event_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/modifiers/yearly_event_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.character_names_l_englishyml]
+file_filter = pliki/<lang>/names/character_names_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/names/character_names_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.portrait_modifiers_l_englishyml]
+file_filter = pliki/<lang>/portraits/portrait_modifiers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/portraits/portrait_modifiers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.religion_buddhism_l_englishyml]
+file_filter = pliki/<lang>/religion/religion_buddhism_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/religion/religion_buddhism_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.religion_christianity_l_englishyml]
+file_filter = pliki/<lang>/religion/religion_christianity_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/religion/religion_christianity_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.religion_core_tenets_l_englishyml]
+file_filter = pliki/<lang>/religion/religion_core_tenets_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/religion/religion_core_tenets_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.religion_doctrine_triggers_l_englishyml]
+file_filter = pliki/<lang>/religion/religion_doctrine_triggers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/religion/religion_doctrine_triggers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.religion_doctrines_petter_l_englishyml]
+file_filter = pliki/<lang>/religion/religion_doctrines_petter_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/religion/religion_doctrines_petter_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.religion_donyipoloism_l_englishyml]
+file_filter = pliki/<lang>/religion/religion_donyipoloism_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/religion/religion_donyipoloism_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.religion_dualism_l_englishyml]
+file_filter = pliki/<lang>/religion/religion_dualism_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/religion/religion_dualism_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.religion_hinduism_l_englishyml]
+file_filter = pliki/<lang>/religion/religion_hinduism_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/religion/religion_hinduism_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.religion_islam_l_englishyml]
+file_filter = pliki/<lang>/religion/religion_islam_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/religion/religion_islam_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.religion_jainism_l_englishyml]
+file_filter = pliki/<lang>/religion/religion_jainism_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/religion/religion_jainism_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.religion_judaism_l_englishyml]
+file_filter = pliki/<lang>/religion/religion_judaism_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/religion/religion_judaism_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.religion_l_englishyml]
+file_filter = pliki/<lang>/religion/religion_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/religion/religion_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.religion_mundhumism_l_englishyml]
+file_filter = pliki/<lang>/religion/religion_mundhumism_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/religion/religion_mundhumism_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.religion_paganism_l_englishyml]
+file_filter = pliki/<lang>/religion/religion_paganism_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/religion/religion_paganism_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.religion_qiangic_l_englishyml]
+file_filter = pliki/<lang>/religion/religion_qiangic_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/religion/religion_qiangic_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.religion_taoism_l_englishyml]
+file_filter = pliki/<lang>/religion/religion_taoism_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/religion/religion_taoism_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.religion_yazidism_l_englishyml]
+file_filter = pliki/<lang>/religion/religion_yazidism_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/religion/religion_yazidism_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.religion_zoroastrianism_l_englishyml]
+file_filter = pliki/<lang>/religion/religion_zoroastrianism_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/religion/religion_zoroastrianism_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.adultery_triggers_l_englishyml]
+file_filter = pliki/<lang>/triggers/adultery_triggers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/triggers/adultery_triggers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.building_requirement_triggers_l_englishyml]
+file_filter = pliki/<lang>/triggers/building_requirement_triggers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/triggers/building_requirement_triggers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.building_triggers_l_englishyml]
+file_filter = pliki/<lang>/triggers/building_triggers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/triggers/building_triggers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.character_interaction_triggers_l_englishyml]
+file_filter = pliki/<lang>/triggers/character_interaction_triggers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/triggers/character_interaction_triggers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.character_relation_triggers_l_englishyml]
+file_filter = pliki/<lang>/triggers/character_relation_triggers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/triggers/character_relation_triggers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.character_script_list_triggers_l_englishyml]
+file_filter = pliki/<lang>/triggers/character_script_list_triggers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/triggers/character_script_list_triggers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.character_triggers_l_englishyml]
+file_filter = pliki/<lang>/triggers/character_triggers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/triggers/character_triggers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.culture_triggers_l_englishyml]
+file_filter = pliki/<lang>/triggers/culture_triggers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/triggers/culture_triggers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.dlc_triggers_l_englishyml]
+file_filter = pliki/<lang>/triggers/dlc_triggers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/triggers/dlc_triggers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.dynasty_triggers_l_englishyml]
+file_filter = pliki/<lang>/triggers/dynasty_triggers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/triggers/dynasty_triggers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.faction_triggers_l_englishyml]
+file_filter = pliki/<lang>/triggers/faction_triggers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/triggers/faction_triggers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.government_triggers_l_englishyml]
+file_filter = pliki/<lang>/triggers/government_triggers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/triggers/government_triggers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.landed_title_triggers_l_englishyml]
+file_filter = pliki/<lang>/triggers/landed_title_triggers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/triggers/landed_title_triggers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.lifestyle_triggers_l_englishyml]
+file_filter = pliki/<lang>/triggers/lifestyle_triggers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/triggers/lifestyle_triggers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.province_script_list_triggers_l_englishyml]
+file_filter = pliki/<lang>/triggers/province_script_list_triggers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/triggers/province_script_list_triggers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.province_triggers_l_englishyml]
+file_filter = pliki/<lang>/triggers/province_triggers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/triggers/province_triggers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.religion_triggers_l_englishyml]
+file_filter = pliki/<lang>/triggers/religion_triggers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/triggers/religion_triggers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.scheme_script_list_triggers_l_englishyml]
+file_filter = pliki/<lang>/triggers/scheme_script_list_triggers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/triggers/scheme_script_list_triggers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.script_list_triggers_l_englishyml]
+file_filter = pliki/<lang>/triggers/script_list_triggers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/triggers/script_list_triggers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.secret_script_list_triggers_l_englishyml]
+file_filter = pliki/<lang>/triggers/secret_script_list_triggers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/triggers/secret_script_list_triggers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.secret_triggers_l_englishyml]
+file_filter = pliki/<lang>/triggers/secret_triggers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/triggers/secret_triggers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.trigger_system_l_englishyml]
+file_filter = pliki/<lang>/triggers/trigger_system_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/triggers/trigger_system_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.war_triggers_l_englishyml]
+file_filter = pliki/<lang>/triggers/war_triggers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/triggers/war_triggers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.achievements_l_englishyml]
+file_filter = pliki/<lang>/achievements_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/achievements_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.ai_l_englishyml]
+file_filter = pliki/<lang>/ai_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/ai_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.ai_personality_l_englishyml]
+file_filter = pliki/<lang>/ai_personality_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/ai_personality_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.battles_l_englishyml]
+file_filter = pliki/<lang>/battles_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/battles_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.buildings_l_englishyml]
+file_filter = pliki/<lang>/buildings_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/buildings_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.change_ghw_target_window_l_englishyml]
+file_filter = pliki/<lang>/change_ghw_target_window_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/change_ghw_target_window_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.character_l_englishyml]
+file_filter = pliki/<lang>/character_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/character_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.combat_l_englishyml]
+file_filter = pliki/<lang>/combat_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/combat_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.core_l_englishyml]
+file_filter = pliki/<lang>/core_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/core_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.council_l_englishyml]
+file_filter = pliki/<lang>/council_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/council_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.council_tasks_l_englishyml]
+file_filter = pliki/<lang>/council_tasks_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/council_tasks_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.courtier_guest_management_events_l_englishyml]
+file_filter = pliki/<lang>/courtier_guest_management_events_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/courtier_guest_management_events_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.death_reasons_l_englishyml]
+file_filter = pliki/<lang>/death_reasons_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/death_reasons_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.debug_l_englishyml]
+file_filter = pliki/<lang>/debug_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/debug_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.decisions_l_englishyml]
+file_filter = pliki/<lang>/decisions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/decisions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.decisions_wild_goose_chase_l_englishyml]
+file_filter = pliki/<lang>/decisions_wild_goose_chase_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/decisions_wild_goose_chase_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.designate_heir_window_l_englishyml]
+file_filter = pliki/<lang>/designate_heir_window_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/designate_heir_window_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.dlc_l_englishyml]
+file_filter = pliki/<lang>/dlc_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/dlc_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.editor_l_englishyml]
+file_filter = pliki/<lang>/editor_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/editor_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.effects_l_englishyml]
+file_filter = pliki/<lang>/effects_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/effects_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.elective_succession_l_englishyml]
+file_filter = pliki/<lang>/elective_succession_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/elective_succession_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.factions_l_englishyml]
+file_filter = pliki/<lang>/factions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/factions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.fleet_l_englishyml]
+file_filter = pliki/<lang>/fleet_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/fleet_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.focuses_l_englishyml]
+file_filter = pliki/<lang>/focuses_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/focuses_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.game_concepts_l_englishyml]
+file_filter = pliki/<lang>/game_concepts_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/game_concepts_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.game_rules_l_englishyml]
+file_filter = pliki/<lang>/game_rules_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/game_rules_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.general_tooltips_l_englishyml]
+file_filter = pliki/<lang>/general_tooltips_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/general_tooltips_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.government_l_englishyml]
+file_filter = pliki/<lang>/government_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/government_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.guest_descriptions_l_englishyml]
+file_filter = pliki/<lang>/guest_descriptions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/guest_descriptions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.holdings_l_englishyml]
+file_filter = pliki/<lang>/holdings_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/holdings_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.holy_orders_l_englishyml]
+file_filter = pliki/<lang>/holy_orders_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/holy_orders_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.hook_types_l_englishyml]
+file_filter = pliki/<lang>/hook_types_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/hook_types_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.important_actions_l_englishyml]
+file_filter = pliki/<lang>/important_actions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/important_actions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.interactions_l_englishyml]
+file_filter = pliki/<lang>/interactions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/interactions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.invasions_l_englishyml]
+file_filter = pliki/<lang>/invasions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/invasions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.keyboard_l_englishyml]
+file_filter = pliki/<lang>/keyboard_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/keyboard_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.knight_culture_l_englishyml]
+file_filter = pliki/<lang>/knight_culture_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/knight_culture_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.laws_l_englishyml]
+file_filter = pliki/<lang>/laws_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/laws_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.major_decisions_central_asia_l_englishyml]
+file_filter = pliki/<lang>/major_decisions_central_asia_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/major_decisions_central_asia_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.major_decisions_east_europe_l_englishyml]
+file_filter = pliki/<lang>/major_decisions_east_europe_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/major_decisions_east_europe_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.major_decisions_iberia_north_africa_l_englishyml]
+file_filter = pliki/<lang>/major_decisions_iberia_north_africa_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/major_decisions_iberia_north_africa_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.major_decisions_l_englishyml]
+file_filter = pliki/<lang>/major_decisions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/major_decisions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.major_decisions_south_asia_l_englishyml]
+file_filter = pliki/<lang>/major_decisions_south_asia_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/major_decisions_south_asia_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.map_items_l_englishyml]
+file_filter = pliki/<lang>/map_items_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/map_items_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.mercenaries_l_englishyml]
+file_filter = pliki/<lang>/mercenaries_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/mercenaries_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.messages_l_englishyml]
+file_filter = pliki/<lang>/messages_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/messages_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.mongol_invasion_l_englishyml]
+file_filter = pliki/<lang>/mongol_invasion_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/mongol_invasion_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.mottos_l_englishyml]
+file_filter = pliki/<lang>/mottos_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/mottos_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.multiplayer_l_englishyml]
+file_filter = pliki/<lang>/multiplayer_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/multiplayer_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.my_realm_window_l_englishyml]
+file_filter = pliki/<lang>/my_realm_window_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/my_realm_window_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.nicknames_l_englishyml]
+file_filter = pliki/<lang>/nicknames_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/nicknames_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.party_baron_l_englishyml]
+file_filter = pliki/<lang>/party_baron_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/party_baron_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.playable_difficulty_infos_l_englishyml]
+file_filter = pliki/<lang>/playable_difficulty_infos_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/playable_difficulty_infos_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.rally_points_l_englishyml]
+file_filter = pliki/<lang>/rally_points_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/rally_points_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.regiment_l_englishyml]
+file_filter = pliki/<lang>/regiment_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/regiment_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.regions_l_englishyml]
+file_filter = pliki/<lang>/regions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/regions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.relations_l_englishyml]
+file_filter = pliki/<lang>/relations_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/relations_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.schemes_l_englishyml]
+file_filter = pliki/<lang>/schemes_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/schemes_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.scope_comparison_triggers_l_englishyml]
+file_filter = pliki/<lang>/scope_comparison_triggers_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/scope_comparison_triggers_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.secrets_l_englishyml]
+file_filter = pliki/<lang>/secrets_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/secrets_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.settings_l_englishyml]
+file_filter = pliki/<lang>/settings_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/settings_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.succession_law_change_window_l_englishyml]
+file_filter = pliki/<lang>/succession_law_change_window_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/succession_law_change_window_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.succession_laws_l_englishyml]
+file_filter = pliki/<lang>/succession_laws_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/succession_laws_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.suggestions_l_englishyml]
+file_filter = pliki/<lang>/suggestions_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/suggestions_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.temp_l_englishyml]
+file_filter = pliki/<lang>/temp_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/temp_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.terrains_l_englishyml]
+file_filter = pliki/<lang>/terrains_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/terrains_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.titles_cultural_names_l_englishyml]
+file_filter = pliki/<lang>/titles_cultural_names_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/titles_cultural_names_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.titles_l_englishyml]
+file_filter = pliki/<lang>/titles_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/titles_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.tooltip_structs_l_englishyml]
+file_filter = pliki/<lang>/tooltip_structs_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/tooltip_structs_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.traits_l_englishyml]
+file_filter = pliki/<lang>/traits_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/traits_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.tutorial_l_englishyml]
+file_filter = pliki/<lang>/tutorial_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/tutorial_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.tutorial_reactive_l_englishyml]
+file_filter = pliki/<lang>/tutorial_reactive_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/tutorial_reactive_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.units_l_englishyml]
+file_filter = pliki/<lang>/units_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/units_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.war_declared_overview_window_l_englishyml]
+file_filter = pliki/<lang>/war_declared_overview_window_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/war_declared_overview_window_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.war_results_window_l_englishyml]
+file_filter = pliki/<lang>/war_results_window_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/war_results_window_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczenie.wars_l_englishyml]
+file_filter = pliki/<lang>/wars_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/wars_l_english.yml
+source_lang = en
+type = YAML_GENERIC
