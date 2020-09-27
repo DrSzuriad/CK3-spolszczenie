@@ -1,9 +1,0 @@
-﻿l_english:
- ALL_PROVINCES:0 "Wszystkie baronie:"
- ANY_PROVINCE:0 "Dowolna baronia:"
- ALL_REALM_PROVINCES:0 "Wszystkie baronie w królestwie:"
- ANY_REALM_PROVINCE:0 "Dowolna baronia w królestwie:"
- ALL_OF_MY_REALM_PROVINCES:0 "Wszystkie twoje baronie w królestwie:"
- ANY_OF_MY_REALM_PROVINCES:0 "Dowolna baronia w twoim królestwie:"
- ALL_OF_THEIR_REALM_PROVINCES:0 "All of [CHARACTER.GetShortUINamePossessive] Realm Baronies:"
- ANY_OF_THEIR_REALM_PROVINCES:0 "Any of [CHARACTER.GetShortUINamePossessive] Realm Baronies:"
