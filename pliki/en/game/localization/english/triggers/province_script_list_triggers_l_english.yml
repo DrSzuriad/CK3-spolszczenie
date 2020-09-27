@@ -1,0 +1,9 @@
+﻿l_english:
+ ALL_PROVINCES: "All Baronies:"
+ ANY_PROVINCE: "Any Barony:"
+ ALL_REALM_PROVINCES: "All Realm Baronies:"
+ ANY_REALM_PROVINCE: "Any Realm Barony:"
+ ALL_OF_MY_REALM_PROVINCES: "All of your Realm Baronies:"
+ ANY_OF_MY_REALM_PROVINCES: "Any of your Realm Baronies:"
+ ALL_OF_THEIR_REALM_PROVINCES: "All of [CHARACTER.GetShortUINamePossessive] Realm Baronies:"
+ ANY_OF_THEIR_REALM_PROVINCES: "Any of [CHARACTER.GetShortUINamePossessive] Realm Baronies:"

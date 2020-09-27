@@ -1,0 +1,8 @@
+﻿l_english:
+ LV_HEADER: "Poborowi"
+ LV_COUNTS: "[LevyView.GetLivingCount|0]/[LevyView.GetMaxCount|0]"
+ LV_FLAVOR: ""
+ LV_RAISED: ""
+ LV_UNRAISED: ""
+ LV_MAINTENANCE: "Utrzymanie: [gold_i][LevyView.GetMaintenanceCost|2]/miesiąc"
+ LV_NO_COUNTERS: ""

@@ -1,0 +1,12 @@
+﻿l_english:
+ EDIT_BANNERS_LABEL: "Edytuj"
+ EDIT_BANNERS_TOOLTIP: "#T Edytuj punkt zborny#!"
+ RAISE_BANNER: "Wystaw Armię"
+ BANNER_RAISES_TIME: "$TIME_TO_RAISE$ $VALUE|0$ dni"
+ BANNER_NUMBER_OF_MEN: "[soldiers|E]: $VALUE|0$"
+ BANNER_ALREADY_RAISED: ""
+ BANNER_NOT_BEING_RAISED: ""
+ BANNER_RAISE_PROMPT: "#T Zbierz armię i wszystkich żołnierzy przydzielonych do tego punktu zbornego#!"
+ BANNER_CANCEL_RAISING: "Anuluj wystawianie"
+ BANNER_CANCEL_RAISING_PROMPT: ""
+ BANNER_LIST_DOMAIN_LIMIT_PENALTY_TOOLTIP: ""

@@ -1,0 +1,8 @@
+﻿l_english:
+ house_head_interaction_header: "[house_head_interaction|E]\n"
+ demand_conversion_interaction: "Zażądaj rozmowy"
+ demand_conversion_interaction_desc: ""
+ demand_conversion_interaction_extra_icon: "$hook_extra_icon$"
+ call_house_member_to_war_interaction: ""
+ call_house_member_to_war_interaction_desc: ""
+ call_house_member_to_war_interaction_extra_icon: "$hook_extra_icon$"

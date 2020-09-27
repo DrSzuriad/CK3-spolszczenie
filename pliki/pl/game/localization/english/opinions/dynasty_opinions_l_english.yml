@@ -1,0 +1,10 @@
+﻿l_english:
+ disinherited_opinion: "Wydziedziczone"
+ disinherited_house_member_opinion: "Wydziedziczono członka [house|E]"
+ restored_inheritance_opinion: "Przywrócone dziedzictwo"
+ restored_house_member_inheritance_opinion: "Przywrócono dziedziczenie członków [house|E]"
+ denounced_opinion: "Potępiony"
+ denounced_house_member_opinion: "Potępiono członka [dynastii|E]"
+ denounced_trait_crime: "Potępiony przez [dynast|E]"
+ forgave_denounced_opinion: "Został potępiony"
+ forgave_house_member_opinion: "Wybacz członkowi Domu"

@@ -1,0 +1,11 @@
+﻿l_english:
+ imprisoned_me:0 "W lochu"
+ imprisoned_close_relative:0 "Uwięziony bliski krewny"
+ released_from_prison:0 "Wypuszczon[Select_CString( CHARACTER.IsFemale, 'a', 'y' )] z lochu"
+ demanded_conversion:0 "Zażądana rozmowa"
+ demanded_claim_renouncement:0 "[Select_CString( CHARACTER.IsFemale, 'Zmuszona', 'Zmuszony' )]do zrzeknięcia się roszczeń"
+ banished_me:0 "Wygnan[Select_CString( CHARACTER.IsFemale, 'a', 'y' )]"
+ demanded_taking_vows:0 "Żądanie złożenia ślubów"
+ demanded_recruitment:0 "Zaciągnięt[Select_CString( CHARACTER.IsFemale, 'a', 'y' )] siłą"
+ ransomed_from_prison:0 "Niedawno wykupion[Select_CString( CHARACTER.IsFemale, 'a', 'y' )]"
+ abductor_opinion:0 "Porywacz"
