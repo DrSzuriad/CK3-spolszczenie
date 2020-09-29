@@ -3409,3 +3409,178 @@ minimum_perc = 0
 source_file = pliki/en/game/localization/english/event_localization/yearly_events/yearly_events_sahara_l_english.yml
 source_lang = en
 type = YAML_GENERIC
+
+
+
+
+
+[spolszczeniev2.loadsave_l_englishjominiyml]
+file_filter = pliki/<lang>/jomini/localization/loadsave_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/jomini/localization/loadsave_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczeniev2.achievements_l_englishjominiyml]
+file_filter = pliki/<lang>/jomini/localization/achievements/achievements_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/jomini/localization/achievements/achievements_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczeniev2.credits_l_englishjominiyml]
+file_filter = pliki/<lang>/jomini/localization/credits/credits_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/jomini/localization/credits/credits_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczeniev2.frontend_l_englishjominiyml]
+file_filter = pliki/<lang>/jomini/localization/frontend/frontend_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/jomini/localization/frontend/frontend_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczeniev2.pops_gui_l_englishjominiyml]
+file_filter = pliki/<lang>/jomini/localization/pops/pops_gui_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/jomini/localization/pops/pops_gui_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczeniev2.settings_l_englishjominiyml]
+file_filter = pliki/<lang>/jomini/localization/settings/settings_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/jomini/localization/settings/settings_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczeniev2.social_l_englishjominiyml]
+file_filter = pliki/<lang>/jomini/localization/social/social_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/jomini/localization/social/social_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczeniev2.date_l_englishjominiyml]
+file_filter = pliki/<lang>/jomini/localization/jomini/date_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/jomini/localization/jomini/date_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczeniev2.errors_l_englishjominiyml]
+file_filter = pliki/<lang>/jomini/localization/jomini/errors_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/jomini/localization/jomini/errors_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczeniev2.formatting_l_englishjominiyml]
+file_filter = pliki/<lang>/jomini/localization/jomini/formatting_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/jomini/localization/jomini/formatting_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczeniev2.jomini_graphics_settings_l_englishjominiyml]
+file_filter = pliki/<lang>/jomini/localization/jomini/jomini_graphics_settings_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/jomini/localization/jomini/jomini_graphics_settings_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczeniev2.jomini_portraits_l_englishjominiyml]
+file_filter = pliki/<lang>/jomini/localization/jomini/jomini_portraits_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/jomini/localization/jomini/jomini_portraits_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczeniev2.notifications_l_englishjominiyml]
+file_filter = pliki/<lang>/jomini/localization/jomini/notifications_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/jomini/localization/jomini/notifications_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczeniev2.coat_of_arms_l_englishjominiyml]
+file_filter = pliki/<lang>/jomini/localization/jomini/coat_of_arms/coat_of_arms_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/jomini/localization/jomini/coat_of_arms/coat_of_arms_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczeniev2.map_editor_gui_l_englishjominiyml]
+file_filter = pliki/<lang>/jomini/localization/jomini/map_editor/map_editor_gui_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/jomini/localization/jomini/map_editor/map_editor_gui_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczeniev2.multiplayer_gui_l_englishjominiyml]
+file_filter = pliki/<lang>/jomini/localization/jomini/multiplayer_gui/multiplayer_gui_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/jomini/localization/jomini/multiplayer_gui/multiplayer_gui_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczeniev2.script_system_l_englishjominiyml]
+file_filter = pliki/<lang>/jomini/localization/jomini/script_system/script_system_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/jomini/localization/jomini/script_system/script_system_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+
+
+
+[spolszczeniev2.cw_date_l_englishclausewitzyml]
+file_filter = pliki/<lang>/clausewitz/localization/cw_date_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/clausewitz/localization/cw_date_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczeniev2.cw_localize_l_englishclausewitzyml]
+file_filter = pliki/<lang>/clausewitz/localization/cw_localize_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/clausewitz/localization/cw_localize_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczeniev2.cw_settings_l_englishclausewitzyml]
+file_filter = pliki/<lang>/clausewitz/localization/cw_settings_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/clausewitz/localization/cw_settings_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczeniev2.cw_settings_warnings_l_englishclausewitzyml]
+file_filter = pliki/<lang>/clausewitz/localization/cw_settings_warnings_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/clausewitz/localization/cw_settings_warnings_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczeniev2.cw_tools_l_englishclausewitzyml]
+file_filter = pliki/<lang>/clausewitz/localization/cw_tools_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/clausewitz/localization/cw_tools_l_english.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczeniev2.languagesclausewitzyml]
+file_filter = pliki/<lang>/clausewitz/localization/languages.yml
+minimum_perc = 0
+source_file = pliki/en/clausewitz/localization/languages.yml
+source_lang = en
+type = YAML_GENERIC
+
+[spolszczeniev2.clausewitzyml]
+file_filter = pliki/<lang>/clausewitz/localization/text_utils/cw_text_utils_l_english.yml
+minimum_perc = 0
+source_file = pliki/en/clausewitz/localization/text_utils/cw_text_utils_l_english.yml
+source_lang = en
+type = YAML_GENERIC

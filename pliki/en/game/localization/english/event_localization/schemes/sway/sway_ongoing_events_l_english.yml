@@ -13,7 +13,7 @@
  sway_ongoing.1004.desc: "Our recent correspondence has left much to desire. Please refrain from personal remarks in the future."
  sway_ongoing.1004.a: "Oh no..."
  sway_ongoing.1005.t: "Sway: The Good [target.GetTitleAsNameNoTooltip]"
- sway_ongoing.1005.desc: "While hosting lords and ladies from realms near and far some opportunities to portray [target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)] in a good light have presented themselves.\n\n\"My [ROOT.Char.GetLadyLord], pray tell, who is the most [target.Custom('FormalComplimentAdjective')] person you have heard of?\""
+ sway_ongoing.1005.desc: "While hosting lords and ladies from realms near and far, some opportunities to portray [target.Custom2('MyCharacterIntroductionNoComma', ROOT.Char)], in a good light have presented themselves.\n\n\"My [ROOT.Char.GetLadyLord], pray tell, who is the most [target.Custom('FormalComplimentAdjective')] person you have heard of?\""
  sway_ongoing.1005.a: "[target.GetTitledFirstNameNoTooltip], without a doubt!"
  sway_ongoing.1005.b: "Well, me, of course!"
  sway_ongoing.1006.t: "Sway: Infiltrators"

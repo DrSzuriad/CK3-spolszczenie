@@ -1,9 +1,9 @@
 ﻿l_english:
 
- RECENT_HISTORY_TRIGGER:0 "Was $HISTORY|V$ in recent $DURATION$"
- NOT_RECENT_HISTORY_TRIGGER:0 "Was #bold not#! $HISTORY|V$ in recent $DURATION$"
- RECENT_HISTORY_TRIGGER_THIRD:0 "#V [TITLE.GetName]#! was $HISTORY|V$ in recent $DURATION$"
- NOT_RECENT_HISTORY_TRIGGER_THIRD:0 "#V [TITLE.GetName]#! was #bold not#! $HISTORY|V$ in recent $DURATION$"
+ RECENT_HISTORY_TRIGGER:1 "Was $HISTORY|V$ recently (within $DURATION$)"
+ NOT_RECENT_HISTORY_TRIGGER:1 "Was #bold not#! $HISTORY|V$ recently (within $DURATION$)"
+ RECENT_HISTORY_TRIGGER_THIRD:1 "#V [TITLE.GetName]#! was $HISTORY|V$ recently (within $DURATION$)"
+ NOT_RECENT_HISTORY_TRIGGER_THIRD:1 "#V [TITLE.GetName]#! was #bold not#! $HISTORY|V$ recently (within $DURATION$)"
 
  IS_CONTESTED_TRIGGER:0 "Is contested in a [war|E]."
  NOT_IS_CONTESTED_TRIGGER:0 "Is #bold not#! contested in a [war|E]."
@@ -77,3 +77,8 @@
 
  CONSECRATE_BLOODLINE_ENOUGH_HOLY_SITES:1 "You control one or more [CHARACTER.GetFaith.GetAdjective] [holy_sites|E]"
  CONSECRATE_BLOODLINE_NOT_ENOUGH_HOLY_SITES:1 "You do #bold not#! control any of the [CHARACTER.GetFaith.GetAdjective] [holy_sites|E]"
+ 
+ HAS_REVOCABLE_LEASE_TRIGGER:0 "Has a revocable lease"
+ HAS_ORDER_OF_SUCCESSION_TRIGGER:0 "Has order of succession"
+ HAS_TITLE_LAW_FLAG_TRIGGER:0 "Has title law: $LAW$"
+ IS_TITULAR_TRIGGER:0 "Is [titular_title|E]"

@@ -23,6 +23,12 @@
  ACHIEVEMENT_FILTER_UNLOCKED_TOOLTIP:0 "Filter the list of Achievements to display unlocked Achievements"
  ACHIEVEMENT_FILTER_LOCKED_TOOLTIP:0 "Filter the list of Achievements to display locked Achievements"
  ACHIEVEMENT_FILTER_POSSIBLE_TOOLTIP:0 "Filter the list of Achievements to display all Achievements possible in the current playthrough"
+ 
+ ACHIEVEMENT_FILTER_BUTTON_ALL:0 "All"
+ ACHIEVEMENT_FILTER_BUTTON_UNLOCKED:0 "Unlocked"
+ ACHIEVEMENT_FILTER_BUTTON_LOCKED:0 "Locked"
+ ACHIEVEMENT_FILTER_BUTTON_POSSIBLE:0 "Possible"
+ ACHIEVEMENT_FILTER_SHOW:0 "Show Achievements:"
 
  rule_difficulty:0 "Difficulty"
  setting_easy_difficulty:1 "#high Easy#!"
@@ -105,7 +111,7 @@
  setting_random_ruler_placement_on:0 "On"
  setting_random_ruler_placement_on_desc:0 "Rulers are randomly placed on the map. The Realms are largely the same, but Titles are held by different rulers."
  setting_random_ruler_placement_on_conversion:0 "On (Conversion)"
- setting_random_ruler_placement_on_conversion_desc:0 "Rulers are randomly placed on the map. They convert to the local Faith."
+ setting_random_ruler_placement_on_conversion_desc:1 "Rulers are randomly placed on the map. They convert to the historical holder's Faith."
  
  rule_diplomatic_range:0 "Diplomatic Range"
  setting_default_diplomatic_range:0 "Default"

@@ -47,6 +47,8 @@
  PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_crusades_western_war_nobility_02_common:0 "Knight Hospitaller"
  PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_crusades_western_war_nobility_03_common:0 "Knight of the Holy Sepulchre"
  PORTRAIT_MODIFIER_custom_clothes_male_clothes_secular_crusades_western_war_nobility_04_common:0 "Crusader"
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_crusades_western_war_nobility_01:0 "Crusader"
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_crusades_western_war_nobility_01:0 "Crusader"
 
 ### Female ###
  PORTRAIT_MODIFIER_custom_clothes_female_clothes_secular_western_nobility_01_common:0 "Western Commoner Clothing 1"

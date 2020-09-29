@@ -371,6 +371,8 @@
  dynn_Hauteville_motto:0 "God's Hand Made Wonders, God's Hand Made Me"
  dynn_Renart_motto:0 "Cunning as the Fox"
  dynn_Tengil_motto:0 "All makt åt Tengil, vår befriare!"
+ 	#Paraphrasing Alfred the Great:
+ dynn_Wessex_motto:0 "What punishments may befall us when we do not cherish or transmit learning?"
  
  # Scripted (Easter Egg)
  dynn_Oltner_motto:0 "Hungry Like the Duck"
@@ -425,3 +427,5 @@
  dynn_Wendel_motto:0 "Saevitas Wendelicus"
  dynn_Daflos_motto:0 "Forward!"
  dynn_Collin_motto:0 "I do happy little accidents"
+ dynn_Harris_motto:0 "Holders of Quill and Sword"
+ dynn_Cywinski_motto:0 "The bigger, the stronger"

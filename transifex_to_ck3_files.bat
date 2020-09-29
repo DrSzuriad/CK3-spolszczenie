@@ -4,12 +4,12 @@ set charset="empty"
 set project_folder="Spolszczenie_CK3"
 set parser_version="0.1.11"
 
-:: LOGIC
+
 echo "Starting conversion of translated files from Transifex into the EU4 format for workshop delivery and automated mod building."
 echo "Removing temp directory - might say does not exist. That is normal, just a precaution."
 rd /s /q temp
-mkdir temp
 echo "Starting compiling latest source strings directory for CK3 format into the temp supply directory"
+::game
 java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_supply" "pliki\\%language%\\game\\localization\\english" "pliki\\en\\game\\localization\\english" "temp\\supply\\game\\localization\\english" yaml
 java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_supply" "pliki\\%language%\\game\\localization\\english\\bookmark" "pliki\\en\\game\\localization\\english\\bookmark" "temp\\supply\\game\\localization\\english\\bookmark" yaml
 java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_supply" "pliki\\%language%\\game\\localization\\english\\credits" "pliki\\en\\game\\localization\\english\\credits" "temp\\supply\\game\\localization\\english\\credits" yaml
@@ -64,8 +64,25 @@ java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar"
 java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_supply" "pliki\\%language%\\game\\localization\\english\\event_localization\\schemes\\murder" "pliki\\en\\game\\localization\\english\\event_localization\\schemes\\murder" "temp\\supply\\game\\localization\\english\\event_localization\\schemes\\murder" yaml
 java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_supply" "pliki\\%language%\\game\\localization\\english\\event_localization\\schemes\\seduce" "pliki\\en\\game\\localization\\english\\event_localization\\schemes\\seduce" "temp\\supply\\game\\localization\\english\\event_localization\\schemes\\seduce" yaml
 java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_supply" "pliki\\%language%\\game\\localization\\english\\event_localization\\schemes\\sway" "pliki\\en\\game\\localization\\english\\event_localization\\schemes\\sway" "temp\\supply\\game\\localization\\english\\event_localization\\schemes\\sway" yaml
+::jomini
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_supply" "pliki\\%language%\\jomini\\localization" "pliki\\en\\jomini\\localization" "temp\\supply\\jomini\\localization" yaml
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_supply" "pliki\\%language%\\jomini\\localization\\achievements" "pliki\\en\\jomini\\localization\\achievements" "temp\\supply\\jomini\\localization\\achievements" yaml
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_supply" "pliki\\%language%\\jomini\\localization\\credits" "pliki\\en\\jomini\\localization\\credits" "temp\\supply\\jomini\\localization\\credits" yaml
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_supply" "pliki\\%language%\\jomini\\localization\\frontend" "pliki\\en\\jomini\\localization\\frontend" "temp\\supply\\jomini\\localization\\frontend" yaml
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_supply" "pliki\\%language%\\jomini\\localization\\jomini" "pliki\\en\\jomini\\localization\\jomini" "temp\\supply\\jomini\\localization\\jomini" yaml
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_supply" "pliki\\%language%\\jomini\\localization\\pops" "pliki\\en\\jomini\\localization\\pops" "temp\\supply\\jomini\\localization\\pops" yaml
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_supply" "pliki\\%language%\\jomini\\localization\\settings" "pliki\\en\\jomini\\localization\\settings" "temp\\supply\\jomini\\localization\\settings" yaml
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_supply" "pliki\\%language%\\jomini\\localization\\social" "pliki\\en\\jomini\\localization\\social" "temp\\supply\\jomini\\localization\\social" yaml
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_supply" "pliki\\%language%\\jomini\\localization\\jomini\\coat_of_arms" "pliki\\en\\jomini\\localization\\jomini\\coat_of_arms" "temp\\supply\\jomini\\localization\\jomini\\coat_of_arms" yaml
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_supply" "pliki\\%language%\\jomini\\localization\\jomini\\map_editor" "pliki\\en\\jomini\\localization\\jomini\\map_editor" "temp\\supply\\jomini\\localization\\jomini\\map_editor" yaml
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_supply" "pliki\\%language%\\jomini\\localization\\jomini\\multiplayer_gui" "pliki\\en\\jomini\\localization\\jomini\\multiplayer_gui" "temp\\supply\\jomini\\localization\\jomini\\multiplayer_gui" yaml
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_supply" "pliki\\%language%\\jomini\\localization\\jomini\\script_system" "pliki\\en\\jomini\\localization\\jomini\\script_system" "temp\\supply\\jomini\\localization\\jomini\\script_system" yaml
+::clausewitz
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_supply" "pliki\\%language%\\clausewitz\\localization" "pliki\\en\\clausewitz\\localization" "temp\\supply\\clausewitz\\localization" yaml
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_supply" "pliki\\%language%\\clausewitz\\localization\\text_utils" "pliki\\en\\clausewitz\\localization\\text_utils" "temp\\supply\\clausewitz\\localization\\text_utils" yaml
 
 echo "Starting compiling latest translations to desired language - in this case - polish."
+::game
 java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_to_eu4" "temp\\supply\\game\\localization\\english" "temp\\ck3\\game\\localization\\english" "%charset%"
 java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_to_eu4" "temp\\supply\\game\\localization\\english\\bookmark" "temp\\ck3\\game\\localization\\english\\bookmark" "%charset%"
 java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_to_eu4" "temp\\supply\\game\\localization\\english\\credits" "temp\\ck3\\game\\localization\\english\\credits" "%charset%"
@@ -119,10 +136,30 @@ java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar"
 java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_to_eu4" "temp\\supply\\game\\localization\\english\\event_localization\\schemes\\murder" "temp\\ck3\\game\\localization\\english\\event_localization\\schemes\\murder" "%charset%"
 java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_to_eu4" "temp\\supply\\game\\localization\\english\\event_localization\\schemes\\seduce" "temp\\ck3\\game\\localization\\english\\event_localization\\schemes\\seduce" "%charset%"
 java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_to_eu4" "temp\\supply\\game\\localization\\english\\event_localization\\schemes\\sway" "temp\\ck3\\game\\localization\\english\\event_localization\\schemes\\sway" "%charset%"
+::jomini
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_to_eu4" "temp\\supply\\jomini\\localization" "temp\\ck3\\jomini\\localization" "%charset%"
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_to_eu4" "temp\\supply\\jomini\\localization\\achievements" "temp\\ck3\\jomini\\localization\\achievements" "%charset%"
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_to_eu4" "temp\\supply\\jomini\\localization\\credits" "temp\\ck3\\jomini\\localization\\credits" "%charset%"
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_to_eu4" "temp\\supply\\jomini\\localization\\frontend" "temp\\ck3\\jomini\\localization\\frontend" "%charset%"
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_to_eu4" "temp\\supply\\jomini\\localization\\jomini" "temp\\ck3\\jomini\\localization\\jomini" "%charset%"
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_to_eu4" "temp\\supply\\jomini\\localization\\pops" "temp\\ck3\\jomini\\localization\\pops" "%charset%"
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_to_eu4" "temp\\supply\\jomini\\localization\\settings" "temp\\ck3\\jomini\\localization\\settings" "%charset%"
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_to_eu4" "temp\\supply\\jomini\\localization\\social" "temp\\ck3\\jomini\\localization\\social" "%charset%"
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_to_eu4" "temp\\supply\\jomini\\localization\\jomini\\coat_of_arms" "temp\\ck3\\jomini\\localization\\jomini\\coat_of_arms" "%charset%"
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_to_eu4" "temp\\supply\\jomini\\localization\\jomini\\map_editor" "temp\\ck3\\jomini\\localization\\jomini\\map_editor" "%charset%"
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_to_eu4" "temp\\supply\\jomini\\localization\\jomini\\multiplayer_gui" "temp\\ck3\\jomini\\localization\\jomini\\multiplayer_gui" "%charset%"
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_to_eu4" "temp\\supply\\jomini\\localization\\jomini\\script_system" "temp\\ck3\\jomini\\localization\\jomini\\script_system" "%charset%"
+::clausewitz
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_to_eu4" "temp\\supply\\clausewitz\\localization" "temp\\ck3\\clausewitz\\localization" "%charset%"
+java -jar "tools\\LocaleParser\\bin\\LocaleParser-%parser_version%-SNAPSHOT.jar" "folder_to_eu4" "temp\\supply\\clausewitz\\localization\\text_utils" "temp\\ck3\\clausewitz\\localization\\text_utils" "%charset%"
+
+
 cd "%project_folder%"
 echo "Removing old localisations"
 del /s /f /q game
 mkdir game
+del /s /f /q jomini
+mkdir jomini
 cd ../
 echo "Copying new localisation"
 xcopy /s temp\\ck3 "%project_folder%"

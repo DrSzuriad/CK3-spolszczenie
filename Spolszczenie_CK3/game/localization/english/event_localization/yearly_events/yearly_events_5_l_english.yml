@@ -45,7 +45,7 @@
  yearly.5006.epilogue.desc:0 "Unable to face the guilt of [bickering_winner.GetHerHis] actions, [bickering_winner.GetSheHe] has decided to abandon the court and dedicate [bickering_winner.GetHerHis] life to [bickering_winner.GetFaith.HighGodNamePossessive]."
  yearly.5006.b.forgiven:0 "Go in peace then, if that is what you wish."
  yearly.5006.b.upset:0 "How could you do this to me?!"
- yearly.5006.b.default:0 "I see..."
+ yearly.5006.b.default:0 "Rozumiem..."
  yearly.5007.t:0 "Dull Nights"
  yearly.5007.desc:0 "I have often found myself thinking about my last encounter with [bickering_loser.GetFirstName] in the past few weeks. It has been a long time since life felt as meaningful as it did when I had [bickering_loser.GetHerHis] blood warming my skin. \n\n[scoped_ruler.GetFirstName] also seems to feel the same: we have never been as close as when we shared the intimate thrill of murder, yet now we are slowly drifting apart..."
  yearly.5007.a:0 "Perhaps it is time to stoke the flames."

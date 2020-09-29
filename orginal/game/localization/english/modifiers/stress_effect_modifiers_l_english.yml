@@ -15,8 +15,6 @@
  stress_hashish_habit_desc:0 "It is rare to find this character sober these days."
  stress_hashish_stupor:0 "Hashish Stupor"
  stress_hashish_stupor_desc:1 "This character has drugged themselves into a stupor."
- stress_poppy_haze:0 "Poppy Haze"
- stress_poppy_haze_desc:0 "The haze of opium often fills this character's mind of late."
  stress_inappetetic_hunger_1:0 "Famished"
  stress_inappetetic_hunger_1_desc:0 "This character is not eating enough food to stay healthy."
  stress_inappetetic_hunger_2:0 "Starved"

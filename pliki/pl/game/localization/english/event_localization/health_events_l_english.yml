@@ -221,6 +221,7 @@
  health.3101.d: ""
  health.3101.e: ""
  health.3101.e.tt: ""
+ health.3101.f: ""
  safe_diseaste_treatment.tt: ""
  risky_diseaste_treatment.tt: ""
  mystic_diseaste_treatment.tt: ""
@@ -436,3 +437,5 @@
  health.6210.a: ""
  health.5000.desc: ""
  health.5001.desc: ""
+ health.5002.desc: ""
+ health.5003.desc: ""

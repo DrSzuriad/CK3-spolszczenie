@@ -1,9 +1,9 @@
 ﻿l_english:
  RANDOM_COUNT: "Losowy hrabia"
- RANDOM_SEED: ""
+ RANDOM_SEED: "Losowe ziarno"
  GAMESTATE_CHECKSUM: ""
  LIVING_CHARACTERS: "Żyjące postaci"
  MULTIPLAYER_GUI_PUBLIC_MICROSOFT_ONLY: ""
  MULTIPLAYER_GUI_PUBLIC_MICROSOFT_ONLY_TT: ""
  MULTIPLAYER_GUI_CLICK_TO_SELECT: "Kliknij mapę, aby wybrać [Concept( 'character', 'postać' )|E], którą chcesz zagrać"
- MULTIPLAYER_GUI_SERVER_BROWSER_PASTE_ID: ""
+ MULTIPLAYER_GUI_SERVER_BROWSER_PASTE_ID: "#T Wklej ID serwera ze schowka#!"

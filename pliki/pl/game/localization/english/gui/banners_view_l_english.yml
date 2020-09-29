@@ -45,4 +45,4 @@
  BANNER_CANT_RAISE_NOT_IN_WAR: ""
  CREATE_RALLY_POINT: "Utwórz punkt zborny"
  RALLY_POINT_CHOOSE_LOCATION: "Wybierz lokalizację na mapie"
- RALLY_POINT_MAP_INSTRUCTION: "#| Kliknij LPM, aby wybrać lokalizację\nKliknij PPM, aby anulować"
+ RALLY_POINT_MAP_INSTRUCTION: ""

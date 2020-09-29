@@ -1,5 +1,5 @@
 ﻿l_english:
- ALL_CLAIMANTS:0 "All [claimants|E]"
+ ALL_CLAIMANTS:0 "Wszyscy [Concept( 'claimants', 'pretendenci' )|E]"
  ANY_CLAIMANT:0 "Any [claimant|E]"
  ANY_CHILD:0 "Any Child:"
  ANY_CHILD_FIRST:0 "Any of my Children:"

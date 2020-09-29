@@ -81,6 +81,8 @@
  POPS_LOGIN_BIND_STEAM:0 "Use Steam to login automatically"
  POPS_LOGIN_DISCONNECT_STEAM_FAILURE:0 "Failed to disconnect account from Steam"
  POPS_LOGIN_CONNECT_STEAM_FAILURE:0 "Failed to connect account to Steam"
+ POPS_LOGIN_MESSAGE:0 "$MESSAGE$"
+ POPS_LOGIN_UNKNOWN_ERROR:1 "An unknown error occurred: $ERROR$"
  POPS_LOGIN_EMPTY_USERNAME:0 "Username can't be empty"
  POPS_LOGIN_CHANGE_USERNAME_SUCCESS:0 "#P Success#!"
  POPS_LOGIN_username-exists:0 "Username already exists"

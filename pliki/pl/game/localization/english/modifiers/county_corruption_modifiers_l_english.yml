@@ -8,7 +8,7 @@
  county_corruption_bandits_rampant_modifier: ""
  county_corruption_bandits_rampant_modifier_desc: ""
  county_corruption_inefficient_census_modifier: "Nieskuteczny spis ludności"
- county_corruption_inefficient_census_modifier_desc: "Nie mamy pojęcia, kto, a także ile osób mieszka w tym hrabstwie"
+ county_corruption_inefficient_census_modifier_desc: ""
  county_corruption_lack_of_sheriffs_modifier: ""
  county_corruption_lack_of_sheriffs_modifier_desc: ""
  county_corruption_lack_of_courts_modifier: ""
@@ -26,4 +26,3 @@
  gain_county_corruption.message.county_corruption: ""
  gain_county_corruption.message.desc: "[county_corruption|E]:\n$EFFECT$"
  remove_county_corruption.message.marshal_removal: ""
- remove_county_corruption.message: ""

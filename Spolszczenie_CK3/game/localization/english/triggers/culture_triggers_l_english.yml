@@ -3,6 +3,7 @@
  NOT_HAS_INNOVATION_THIRD:0 "The [CULTURE.GetName] culture does #bold not#! have the [INNOVATION.GetName] innovation"
  MUST_BE_UNLOCKED_BY_DECISION:0 "Must be unlocked by decision"
  HAS_CULTURAL_ERA_OR_LATER:0 "Kultura [CULTURE.GetName|U] weszła w erę $ERA$"
+ NOT_HAS_CULTURAL_ERA_OR_LATER:0 "[CULTURE.GetName|U] culture has #bold not#! reached $ERA$ era"
  DE_JURE_DRIFTING_TOWARDS_TRIGGER:0 "[TITLE.GetName] is de jure drifting towards [TARGET_TITLE.GetName]"
  NOT_DE_JURE_DRIFTING_TOWARDS_TRIGGER:0 "[TITLE.GetName] is #bold not#! de jure drifting towards [TARGET_TITLE.GetName]"
  DE_JURE_DRIFTING_TOWARDS_THIRD_TRIGGER:0 "Is de jure drifting towards [TARGET_TITLE.GetName]"

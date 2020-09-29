@@ -3,7 +3,7 @@
  CHARACTER_SORT_ALL_SKILLS:0 "Suma wszystkich umiejętności"
  POTENTIAL_COUNCILLOR_REASSIGN:0 "Reassign"
  POTENTIAL_COUNCILLOR_ASSIGN:0 "Przydziel"
- POTENTIAL_COUNCILLOR_SWAP:0 "Swap"
+ POTENTIAL_COUNCILLOR_SWAP:0 "Zmień"
  FIRE_COUNCILLOR_CONFIRMATION_DESCRIPTION:0 "[CHARACTER.GetShortUINameNoTooltip] will be fired from my council."
  FIRE_COUNCILLOR_CONFIRMATION_DESCRIPTION_WITH_EFFECT:0 "[CHARACTER.GetShortUINameNoTooltip] will be fired from my council having the following efffect:"
  POTENTIAL_COUNCILLOR_ASSIGN_TT_TITLE:0 "#T Assign to $NAME$ position#!"

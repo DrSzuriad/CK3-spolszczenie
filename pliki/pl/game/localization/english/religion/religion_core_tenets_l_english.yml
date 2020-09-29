@@ -1,5 +1,6 @@
 ﻿l_english:
  doctrine_core_tenets_name: "Dogmaty:"
+ tenets_name: "Dogmaty"
  tenet_communion_name: "Komunia"
  tenet_communion_desc: ""
  doctrine_parameter_seek_indulgences_active: ""
@@ -36,6 +37,7 @@
  doctrine_parameter_human_sacrifice_active: ""
  doctrine_parameter_flower_war_cb_active: ""
  tenet_consolamentum_name: "Consolamentum"
+ tenet_consolamentum_name_alternate: ""
  tenet_consolamentum_desc: ""
  doctrine_parameter_consolamentum_active: ""
  tenet_gnosticism_name: "Gnostycyzm"

@@ -1,6 +1,5 @@
 ﻿l_english:
- KILL_LIST:0 "Lista zabójstw"
- KILL_LIST_LABEL:0 "Zabójstwa - [KillListWindow.GetCharacter.GetUIName]"
- OPEN_KILL_LIST_TOOLTIP:0 "Otwórz listę zabójstw"
+ KILL_LIST:0 "Zabójstwa - [KillListWindow.GetCharacter.GetUIName]"
+ OPEN_KILL_LIST_TOOLTIP:0 "#I Click to open Kill List#!"
  DEATH_DATE:0 "Data śmierci"
  DEATH_REASON:0 "Przyczyna śmierci"

@@ -86,3 +86,5 @@
  other_faith_neighbor_created_holy_order_message: "[holy_order_creator.GetTitledFirstName] has founded the [new_holy_order.GetName]!"
  my_faith_holy_order_disbanded_message: "The [holy_order.GetName] is no more. Their territory has been lost, and their military organization disbanded."
  my_holy_order_new_lease_message: "The [holy_order.GetName] have established themselves in [barony.GetNameNoTier]. Their strength grows."
+ is_holy_order_trigger: "Is a [holy_order|E]"
+ CONTROLS_HOLY_SITE_TRIGGER: "Controls holy site: $TITLE$"

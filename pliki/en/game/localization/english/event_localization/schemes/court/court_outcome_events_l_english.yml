@@ -15,7 +15,7 @@
  court_outcome.kiss.tt: "[target.GetShortUIName|U] and I share a kiss"
  court_outcome.0001.a.tt: "I go ahead with my attempt to Romance [target.GetTitledFirstName]"
  court_outcome.1000.t: "$court_event_title$ The Wild Hunt"
- court_outcome.1000.i_invite.desc: "When [target_host.Custom2('NamePossessiveCharacterIntroduction', target)] suggested a hunt, I did not hesitate to organize one. I would do anything for a mere glimpse of my [target.Custom('LoverPetName')]!"
+ court_outcome.1000.i_invite.desc: "When [target.GetTitledFirstName] suggested a hunt, I did not hesitate to organize one. I would do anything for a mere glimpse of my [target.Custom('LoverPetName')]!"
  court_outcome.1000.own_invite.desc: "When [target.GetFirstName] invited me to a hunt, I did not hesitate to accept. I could not imagine a more lovely sight than [target.GetHerHis] stunning profile atop the back of a stallion!"
  court_outcome.1000.liege_invite.desc: "When [target_host.Custom2('NamePossessiveCharacterIntroduction', target)] invited me to a hunt, I did not hesitate to accept. I would do anything for a mere glimpse of my [target.Custom('LoverPetName')]!"
  court_outcome.1000.end.desc: "\n\nI am stalking through the underbrush, my page at my heel and my hound just ahead. It seems as if it has found a trail! Then suddenly my concentration is shattered by a [target.GetWomanMan]'s scream!"

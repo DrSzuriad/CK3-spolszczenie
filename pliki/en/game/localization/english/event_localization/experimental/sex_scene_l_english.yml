@@ -40,7 +40,7 @@
  sex_scene.0003.opening_private_chambers_1: "With a beating heart I unlocked the door to let [second.GetHerHim] into my private chambers."
  sex_scene.0003.conclusion_private_chambers_1: "Hours later, we were still tracing patterns with caressing fingers, writing messages of love on each other's skin."
  sex_scene.0003.opening_stables_1: "The scandal it would cause if I had been caught with my [second.Custom2('RelationToMe', SCOPE.sC('second'))], but there was no one else in the stables that evening."
- sex_scene.0003.conclusion_stables_1: "I only hope that our moans of passion where drowned out by the stomping and whinnying of the horses."
+ sex_scene.0003.conclusion_stables_1: "I only hope that our moans of passion were drowned out by the stomping and whinnying of the horses."
  sex_scene.0003.opening_copse_1: "I met my [second.Custom2('RelationToMe', SCOPE.sC('second'))] in a copse not far from the [second.Custom('ResidenceBuilding')]. My heart was pounding, even though I knew no one would see us there..."
  sex_scene.0003.conclusion_copse_1: "For a while after [second.GetSheHe] had left, the grass I was lying in kept [second.GetHerHis] warmth."
  sex_scene.0003.opening_kitchen_1: "A servant could come into the kitchen at any time! I almost protested when [second.GetSheHe] pulled me towards a counter top, tugging at my [second.Custom('GetClothingArticle')]. But only almost."

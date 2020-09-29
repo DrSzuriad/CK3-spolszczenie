@@ -87,8 +87,8 @@
  rite_worship:0 "worship"
 
  # Pilgrimage Name
- pilgrimage_default_header:0 "Pilgrimage –"
- pilgrimage_hajj_header:0 "The Hajj –"
+ pilgrimage_default_header:1 "Pilgrimage:"
+ pilgrimage_hajj_header:1 "The Hajj:"
 
  # GHWs given by which tenet?
  ghw_from_which_tenet_armed_pilgrimages:0 "$tenet_armed_pilgrimages_name$"

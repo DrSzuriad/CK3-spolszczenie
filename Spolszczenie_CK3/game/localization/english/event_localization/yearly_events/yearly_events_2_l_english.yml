@@ -85,7 +85,7 @@
  yearly.1020.opening:0 "[vip.Custom2('AppropriateGreeting', ROOT.Char)]"
  yearly.1020.desc:0 "In a few days' time my [enemy.Custom('InsultAdjective')] [vip.Custom2('RelationToMeShort', SCOPE.sC('enemy'))], [enemy.GetTitledFirstName], will travel through [my_county.GetNameNoTierNoTooltip]. If you orchestrate an ambush and capture [enemy.GetHerHim], I will reward you generously.\n\nIf you accept my offer, you will get half of the money now, and the other half when you turn over [enemy.GetTitledFirstNameNoTooltip]. If [enemy.GetSheHe] should die in the fray, I will shed no tears, but I will not pay for [enemy.GetHerHis] corpse.\n\nI trust that the words on this parchment will stay between us. I look forward to your reply."
  yearly.1020.a:0 "I know the perfect place for an ambush..."
- yearly.1020.a.rl.t:0 "In a few days"
+ yearly.1020.a.rl.t:0 "W ciągu kilku dni"
  yearly.1020.a.capture.desc:0 "I capture [enemy.GetTitledFirstNameNoTooltip]"
  yearly.1020.a.capture.tt:0 "[vip.GetTitledFirstName] will hand over the rest of the money when [vip.GetSheHe] collects [enemy.GetTitledFirstName]"
  yearly.1020.a.escape.desc:0 "[enemy.GetTitledFirstNameNoTooltip] escapes"

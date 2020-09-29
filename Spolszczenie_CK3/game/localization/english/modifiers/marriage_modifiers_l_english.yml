@@ -1,2 +1,2 @@
 ﻿l_english:
- UNDER_CONCUBINE_LIMIT_PRESTIGE_PENALTY:0 "Poniżej limitu [concubine|E]"
+ UNDER_CONCUBINE_LIMIT_PRESTIGE_PENALTY:0 "Under [CHARACTER.Custom('ConcubineConsortGameConceptOpp')] limit"

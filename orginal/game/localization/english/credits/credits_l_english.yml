@@ -71,6 +71,7 @@
  TITLE_CONTENT_PRODUCER:1 "#credits_subheader Content Producer#!"
  TITLE_COMMUNITY_MANAGER:1 "#credits_subheader Community Manager#!"
  TITLE_COMMUNITY_DEVELOPER:1 "#credits_subheader Community Developer#!"
+ TITLE_COMMUNITY_AMBASSADOR:0 "#credits_subheader Community Ambassadors#!"
  TITLE_PARTNER_ACCOUNT_MANAGER:1 "#credits_subheader Partner Account Manager#!"
  TITLE_PERFORMANCE_MARKETING_MANAGER:1 "#credits_subheader Performance Marketing Manager#!"
  TITLE_PR:1 "#credits_subheader PR#!"

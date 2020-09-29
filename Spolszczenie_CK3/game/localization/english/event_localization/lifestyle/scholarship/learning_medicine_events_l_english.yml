@@ -176,7 +176,7 @@
  learning_medicine_special.1004.desc:0 "[scoped_physician.GetTitledFirstName] was none too pleased to learn of my experiments. [scoped_physician.GetSheHe|U] refused to provide any assistance and admonished me that this sort of endeavors do not fall under the purview of a [ROOT.Char.GetTitleTierName]."
  learning_medicine_special.1004.unavailable.desc:0 "With [scoped_physician.GetTitledFirstName] no longer able to provide any assistance to me, I have been unable to continue my experiments with human anatomy."
  learning_medicine_special.1004.a:0 "Perhaps you are right..."
- learning_medicine_special.1004.unavailable.a:0 "Alas."
+ learning_medicine_special.1004.unavailable.a:0 "Niestety."
  learning_medicine_special.1004.unavailable.tt:0 "You cease studying human cadavers"
  learning_medicine_special.1005.desc:0 "Thankfully, proper use of flower patches, incense and aeration seems to have helped lessen the effects that the bad vapors emanated by the cadavers were having on my body.\n\nI can finally focus on my studies without fear of repercussions on my own humoral balance."
  learning_medicine_special.1005.a:0 "Nothing stands in the way of knowledge!"

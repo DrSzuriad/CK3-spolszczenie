@@ -244,7 +244,7 @@
  trait_specific_ongoing.6002.b:0 "Oh, this... this looks #EMP interesting#!."
  trait_specific_ongoing.6002.c:0 "What is the meaning of this?!"
  trait_specific_ongoing.6002.d:0 "I'm just gonna leave."
- trait_specific_ongoing.6003.t:0 "Deviancy"
+ trait_specific_ongoing.6003.t:0 "Dewiacja"
  trait_specific_ongoing.6003.desc_opening:0 "I am in the throes of ecstasy, aided by [ROOT.Char.Custom('DeviantObjectArticle')], as my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('vassal') )] [vassal.GetTitledFirstName] walks into the room.\n\n"
  trait_specific_ongoing.6003.desc_deviant:0 "[vassal.GetHerHis|U] eyes widen – not in disgust, but in interest. "Oh, I never thought about using it like #EMP that#!. You're an inspiration!""
  trait_specific_ongoing.6003.desc_joined:0 "I can see [vassal.GetHerHim] hesitate, but then [vassal.GetSheHe] closes the door and walks inside. "Oh, [liege.GetTitledFirstNameNoTooltip], that looks... That looks #EMP interesting#!! Here, let me help you.""

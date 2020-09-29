@@ -2,7 +2,7 @@
  HEADING_ENCYCLOPEDIA:0 "Encyklopedia"
  OPEN_ENCYCLOPEDIA:0 "#T Otwórz encyklopedię#!\nSprawdź określenia w encyklopedii."
  ENCYCLOPEDIA_PAGE_BUILDINGS:0 "Budynki"
- ENCYCLOPEDIA_BUILDING_ENTRY:0 "[BUILDING.GetDescription]\n\n#S Koszta podstawowy:\n#![BUILDING.GetBaseCostDescription]\n\n#S Efekt:\n#![BUILDING.GetEffectDescription]\n"
+ ENCYCLOPEDIA_BUILDING_ENTRY:0 "[BUILDING.GetDescription]\n\n#S Koszt podstawowy:\n#![BUILDING.GetBaseCostDescription]\n\n#S Efekt:\n#![BUILDING.GetEffectDescription]\n"
  ENCYCLOPEDIA_PAGE_GAME_CONCEPTS:0 "Koncepcje gry"
  ENCYCLOPEDIA_PAGE_FACTIONS:0 "Frakcje"
  ENCYCLOPEDIA_PAGE_GOVERNMENTS:0 "Rządy"

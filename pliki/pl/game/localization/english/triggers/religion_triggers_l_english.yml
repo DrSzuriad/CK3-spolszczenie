@@ -35,3 +35,8 @@
  NOT_RELIGION_TAG_TRIGGER: ""
  CAN_LEGITIMIZE_BASTARDS_IN_FAITH: ""
  CANNOT_LEGITIMIZE_BASTARDS_IN_FAITH: ""
+ CANNOT_CREATE_HOF_TITLE_AT_OR_ABOVE_LIEGE_TIER: ""
+ CHAR_CAN_ONLY_CREATE_ONE_FAITH: ""
+ has_forced_defender: ""
+ has_pledged_attacker: ""
+ has_pledged_defender: ""

@@ -1,6 +1,5 @@
 ﻿l_english:
- WAR_DECLARED_OVERVIEW_DISMISS: ""
- WAR_DECLARED_OVERVIEW_DISMISS_TOOLTIP: "Zamknij okno"
+ WAR_DECLARED_OVERVIEW_DISMISS: "Zbierz żołnierzy!"
  WAR_DECLARED_OVERVIEW_FLAVOR: ""
  war_declared_opening.neutral: ""
  war_declared_opening.negative: ""
@@ -25,3 +24,4 @@
  war_declared_flavor.revocation_refused: "$char_interaction.0201.desc$"
  war_declared_flavor.imprisonment_refused: ""
  war_declared_flavor.fallback: ""
+ is_war_overview_tab_open_trigger: ""

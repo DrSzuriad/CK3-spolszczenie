@@ -38,10 +38,17 @@
  IT_HAS_DOMINANT_RULING_GENDER_TRIGGER:0 "The [doctrines] of [FAITH.GetName] allows [rulers] to grant [titles] to [CHARACTER.GetWomenMen]"
  NOT_IT_HAS_DOMINANT_RULING_GENDER_TRIGGER:0 "The [doctrines] of [FAITH.GetName] does #bold not#! allow [rulers] to grant [titles] to [TARGET_CHARACTER.GetWomenMen]"
 
- I_HOLD_AT_LEAST_COUNT_HOLY_SITES_OF_FAITH:0 "You hold at least $VALUE|0V$ [FAITH.GetName] [holy_sites|E]"
- I_DO_NOT_HOLD_AT_LEAST_COUNT_HOLY_SITES_OF_FAITH:0 "You do #bold not#! hold at least $VALUE|0V$ [FAITH.GetName] [holy_sites|E]"
+ I_HOLD_AT_LEAST_COUNT_HOLY_SITES_OF_FAITH:2 "Your [realm|E] contains at least $VALUE|0V$ [FAITH.GetName] [holy_sites|E] with [FAITH.GetAdjectiveNoTooltip] [holders|E]"
+ I_DO_NOT_HOLD_AT_LEAST_COUNT_HOLY_SITES_OF_FAITH:2 "Your [realm|E] does #bold not#! contain at least $VALUE|0V$ [FAITH.GetName] [holy_sites|E] with [FAITH.GetAdjectiveNoTooltip] [holders|E]"
  
  NOT_RELIGION_TAG_TRIGGER:0 "Your [faith] is #bold not#! part of $RELIGION|V$"
 
  CAN_LEGITIMIZE_BASTARDS_IN_FAITH:0 "[CHARACTER.GetFaith.GetName] allows [bastards|E] to be [legitimized|E]"
  CANNOT_LEGITIMIZE_BASTARDS_IN_FAITH:0 "[CHARACTER.GetFaith.GetName] does #EMP not#! allow [bastards|E] to be [legitimized|E]"
+
+ CANNOT_CREATE_HOF_TITLE_AT_OR_ABOVE_LIEGE_TIER:0 "You cannot become [head_of_faith|E] if it would make you at or above your [liege|E]'s [title_rank|E]"
+ CHAR_CAN_ONLY_CREATE_ONE_FAITH:0 "You have already reformed or created a new [faith|E] as this character!"
+
+ has_forced_defender:0 "You are a forced defender"
+ has_pledged_attacker:0 "You are a pledged attacker"
+ has_pledged_defender:0 "You are a pledged defender"

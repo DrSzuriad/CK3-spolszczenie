@@ -94,3 +94,6 @@
  #New lease
  my_holy_order_new_lease_message:0 "The [holy_order.GetName] have established themselves in [barony.GetNameNoTier]. Their strength grows."
  #Joined Great Holy War
+
+ is_holy_order_trigger:0 "Is a [holy_order|E]"
+ CONTROLS_HOLY_SITE_TRIGGER:0 "Controls holy site: $TITLE$"

@@ -17,3 +17,4 @@
  OUTLINER_ARMY_CLICK_TO_SELECT:0 "#I Kliknij, aby wybrać armię#!"
  OUTLINER_ARMY_CLICK_TO_PAN:0 "#I Kliknij, aby przejść do lokalizacji#!"
  OUTLINER_ARMY_RIGHT_CLICK_TO_PAN:0 "#I Kliknij PPM, aby przejść do lokalizacji#!"
+ OUTLINER_PINNED_CHARACTER:0 "[Character.GetShortUINameNotMeNoTooltip]#medium , [Character.GetAge]#!"

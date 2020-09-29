@@ -44,7 +44,7 @@
  feast_default.1008.t:0 "$feast_header$ Sullied Judgment"
  feast_default.1008.desc:0 "As [secret_recipient.GetTitledFirstNamePossessive] eyes widen at my words, I realize what I have just admitted to. I struggle to push my tankard away.\n\n"I have had too much." I try to get up, wobbling a little. "Don't trust a word I say!""
  feast_default.1008.a:0 "What have I done..."
- feast_default.1008.a.flavor:0 "#F [secret_recipient.GetSheHe|U] is not buying my excuses..."
+ feast_default.1008.a.flavor:0 "#F [secret_recipient.GetSheHe|U] is not buying my excuses...#!"
 
  feast_default.1009.t:0 "$feast_header$ Sullied Judgment"
  feast_default.1009.desc:0 "As [secret_recipient.GetTitledFirstNamePossessive] eyes widen at my words, I realize what I have just said about [secret_owner.GetTitledFirstName]. I struggle to push my tankard away.\n\n"I have had too much." I try to get up, wobbling a little. "Don't trust a word I say!""

@@ -21,7 +21,7 @@
  intrigue_scheming.1012.b: "Wake me if you find anything."
  intrigue_scheming.1013.desc_alive: "Finally, we have something! After many long discussions and even longer nights, [cryptographer.GetTitledFirstName] and I have at last reached a conclusion.\n\n"
  intrigue_scheming.1013.desc_dead: "Despite the loss of the cryptographer, I finally have something!\n\n"
- intrigue_scheming.1013.desc_transposition: "A rather basic system, one that rearranges the letters in a word, would best serve us. It is of the utmost importance that the recipient understand the message without too large a delay."
+ intrigue_scheming.1013.desc_transposition: "A rather basic system, one that rearranges the letters in a word, would best serve us. It is of the utmost importance that the recipient understands the message without too large a delay."
  intrigue_scheming.1013.desc_substitution: "A system that substitutes letters for numbers would serve our purpose best, our enemies would think it nonsense!"
  intrigue_scheming.1013.desc_cipher: "A cypher, so that the enemy believes every message intercepted written in a foreign language, will serve us best!"
  intrigue_scheming.1013.a: "No one will be able to break this!"

@@ -11,7 +11,7 @@
  interaction_category_house_head: "Głowa rodu"
  interaction_category_prison: "Więzienie"
  interaction_category_uncategorized: ""
- INTERACTION_SENDER: ""
+ INTERACTION_SENDER: "Nadawca"
  INTERACTION_RECIPIENT: "Odbiorca"
  INTERACTION_SPOUSE: "Małżonek"
  INTERACTION_CONCUBINE: "Konkubina"

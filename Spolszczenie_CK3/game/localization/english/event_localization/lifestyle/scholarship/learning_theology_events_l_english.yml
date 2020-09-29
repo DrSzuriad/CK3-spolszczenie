@@ -64,7 +64,7 @@
  learning_theology.3022.a:0 "Praise [ROOT.Char.GetFaith.HighGodNameAlternate]!"
  learning_theology.3023.opening:0 "[compliment_receiver.Custom2('AppropriateGreeting', ROOT.Char)]"
  learning_theology.3023.desc:0 "I am impressed by your insights into our religion, but less so by your insight into your fellow man."
- learning_theology.3023.a:0 "So be it."
+ learning_theology.3023.a:0 "Niech tak będzie."
  learning_theology.3024.opening:0 "[compliment_receiver.Custom2('AppropriateGreeting', ROOT.Char)]"
  learning_theology.3024.desc:0 "Your empty posturing as a [ROOT.Char.GetWomanMan] of [ROOT.Char.GetFaith.HighGodName] does not fool me, and your clouded sight into the hearts of people betray you!"
  learning_theology.3024.a:0 "Damnations...!"

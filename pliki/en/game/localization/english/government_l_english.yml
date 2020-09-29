@@ -92,7 +92,7 @@
  war_declaration_rights_allowed_short: "Sanctioned"
  council_rights: "Council Rights"
  council_rights_none: "No $council_rights$"
- council_rights_none_desc: "#flavor The [vassal] is not granted any out-of-the-ordinary privileges when it comes to the [council]."
+ council_rights_none_desc: "#flavor The [vassal] is not granted any out-of-the-ordinary privileges when it comes to the [council].#!"
  council_rights_none_short: "None"
  council_rights_guaranteed: "$council_rights$ Guaranteed"
  council_rights_guaranteed_desc: "#emphasis #bold [vassal|E] Privilege:#!#!\nThe #high $force_onto_council$#! [interaction|E] can be used at will\n\n#flavor The [vassal] is granted special [council] privileges, and will expect a permanent seat on the [council]. Granting this privilege to too many [vassals] will eventually upset the [powerful_vassals] of the [realm|E].#!"

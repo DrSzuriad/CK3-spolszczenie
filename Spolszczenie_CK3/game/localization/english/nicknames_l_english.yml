@@ -270,3 +270,5 @@
  nick_bad_hand:0 "[Select_CString( CHARACTER.IsFemale, 'Pechowa', 'Pechowy' )]"
  nick_the_little:0 "[Select_CString( CHARACTER.IsFemale, 'Mała', 'Mały' )]"
  nick_the_one_eyed:0 "[Select_CString( CHARACTER.IsFemale, 'Jednooka', 'Jednooki' )]"
+ nick_the_oppressor:0 "the Oppressor"
+ nick_the_apostate:0 "the Apostate"

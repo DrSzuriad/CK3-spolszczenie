@@ -12,7 +12,7 @@
  human_sacrifice.0001.c: ""
  human_sacrifice_coward_modifier: ""
  human_sacrifice_coward_modifier_desc: ""
- flowery_war_cb_ended_invalid.t: ""
+ flowery_war_cb_ended_invalid.t: "Wojna unieważniona"
  flowery_war_cb_ended_invalid.desc_other_sacrifices_attacker: ""
  flowery_war_cb_ended_invalid.desc_other_sacrifices_defender: ""
  flowery_war_cb_ended_invalid.desc_no_sacrificers: ""

@@ -53,7 +53,7 @@
  chancellor_task.3101.c.tt: "The war between [attacker_vassal.GetFirstNameNoTooltip] and [defender_vassal.GetFirstNameNoTooltip] continues"
  chancellor_task.3102.desc: "I have discovered that [vassal.GetTitledFirstNamePossessive] inherited contract obliges [vassal.GetHerHim] to more than you have collected."
  chancellor_task.3102.a: "Time to right this wrong!"
- chancellor_task.3102.c: "[vassal.GetFirstNameNoTooltip] would surely appreciate if I let this slide..."
+ chancellor_task.3102.c: "I'll let it slide. This time..."
  chancellor_task.3003.t: "Loss of Authority"
  chancellor_task.3003.desc: "It seems that whatever work my [councillor.GetCouncilTitle] is doing — if any! – it is not enough.\n\nOn [councillor.GetTitledFirstNamePossessive] watch, my vassals are acting freely as they see fit, rarely seeking my approval in any matter."
  chancellor_task.3003.a: "It feels as if power is slipping from my grasp."

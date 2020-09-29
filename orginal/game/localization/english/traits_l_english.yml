@@ -1,7 +1,7 @@
 ﻿l_english:
 #Reasons
  ALREADY_CONTAINTS_TRAIT:0 "$CHARACTER_NAME$ with id '$CHARACTER_ID$' already has the trait $TRAIT_KEY$"
- CONTAINTS_OPPOSITE_TRAIT:0 "Trait $TRAIT_KEY$ can't be added because $CHARACTER_NAME$ with id '$CHARACTER_ID$' already has the the opposite trait $OPOSITE_KEY$"
+ CONTAINTS_OPPOSITE_TRAIT:0 "Trait $TRAIT_KEY$ can't be added because $CHARACTER_NAME$ with id '$CHARACTER_ID$' already has the opposite trait $OPOSITE_KEY$"
  IS_POTENTIAL_TRAIT_FALSE:0 "Trait $TRAIT_KEY$ can't be added because $CHARACTER_NAME$ with id '$CHARACTER_ID$' doesn't fit the is_potential trigger"
  TRAIT_AGE_NOT_IN_RANGE:0 "$CHARACTER_NAME$ with id '$CHARACTER_ID$' age '$CHARACTER_AGE$' doesn't fit the trait $TRAIT_KEY$ age range"
 
@@ -315,12 +315,7 @@
  trait_hashishiyah:0 "Hashishiyah"
  trait_hashishiyah_desc:0 "This character is dependent on the consumption of hashish to deal with the stress of everyday life."
  trait_hashishiyah_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is dependent on the consumption of hashish to deal with the stress of everyday life."
- trait_opium_addled:0 "Opium Addled"
- trait_opium_addled_desc:0 "The many problems which face this character all just melt away in a drug-induced haze..."
- trait_opium_addled_character_desc:0 "The many problems which face [ROOT.GetCharacter.GetFirstNameNoTooltip] all just melt away in a drug-induced haze..."
- trait_henbane_addict:0 "Henbane Addict"
- trait_henbane_addict_desc:0 "This character regularly uses hallucinogens to escape a reality that they cannot handle."
- trait_henbane_addict_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] regularly uses hallucinogens to escape a reality that [ROOT.GetCharacter.GetSheHe] cannot handle."
+
  trait_rakish:0 "Rakish"
  trait_rakish_desc:0 "This character spends so much time in the brothel that it has become their second home."
  trait_rakish_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] spends so much time in the brothel that it has become [ROOT.GetCharacter.GetHerHis] second home."
@@ -344,7 +339,7 @@
  trait_contrite_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] suffers from a guilty conscience, often feeling compelled to confess things better left unmentioned."
  trait_comfort_eater:0 "Comfort Eater"
  trait_comfort_eater_desc:0 "This character often tries to fill the emptiness that they feel by indulging in comforting foods."
- trait_comfort_eater_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] often tries to fill the emptiness that [ROOT.GetCharacter.GetSheHe] feel by indulging in comforting foods."
+ trait_comfort_eater_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] often tries to fill the emptiness that [ROOT.GetCharacter.GetSheHe] feels by indulging in comforting foods."
  trait_inappetetic:0 "Inappetetic"
  trait_inappetetic_desc:0 "Stress has ruined this character's appetite, causing them to skip meals and waste away..."
  trait_inappetetic_character_desc:0 "Stress has ruined [ROOT.GetCharacter.GetFirstNamePossessiveNoTooltip] appetite, causing [ROOT.GetCharacter.GetHerHim] to skip meals and waste away..."
@@ -612,8 +607,9 @@
  trait_mujahid:0 "Mujahid"
  trait_mujahid_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has done [ROOT.GetCharacter.GetHerHis] Islamic duty and participated in a Jihad."
  	#Muslim version of Pilgrim
- trait_hajjaj:0 "Hajjaj"
- trait_hajjaj_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has completed a pilgrimage to an Islamic holy site."
+ trait_hajji:0 "Hajji"
+ trait_hajjah:0 "Hajjah"
+ trait_hajjaj_desc:1 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has completed the Hajj, a pilgrimage to the House of Allah in Mecca."
  	#Muslim male & female versions of Blood of the Prophet, respectively
  trait_sayyid:0 "Sayyid"
  trait_sayyida:0 "Sayyida"
@@ -727,11 +723,12 @@
  trait_adventurer_desc:0 "This character has lead a life of bravery and action as an adventurer."
  trait_adventurer_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has lead a life of bravery and action as an adventurer."
  	# Female version of Child of Consort
- trait_child_of_concubine:0 "Child Of Concubine"
+ trait_child_of_concubine:1 "Child of Concubine"
  trait_child_of_concubine_desc:0 "This character was born of a concubine."
  trait_child_of_concubine_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] was born of a concubine."
  	# Male version of Child of Concubine
  trait_child_of_consort:0 "Child of Consort"
+ trait_child_of_consort_desc:0 "This character was fathered by a consort."
  trait_child_of_consort_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] was fathered by a consort."
  	#Witch
  trait_witch:0 "Witch"
@@ -863,7 +860,7 @@
  trait_crusader_king_hellenism_male:0 "Archon"
  trait_crusader_king_hellenism_female:0 "Archontess"
  trait_crusader_king_hinduism:0 "Rajarishi"
- trait_crusader_king_islam:0 "Moinuddin"
+ trait_crusader_king_islam:1 "Amir al-Mu'minin"
  trait_crusader_king_jainism:0 "Irenic Monarch"
  trait_crusader_king_judaism:0 "Nagid"
  trait_crusader_king_magyar:0 "Hadùr's Chosen"
@@ -919,3 +916,4 @@
 
  # Fame Groups
  trait_kinslayer:0 "Kinslayers"
+ #trait_child_of_concubine: "trait_child_of_concubine"

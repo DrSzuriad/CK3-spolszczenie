@@ -194,6 +194,8 @@
  diplomacy_foreign.1103.tainted_exp.desc: ""
  diplomacy_foreign.1103.good_exp.desc: ""
  diplomacy_foreign.1103.no_exp.desc: ""
+ tooltip.diplomacy_foreign.1103.a.culture_conversion_success: ""
+ tooltip.diplomacy_foreign.1103.a.faith_conversion_success: ""
  diplomacy_foreign.1103.a: ""
  diplomacy_foreign.1103.b: ""
  diplomacy_foreign.1104.start.desc: ""

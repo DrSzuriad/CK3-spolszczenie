@@ -5,7 +5,7 @@
  BS_TT_ADVANTAGE:0 "#T Total [advantage|E]: $ADVANTAGE$#!\nActed $NUM_ACTED$ times"
  BS_TT_COUNTER:0 "#T Enemy [advantage|E] denied by countering: $COUNTERED$#!\nCountered the enemy $NUM_ACTED$ times"
  BS_TT_LEVIES_KILLS:0 "#T Zabici [Concept( 'levies', 'poborowi' )|E]#!"
- BS_TT_LEVIES_LOSSES:0 "#T Zaginieni [Concept( 'levies', 'poborowi' )|E]#!"
+ BS_TT_LEVIES_LOSSES:0 "#T Utraceni [Concept( 'levies', 'poborowi' )|E]#!"
  BS_NO_DETAILS_TO_SHOW:0 "Żaden zbrojny nie podjął jakichkolwiek działań podczas tej bitwy"
  BS_GOTO:0 "Przejdź do lokalizacji"
  TOGGLE_BATTLE_EVENTS:0 "Przełącz wydarzenia bitew"

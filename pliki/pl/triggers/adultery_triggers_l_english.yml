@@ -1,4 +1,0 @@
-﻿l_english:
- TARGET_IS_NOT_OF_MY_HOUSE: "[TARGET_CHARACTER.GetShortUIName|U] nie jest [bastard|E] z twojego rodu [house|E]"
- HOUSE_HEAD_DOES_NOT_APPROVE: ""
- MOTHER_IS_MARRIED: ""

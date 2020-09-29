@@ -31,12 +31,12 @@
  IS_PARTICIPANT_TRIGGER_THIRD:0 "[CHARACTER.GetShortUIName|U] is a Participant in [WAR.GetName|V]"
  NOT_IS_PARTICIPANT_TRIGGER_THIRD:0 "[CHARACTER.GetShortUIName|U] is #bold not#! a Participant in [WAR.GetName|V]"
 
- IS_WAR_LEADER_TRIGGER:0 "Leads a side in [WAR.GetName|V]"
- NOT_IS_WAR_LEADER_TRIGGER:0 "Does #bold not#! lead a side in [WAR.GetName|V]"
- IS_WAR_LEADER_TRIGGER_FIRST:1 "You lead a side in [WAR.GetName|V]"
- NOT_IS_WAR_LEADER_TRIGGER_FIRST:1 "You do #bold not#! lead a side in [WAR.GetName|V]"
- IS_WAR_LEADER_TRIGGER_THIRD:0 "[CHARACTER.GetShortUIName|U] leads a side in [WAR.GetName|V]"
- NOT_IS_WAR_LEADER_TRIGGER_THIRD:0 "[CHARACTER.GetShortUIName|U] does #bold not#! lead a side in [WAR.GetName|V]"
+ IS_WAR_LEADER_TRIGGER:2 "Is a [war_leader|E] in [WAR.GetName|V]"
+ NOT_IS_WAR_LEADER_TRIGGER:1 "Is #bold not#! a [war_leader|E] in [WAR.GetName|V]"
+ IS_WAR_LEADER_TRIGGER_FIRST:2 "You are a [war_leader|E] in [WAR.GetName|V]"
+ NOT_IS_WAR_LEADER_TRIGGER_FIRST:2 "You are #bold not#! a [war_leader|E] in [WAR.GetName|V]"
+ IS_WAR_LEADER_TRIGGER_THIRD:1 "[CHARACTER.GetShortUIName|U] is a [war_leader|E] in [WAR.GetName|V]"
+ NOT_IS_WAR_LEADER_TRIGGER_THIRD:1 "[CHARACTER.GetShortUIName|U] is #bold not#! a [war_leader|E] in [WAR.GetName|V]"
 
  WAS_CALLED_TRIGGER:0 "Has been called to [WAR.GetName|V]"
  NOT_WAS_CALLED_TRIGGER:0 "Has #bold not#! been called to [WAR.GetName|V]"

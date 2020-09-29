@@ -81,7 +81,7 @@
  party_baron.3004.desc:0 "This has gone on long enough! The fact that [party_baron.GetTitledFirstName] keeps being elevated as some beacon of everything good in humanity is driving me mad!\n\nWhatever manipulative spell [party_baron.GetSheHe] has the realm under needs to be broken."
  party_baron.3004.a:0 "#EMP [party_baron.GetSheHe|U]#! needs to be broken!"
  party_baron.3004.b:0 "Am I... going too far?"
- party_baron.4001.desc:0 "The loss of [previous_character.Custom2('YourCharacterIntroduction', ROOT.Char)] has been hard to accept. [party_baron.GetSheHe|U] was a good friend, and you should be proud of the [previous_character.GetWomanMan] [previous_character.GetSheHe] was.\n\nThis must be a difficult time for you, but know that you have my support!"
+ party_baron.4001.desc:0 "The loss of [previous_character.Custom2('YourCharacterIntroduction', ROOT.Char)] has been hard to accept. [previous_character.GetSheHe|U] was a good friend, and you should be proud of the [previous_character.GetWomanMan] [previous_character.GetSheHe] was.\n\nThis must be a difficult time for you, but know that you have my support!"
  party_baron.4001.a:0 "Thank you for your kind words."
  party_baron.4002.opening:0 "[party_baron.Custom2('AppropriateGreeting', ROOT.Char)]"
  party_baron.4002.desc:0 "I understand that you do not like me. That is your right. But I do not see why you continue to be wicked and hostile when I attempt to be as friendly and as courteous as I can.\n\nWe have had many opportunities to settle this, but now I am asking you for the last time. Please, let us simply... be friends."

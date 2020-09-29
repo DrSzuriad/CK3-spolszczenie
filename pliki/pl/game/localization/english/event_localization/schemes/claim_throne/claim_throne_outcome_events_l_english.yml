@@ -31,6 +31,7 @@
  claim_throne_outcome.5001.distant_relation: ""
  claim_throne_outcome.5001.mythical_founder: ""
  claim_throne_outcome.5001.previous_holder_promise: ""
+ claim_throne_outcome.5001.fallback: ""
  claim_throne_outcome.5001.discovered: ""
  claim_throne_outcome.5001.a: ""
  claim_throne_outcome.5002.a: ""

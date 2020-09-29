@@ -1,6 +1,7 @@
 ﻿l_english:
- PASS_LAW_TOOLTIP_TITLE: "[Select_CString(GuiLaw.IsEnacted, '', 'Uchwal')] [Law.GetNameNoTooltip]\n#weak [Law.GetSubName]#!"
- LAW_TOOLTIP_TITLE: "[Law.GetNameNoTooltip]\n#weak [Law.GetSubName]#!"
+ PASS_LAW_TOOLTIP_TITLE: ""
+ LAW_TOOLTIP_TITLE: ""
+ LAW_TOOLTIP_SUBTITLE: ""
  ADD_LAW_CONFIRMATION_TITLE: "Uchwal prawo [LAW.GetNameNoTooltip]"
  ADD_LAW_CONFIRMATION_ACCEPT: "Uchwal prawo"
  ADD_LAW_CONFIRMATION_TEXT: "$EFFECTS$"
@@ -11,6 +12,7 @@
  ALREADY_HAS_THIS_LAW: "#high Aktualne prawo#!"
  CLICK_TO_PASS_LAW: "\n#I Kliknij, aby uchwalić [Law.GetNameNoTooltip|V]#!"
  LAW_COST: "\n#S Koszt:#! [GuiLaw.GetShortCostString|L]"
+ LAW_TITLE_ALLEGIANCE_OPINION: ""
  crown_authority: "[crown_authority|E]"
  crown_authority_0: "Autonomiczni wasale"
  crown_authority_0_effects_not_in_prev: "#słabi wasale zapewniają [Concept( 'levies', 'poborców' )|E] i [Concept( 'taxes', 'podatki' )|E], ale poza tym mogą robić, co chcą#!"

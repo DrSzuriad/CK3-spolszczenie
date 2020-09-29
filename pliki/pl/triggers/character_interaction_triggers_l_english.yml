@@ -1,3 +1,0 @@
-﻿l_english:
- IS_PLAYER_HEIR_OF: ""
- CHARACTER_IS_PRESSING_TARGET_CHARACTERS_CLAIM: "[CHARACTER.GetShortUIName|U] naciska [TARGET_CHARACTER.GetShortUINamePossessive] Zbierz"

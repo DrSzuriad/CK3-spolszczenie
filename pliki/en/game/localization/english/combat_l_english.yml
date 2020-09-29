@@ -14,8 +14,6 @@
  ATTACKER: "Attacker"
  DEFENDER: "Defender"
  ARMY: "Army"
- ATTACKER_LEADER: "Attacker Leader"
- DEFENDER_LEADER: "Defender Leader"
  COMBAT_MODIFIER_HEADER: "$TYPE$: $VALUE|2+=%$"
  END_OF_COMBAT: "[battle|E] has ended"
  DEPLOYED: "Deployed: "

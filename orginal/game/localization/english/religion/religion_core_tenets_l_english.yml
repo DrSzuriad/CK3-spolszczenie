@@ -1,5 +1,6 @@
 ﻿l_english:
  doctrine_core_tenets_name:0 "Tenets:"
+ tenets_name:0 "Tenets"
 
  #Abrahamic Tenets
  tenet_communion_name:0 "Communion"
@@ -23,7 +24,7 @@
  tenet_divine_marriage_name:0 "Divine Marriage"
  tenet_divine_marriage_desc:0 "The blood of the divine runs through the veins of our kings and queens. Keeping our bloodlines pure is the best way to ensure our family's reign continues for centuries to come."
  doctrine_parameter_divine_marriage_opinion:0 "Adherents who are married to a [close_family|E] member have $VALUE|0+=$ [opinion|E] from [vassals|E] of the same [faith|E]"
- doctrine_parameter_divine_marriage_piety_gain_active:1 "Marrying a [close_family|E] member for the first time grants a large amount of [piety|E] if you are #V $doctrine_monogamy_name$#!"
+ doctrine_parameter_divine_marriage_piety_gain_active:2 "The [GetFaithDoctrine('doctrine_monogamy').GetBaseName] marriage bonus also grants a large amount of [piety|E] if you are marrying a [close_family|E] member"
  
  tenet_pacifism_name:0 "Pacifism"
  tenet_pacifism_desc:0 "Violence is an abhorrent act that only leads to suffering, pain, and regret. By working to avoid it whenever possible we can build stronger, more secure societies for the faithful to live in."
@@ -45,12 +46,13 @@
  doctrine_parameter_flower_war_cb_active:0 "Grants the [flowery_war|E] [casus_belli|E] against neighboring realms"
 
  tenet_consolamentum_name:0 "Consolamentum"
+ tenet_consolamentum_name_alternate:0 "Ritual Suicide"
  tenet_consolamentum_desc:0 "When we grow old or sick, we perform a ritual to cleanse our souls of sin. Once that is done, we quickly and definitively end our lives, so that sin does not have the opportunity to infest us once more."
  doctrine_parameter_consolamentum_active:1 "Adherents can [decide|E] to end their life when old, incapable, or near death; doing so does not incur any of the normal penalties from suicide"
 
  tenet_gnosticism_name:0 "Gnosticism"
  tenet_gnosticism_desc:0 "Through knowledge, the divine spark that rests inside all humans may be liberated and returned to its heavenly source in the spirit-realm."
- doctrine_parameter_hostility_override_tenet_gnosticism:0 "Considers other Gnostic [faiths|E] to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] instead of #V Hostile#! or #V Evil#!"
+ doctrine_parameter_hostility_override_tenet_gnosticism:1 "Considers other Gnostic [faiths|E] to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] instead of $hostility_hostile_tooltippable$ or $hostility_evil_tooltippable$"
  doctrine_parameter_granting_titles_gives_stress:0 "Giving away [titles|E] relieves a proportional amount of [stress|E]"
 
  tenet_mendicant_preachers_name:0 "Mendicant Preachers"
@@ -231,7 +233,7 @@
 
  tenet_unreformed_syncretism_name:0 "Syncretic Folk Traditions"
  tenet_unreformed_syncretism_desc:0 "Who are we to tell others that their traditions are untrue? It is not our place to lecture them about customs they have practiced for centuries: instead, we should learn quietly about their ways."
- doctrine_parameter_hostility_override_unreformed_faith_doctrine:0 "Considers [GetFaithDoctrine('unreformed_faith_doctrine').GetBaseName] [faiths|E], and is considered by [GetFaithDoctrine('unreformed_faith_doctrine').GetBaseNameNoTooltip] $game_concept_faiths$, to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] instead of #V Evil#!"
+ doctrine_parameter_hostility_override_unreformed_faith_doctrine:1 "Considers [GetFaithDoctrine('unreformed_faith_doctrine').GetBaseName] [faiths|E], and is considered by [GetFaithDoctrine('unreformed_faith_doctrine').GetBaseNameNoTooltip] $game_concept_faiths$, to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$"
  doctrine_parameter_unreformed_syncretic_actor_opinion_active:2 "Mutual [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] bonus with [GetFaithDoctrine('unreformed_faith_doctrine').GetBaseName] [faiths|E]"
  doctrine_parameter_opinion_of_unreformed_syncretic_recipient_opinion_active:0 ""
  doctrine_parameter_unreformed_syncretic_recipient_opinion_active:1 "Mutual [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] bonus with [faiths|E] that have $tenet_unreformed_syncretism_name$ [core_tenet|E]"
@@ -242,7 +244,7 @@
  #This is deliberately left blank. It should not be deleted or filled in: such will break the loc.
  doctrine_parameter_hostility_override_special_doctrine_is_christian_faith:1 ""
  #Instead, add these doctrine parameters to appropriate tenets (presently Christian Syncretism & Pastoral Isolation).
- doctrine_parameter_is_christian_faith_bilateral_loc_override:0 "Considers Christian [faiths|E] and is considered by Christian $game_concept_faiths$ to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] instead of #V Evil#!"
+ doctrine_parameter_is_christian_faith_bilateral_loc_override:1 "Considers Christian [faiths|E], and is considered by Christian $game_concept_faiths$, to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$"
  doctrine_parameter_is_christian_faith_pastoral_isolation_loc_override:0 "Always considers other Christian [faiths|E] to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V], regardless of doctrinal differences"
  doctrine_parameter_christian_syncretic_actor_opinion_active:1 "Mutual [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] bonus with Christian [faiths|E]"
  doctrine_parameter_opinion_of_christian_syncretic_recipient_opinion_active:0 ""
@@ -251,7 +253,7 @@
 
  tenet_islamic_syncretism_name:0 "Islamic Syncretism"
  tenet_islamic_syncretism_desc:0 "The Prophet's words are indisputably wise and just, and whatever our other doubts, we should take heed of his thoughts and deeds."
- doctrine_parameter_hostility_override_special_doctrine_is_islamic_faith:0 "Considers Islamic [faiths|E] and is considered by Islamic $game_concept_faiths$ to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] instead of #V Evil#!"
+ doctrine_parameter_hostility_override_special_doctrine_is_islamic_faith:1 "Considers Islamic [faiths|E], and is considered by Islamic $game_concept_faiths$, to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$"
  doctrine_parameter_islamic_syncretic_actor_opinion_active:1 "Mutual [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] bonus with Islamic [faiths|E]"
  doctrine_parameter_opinion_of_islamic_syncretic_recipient_opinion_active:0 ""
  doctrine_parameter_islamic_syncretic_recipient_opinion_active:1 "Mutual [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] bonus with [faiths|E] that have the $tenet_islamic_syncretism_name$ [core_tenet|E]"
@@ -259,7 +261,7 @@
 
  tenet_jewish_syncretism_name:0 "Jewish Syncretism"
  tenet_jewish_syncretism_desc:0 "Though we do not agree with its claims about God's chosen people, the wisdom of the Jewish Torah is undeniable, and there is much to be learned from the text."
- doctrine_parameter_hostility_override_special_doctrine_is_jewish_faith:0 "Considers Jewish [faiths|E] and is considered by Jewish $game_concept_faiths$ to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] instead of #V Evil#!"
+ doctrine_parameter_hostility_override_special_doctrine_is_jewish_faith:1 "Considers Jewish [faiths|E], and is considered by Jewish $game_concept_faiths$, to be [GetHostilityLevelName( FAITH_DOCTRINE_PARAMETER.GetIntValue )|V] instead of $hostility_evil_tooltippable$"
  doctrine_parameter_jewish_syncretic_actor_opinion_active:1 "Mutual [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] bonus with Jewish [faiths|E]"
  doctrine_parameter_opinion_of_jewish_syncretic_recipient_opinion_active:0 ""
  doctrine_parameter_jewish_syncretic_recipient_opinion_active:1 "Mutual [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] bonus with [faiths|E] that have the $tenet_jewish_syncretism_name$ [core_tenet|E]"

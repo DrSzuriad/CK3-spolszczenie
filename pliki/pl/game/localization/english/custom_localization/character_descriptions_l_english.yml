@@ -107,7 +107,7 @@
  negative_desc_restrained: "powściągliw[Select_CString(ROOT.GetCharacter.IsFemale, 'a', 'y' )]"
  negative_desc_austere: "szorstk[Select_CString(ROOT.GetCharacter.IsFemale, 'a', 'i' )]"
  negative_desc_rigid: "nieugięt[Select_CString(ROOT.GetCharacter.IsFemale, 'a', 'y' )]"
- negative_desc_spiteful: ""
+ negative_desc_spiteful: "złośliwy"
  negative_desc_hostile: "wrog[Select_CString(ROOT.GetCharacter.IsFemale, 'a', 'i' )]"
  negative_desc_perverse: "zboczon[Select_CString(ROOT.GetCharacter.IsFemale, 'a', 'y' )]"
  negative_desc_ruthless: "bezwzględn[Select_CString(ROOT.GetCharacter.IsFemale, 'a', 'y' )]"

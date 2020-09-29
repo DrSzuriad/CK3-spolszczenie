@@ -46,7 +46,7 @@
  murder_outcome.1302.b:0 "No, not now."
  murder_outcome.1401.t:0 "A Mercy"
  murder_outcome.1401.desc:0 "Poor, defenseless [target.GetTitledFirstName]... When is a life even worth living?\n\nOne of my agents has arranged for an assassin to make his way into the chambers where the incapacitated [target.GetTitleTierName] is "resting.""
- murder_outcome.1401.a:0 "This is for the best."
+ murder_outcome.1401.a:0 "Tak będzie najlepiej."
  murder_outcome.1401.b:0 "No, this seems wrong."
  murder_outcome.2000.t:0 "Twist of Fate"
  murder_outcome.2000.desc:0 "As I make all the preparations necessary for [target.GetTitledFirstNamePossessive] departure from this world I am interrupted by a page. The [owner.Custom('InsultNoun')] went and died without any help from me!"

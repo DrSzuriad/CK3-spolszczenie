@@ -8,3 +8,5 @@
  MULTIPLAYER_LOBBY_JOIN_PROGRESS: "Dołączam... [LobbyPlayer.GetTransferProgress|0%]"
  MULTIPLAYER_LOBBY_PLAYED_BY: ""
  MULTIPLAYER_LOBBY_PLAYED_BY_YOU: "Twoja postać"
+ FAITH_LOBBY_WINDOW: ""
+ CULTURE_LOBBY_WINDOW: "[Culture.GetNameNoTooltip]"

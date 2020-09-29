@@ -1,6 +1,6 @@
 ﻿l_english:
  martial_good_trait_match_good_outcome:0 "As an active and enthusiastic child, it is no surprise that [ROOT.Char.GetFirstName] has done well in [ROOT.Char.GetHerHis] studies of war and combat."
- martial_bad_trait_match_good_outcome:0 "To say that the unruly [ROOT.Char.GetFirstName] did not seem cut out for a life of war is an understatement. However, [ROOT.Char.GetSheHe] has defied all expectation."
+ martial_bad_trait_match_good_outcome:0 "To say that the unruly [ROOT.Char.GetFirstName] did not seem cut out for a life of war is an understatement. However, [ROOT.Char.GetSheHe] has defied all expectations."
  martial_neutral_trait_match_good_outcome:0 "With sufficient tutelage, even a child that has displayed little natural inclination towards warfare, such as [ROOT.Char.GetFirstName], can come to truly understand it."
  education_martial_3_outcome_description:0 "[ROOT.Char.GetSheHe|U] has shown great aptitude both in battle tactics and the management of armies. [ROOT.Char.GetSheHe|U] will make a fine commander one day, I am sure."
  education_martial_3_outcome_description_not_commander:0 "[ROOT.Char.GetSheHe|U] has shown great aptitude both in battle tactics and the management of armies. It is a shame that [ROOT.Char.GetSheHe] will never command armies."

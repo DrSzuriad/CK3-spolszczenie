@@ -4,7 +4,6 @@
  SETTING_TUTORIAL: "Tutorial"
  SETTING_DISABLED_HINTS: "Disabled hints"
  SETTING_FOCUS_ON_COMBAT: "Focus on combat"
- SETTING_REALM_BORDERS_AGAINST_WATER: "Realm Borders on Coasts"
  SETTING_TOOLTIP_DELAY: "Tooltip Delay"
  SETTING_TOOLTIP_DELAY_TOOLTIP: "#T $SETTING_TOOLTIP_DELAY$#!\nSets the delay before tooltips appear."
  SETTING_TOOLTIP_UNLOCK_TIME: "Unlock Delay"

@@ -58,6 +58,6 @@
  CULTURE_COOLTIP_ERA: "Current [era|E]: [Culture.GetCultureEra.GetName]"
  CULTURE_COOLTIP_NO_AVAILABLE_INNOVATION: "No available innovations"
  CULTURE_WINDOW_CULTURE_HEAD_NOTPLAYER: "[CultureWindow.GetCultureHeadInfo]. [CultureWindow.GetMyCultureInfo]"
- CULTURE_COOLTIP_HEAD: "[cultural_head|E]: [Culture.GetCultureHead.GetUIName]"
+ CULTURE_COOLTIP_HEAD: "[cultural_head|E]: [Culture.GetCultureHead.GetUIName|U]"
  CULTURE_COOLTIP_NO_HEAD: "[cultural_head|E]: None"
- CULTURE_COOLTIP_CLICK: "#I Click to view [Culture.GetNameNoTooltip]"
+ CULTURE_COOLTIP_CLICK: "#I Click to view [Culture.GetNameNoTooltip]#!"
