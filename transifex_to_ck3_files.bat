@@ -160,6 +160,8 @@ del /s /f /q game
 mkdir game
 del /s /f /q jomini
 mkdir jomini
+del /s /f /q clausewitz
+mkdir clausewitz
 cd ../
 echo "Copying new localisation"
 xcopy /s temp\\ck3 "%project_folder%"
