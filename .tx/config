@@ -3578,7 +3578,7 @@ source_file = pliki/en/clausewitz/localization/languages.yml
 source_lang = en
 type = YAML_GENERIC
 
-[spolszczeniev2.clausewitzyml]
+[spolszczeniev2.cw_text_utils_l_englishclausewitzyml]
 file_filter = pliki/<lang>/clausewitz/localization/text_utils/cw_text_utils_l_english.yml
 minimum_perc = 0
 source_file = pliki/en/clausewitz/localization/text_utils/cw_text_utils_l_english.yml
