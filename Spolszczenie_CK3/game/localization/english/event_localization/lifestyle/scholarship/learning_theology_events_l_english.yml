@@ -122,7 +122,7 @@
  learning_theology_special.1001.a.failure.toast:0 "[bishop.GetTitledFirstName] thanked me for delivering the heretical book to the pyre"
  learning_theology_special.1001.b:0 "I better study this in private..."
  learning_theology_special.1001.c:0 "This heretical filth should burn!"
- learning_theology_special.1002.t:0 "New Dogma"
+ learning_theology_special.1002.t:0 "Nowy dogmat"
  learning_theology_special.1002.a.desc:0 "By integrating the contents of the old text to the modern [ROOT.Char.GetFaith.GetAdjective] practices, I have left an historical mark on our faith, one that few of my successors will hope to ever match.\n\nSome notable representatives of our clergy still scoff at this unusual change in our doctrines, but, thanks to my eloquence, most of the influential theocrats have been convinced of the legitimacy of my reform."
  learning_theology_special.1002.b.desc:0 "It was no easy task convincing [vassal_pope.GetTitledFirstName] of the authenticity of the text first, and then the other major representative of the [ROOT.Char.GetFaith.GetAdjective] faith below [vassal_pope.GetHerHim], but my passion and my knowledge of theological matters won the day.\n\nSome notable representatives of our clergy still scoff at this unusual change in our doctrines, but most of the influential theocrats have been convinced of its legitimacy."
  learning_theology_special.1002.a:0 "Clearly, [ROOT.Char.GetFaith.HighGodName] [ROOT.Char.GetFaith.HighGodHerselfHimself] led me to this book!"

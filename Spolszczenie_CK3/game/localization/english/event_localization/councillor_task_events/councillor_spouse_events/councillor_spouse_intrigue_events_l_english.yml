@@ -1,7 +1,7 @@
 ﻿l_english:
  councillor_spouse_intrigue.0001.message:0 "[councillor.GetTitleAsName] and [spymaster.GetCouncilTitle] Cooperate"
- councillor_spouse_intrigue.0002.message:0 "[councillor.GetTitleAsName] Exposes Scheme"
- councillor_spouse_intrigue.0003.message:0 "[councillor.GetTitleAsName] Discovers Secret"
+ councillor_spouse_intrigue.0002.message:0 "[councillor.GetTitleAsName] ujawnia spisek"
+ councillor_spouse_intrigue.0003.message:0 "[councillor.GetTitleAsName] odkrywa sekret"
  councillor_spouse_intrigue.0004.message:0 "[councillor.GetTitleAsName] Aids Scheme"
  councillor_spouse_intrigue.0005.message:0 "[councillor.GetTitleAsName] Manipulates Subject"
  councillor_spouse_intrigue.0006.message:0 "Naivety Lost"

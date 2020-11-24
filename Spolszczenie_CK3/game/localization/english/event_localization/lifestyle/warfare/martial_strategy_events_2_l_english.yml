@@ -19,6 +19,6 @@
  martial_strategy.4010.b.tt_success:0 "You successfully rebuild the walls of [crumbling_holding.GetNameNoTierNoTooltip]"
  martial_strategy.4010.b.tt_botch:0 "You completely botch the reconstruction"
  strategy_paid_for_walls_modifier:0 "Professionally Rebuilt Walls"
- strategy_let_walls_crumble_modifier:0 "Crumbling Walls"
+ strategy_let_walls_crumble_modifier:0 "Rozpadające się mury"
  strategy_botched_supervised_walls_modifier:0 "Disastrously Rebuilt Walls"
  strategy_successfully_supervised_walls_modifier:0 "Adeptly Rebuilt Walls"

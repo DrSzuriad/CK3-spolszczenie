@@ -12,7 +12,7 @@
  hunt_mystical_animal.1003.c:0 "My [steward.GetCouncilTitle] will sort this."
  hunt_mystical_animal.1003.d:0 "I can do it. I #EMP must#!!"
  hunt_mystical_animal.1004.desc:0 ""My [ROOT.Char.GetLadyLord]! We have gotten reports of people seeing the white [ROOT.Char.Custom('LocalAnimal')] in the local forest! They claim that everything from prosperity to sickness follows it, but all seem fairly certain that it's in the area."\n\nIt's here? In [location.GetNameNoTier]?!"
- hunt_mystical_animal.1004.a:0 "We ride!"
+ hunt_mystical_animal.1004.a:0 "Jedziemy!"
  hunt_mystical_animal.1004.a.tt:0 "It will not elude me this time."
  hunt_mystical_animal.1004.b:0 "I will not allow it to pull my strings like this."
  hunt_mystical_animal.1005.desc:0 "\n\nAnd the [ROOT.Char.Custom('LocalAnimal')] bounds away into the [ROOT.Char.Custom('TerrainType')], gone as fast as it appeared."

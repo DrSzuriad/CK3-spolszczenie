@@ -12,7 +12,7 @@
  vassal_interaction.0001.e:0 "No. And you cannot stop me!"
  vassal_interaction.0002.opening:0 "[recipient.Custom2('GreetingToLiege', ROOT.Char)]"
  vassal_interaction.0002.desc:0 "I will of course obey your wisdom and desire. While my cause is just, I will give it up for now, for the good of the realm."
- vassal_interaction.0002.a:0 "An obedient servant is a good servant."
+ vassal_interaction.0002.a:0 "Posłuszny sługa to dobry sługa."
  vassal_interaction.0003.desc:0 "I have come too close to my goals to give them up for nothing. I will yield if you promise me future restitution."
  vassal_interaction.0003.a:0 "You have my word."
  vassal_interaction.0003.b:0 "You should be doing as I say, no matter what!"

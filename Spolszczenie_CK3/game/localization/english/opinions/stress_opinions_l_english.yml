@@ -1,6 +1,6 @@
 ﻿l_english:
- stress_neglected_child_opinion:0 "Neglected"
- stress_neglected_spouse_opinion:0 "Neglected"
+ stress_neglected_child_opinion:0 "Zaniedbano"
+ stress_neglected_spouse_opinion:0 "Zaniedbano"
  stress_disagreed_with_councillor:0 "Sprzeczka"
  stress_upset_councillor:0 "Niezgoda"
  stress_outburst:0 "Outburst"
@@ -11,6 +11,6 @@
  heir_of_stressed_liege_opinion:0 "Excessive Pressure"
  stress_unceremoniously_dismissed_opinion:0 "Unceremoniously Dismissed"
  stress_abdicated_opinion:0 "Abdicated"
- stress_sycophant_opinion:0 "Sycophant"
+ stress_sycophant_opinion:0 "Pochlebca"
  stress_denied_food_opinion:0 "Zakazane jedzenie"
- forced_to_stay_away_from_the_bottle_opinion:0 "Zmuszony do trzymania się z dala od butelki"
+ forced_to_stay_away_from_the_bottle_opinion:0 "Zmuszono do trzymania się z dala od butelki"

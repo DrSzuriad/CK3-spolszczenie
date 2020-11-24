@@ -20,7 +20,7 @@
  fabricate_hook_outcome.1003.a:0 "So simple, yet so convincing."
  fabricate_hook_outcome.1004.t:0 "$fabricate_hook_header$ Foul Words"
  fabricate_hook_outcome.1004.desc:0 "I have started a series of vicious rumors against [target.GetTitledFirstName]. None of them are true, and someone should decry them as the obvious lies they are.\n\nWhat better way for that #EMP someone#! to have [target.GetFirstNameNoTooltip] in their debt?"
- fabricate_hook_outcome.1004.a:0 "I must stand up to this injustice!"
+ fabricate_hook_outcome.1004.a:0 "Muszę stawić czoła tej niesprawiedliwości!"
  fabricate_hook_outcome.1004.a.flavor:0 "My [ROOT.Char.GetFaith.PriestNeuter] is not going to like this."
  fabricate_hook_outcome.1004.a.flavor_sacred_shadows:0 "My [ROOT.Char.GetFaith.PriestNeuter] is going to love this!"
  fabricate_hook_outcome.1005.t:0 "$fabricate_hook_header$ Barbaric but Effective"

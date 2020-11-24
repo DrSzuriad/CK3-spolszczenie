@@ -13,7 +13,7 @@
  marriage_interaction.0004.a:0 "Tak będzie najlepiej."
  marriage_interaction.0005.t:0 "A Betrothal Left to Wither"
  marriage_interaction.0005.desc:0 "Pomimo negocjacji i starannego planowania, wydaje się, że nigdy nie poślubię mojej narzeczone[Select_CString( CHARACTER.IsFemale, 'j', 'go' )], [other_betrothed.GetTitledFirstName]. Pomimo tego, że nadszedł czas na zawarcie przyrzeczonego małżeństwa, żadna ze stron nie podjęła kroków w celu zawarcia umowy."
- marriage_interaction.0005.a:0 "Kto wie, z kim będę teraz ożeniony."
+ marriage_interaction.0005.a:0 "Kto wie, z kim wezmę teraz ślub."
  marriage_interaction.0006.t:0 "A Betrothal Left to Wither"
  marriage_interaction.0006.desc:0 "Pomimo negocjacji i starannego planowania, wydaje się, że nigdy nie poślubię mojej narzeczone[Select_CString( CHARACTER.IsFemale, 'j', 'go' )], [other_betrothed.GetTitledFirstName]. Pomimo tego, że nadszedł czas na zawarcie przyrzeczonego małżeństwa, żadna ze stron nie podjęła kroków w celu zawarcia umowy."
  marriage_interaction.0006.a:0 "Kogo w końcu poślubię?"

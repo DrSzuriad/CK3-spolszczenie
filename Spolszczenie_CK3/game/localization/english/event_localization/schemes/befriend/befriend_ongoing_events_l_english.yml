@@ -261,7 +261,7 @@
  befriend_ongoing.6002.t:0 "Freedom and Friendliness"
  befriend_ongoing.6002.desc:0 "[owner.GetTitledFirstName] has been uncharacteristically friendly towards me lately.\n\nIf this change of tone is indicative of a change of character, perhaps [owner.GetSheHe] could be convinced to release my [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('prisoner'))], [prisoner.GetTitledFirstName] from captivity?"
  befriend_ongoing.6002.a:0 "Surely if [owner.GetSheHe] truly wants to be my friend..."
- befriend_ongoing.6002.a.tt:0 "If [owner.GetFirstNameNoTooltip] accepts:"
+ befriend_ongoing.6002.a.tt:0 "Jeżeli [owner.GetFirstNameNoTooltip] zaakceptuje:"
  befriend_ongoing.6002.b:0 "[prisoner.GetFirstNameNoTooltip] can wait a little longer."
  befriend_ongoing.6002.b.tt:0 "#F [owner.GetFirstNameNoTooltip] can keep [prisoner.GetHerHim]#!"
  befriend_ongoing.6004.desc:0 "Interpreting my recent friendliness as a sign, [target.GetTitledFirstName] has come to me with concern for one of my prisoners.\n\n"It would please me greatly if you were to release my [target.Custom2('RelationToMe', SCOPE.sC('prisoner'))] [prisoner.GetTitledFirstName] from [prisoner.GetHerHis] [prisoner.Custom('PrisonTypeCell')]," [target.GetSheHe] says, [ROOT.Char.Custom2('QuirkPPPosOrNeg', SCOPE.sC('target'))]."

@@ -24,6 +24,7 @@
  yearly.0003.dislikes_incest.desc:0 "describes encounters no [child.GetWomanMan] should ever have with [child.GetHerHis] [child.Custom2('RelationToMeShort', SCOPE.sC('relative'))]..."
  yearly.0003.likes_incest.desc:0 "goes into #EMP fascinating#! details about their carnal relationship..."
  yearly.0003.b:0 "Attempt to cover up their liaisons."
+ yearly.0003.a:0 "The world will know of their crimes against [ROOT.Char.GetFaith.PantheonTerm]!"
  yearly.0003.c:0 "Imprison them for disgracing House [ROOT.Char.GetHouse.GetNameNoTooltip]!"
  yearly.0003.d:0 "Invite them to my chambers for some "family time.""
  yearly.0011.t:0 "Comet Sighted!"

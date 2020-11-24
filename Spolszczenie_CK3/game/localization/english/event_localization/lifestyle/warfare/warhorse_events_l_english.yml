@@ -40,7 +40,7 @@
  warhorse.1001.e:0 "I am not interested."
  warhorse.1001.e.tt:0 "#F "[THIS.Char.Custom('WarhorseStoryName')] needs no other trainer than me!"#!"
  warhorse.1002.desc:0 "[ROOT.Char.Custom('WarhorseStoryName')] took to [ROOT.Char.Custom('HorseStoryHerHis')] training well, and results could be seen instantly!"
- warhorse.1002.a:0 "That was money well spent!"
+ warhorse.1002.a:0 "To były dobrze wydane pieniądze!"
  warhorse.1101.t:0 "[ROOT.Char.Custom('WarhorseStoryName')|U]: Sunny Day"
  warhorse.1101.desc:0 "As I make my way to the stable I am greeted by the happy neighs of [ROOT.Char.Custom('WarhorseStoryName')]. [ROOT.Char.Custom('HorseStorySheHe')|U] seems eager to stretch [ROOT.Char.Custom('HorseStoryHerHis')] legs in the beautiful weather, and I can do nothing but agree."
  warhorse.1101.a:0 "I must take every moment to practice!"

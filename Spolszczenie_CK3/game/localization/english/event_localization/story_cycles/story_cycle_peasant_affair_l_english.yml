@@ -1,5 +1,5 @@
 ﻿l_english:
- peasant_affair.1001.t:0 "Unexpected Reunions"
+ peasant_affair.1001.t:0 "Nieoczekiwane spotkania"
  peasant_affair.1001.desc_opening:0 ""My [ROOT.Char.GetLadyLord], my heart would not know rest until I found you again! It is I, [peasant_character.GetFirstNameNoTooltip]. Surely you remember me, my [ROOT.Char.Custom('LoverPetName')]?"\n\n"
  peasant_affair.1001.desc_child:0 "I cannot believe my eyes: the beautiful [peasant_character.GetWomanMan] I indulged in many moons ago, the [peasant_character.GetMotherFather] of my dear [ROOT.Char.Custom2('RelationToMe', SCOPE.sC('peasant_child'))] [peasant_child.GetTitledFirstName], has shown up at court."
  peasant_affair.1001.desc_their_child:0 "I cannot believe my eyes: the beautiful [peasant_character.GetWomanMan] I indulged in many moons ago has shown up at court. Beside [peasant_character.GetHerHim] stands what appears to be [peasant_character.GetHerHis] [peasant_child.Custom('GetDaughterSon')], and I cannot help but react to [peasant_child.GetHerHis] age..."
@@ -63,6 +63,6 @@
  peasant_affair.3004.t:0 "An Opportunity"
  peasant_affair.3004.desc:0 "[peasant_character.GetTitledFirstName] looks thoughtful as [peasant_character.GetSheHe] [peasant_character.Custom('quirk_pos_present')]. "You need a [peasant_character.Custom('WifeHusband')]," [peasant_character.GetSheHe] says at last. "I know I am not of noble birth, but think of everything we share...""
  peasant_affair.3004.a:0 "It could only ever be you."
- peasant_affair.3004.b:0 "We cannot marry, but that does not mean we cannot be together."
- peasant_affair.3004.c:0 "You cannot be my [peasant_character.Custom('WifeHusband')], but you belong with me."
- peasant_affair.3004.d:0 "Marriage is out of the question."
+ peasant_affair.3004.b:0 "Nie możemy się pobrać, ale to nie znaczy, że nie możemy być razem."
+ peasant_affair.3004.c:0 "Nie możesz być mo[Select_CString( peasant_character.IsFemale, 'ją', 'im' )] [Select_CString( peasant_character.IsFemale, 'żoną, 'mężem' )], ale mimo to należysz do mnie."
+ peasant_affair.3004.d:0 "Małżeństwo nie wchodzi w rachubę."

@@ -24,7 +24,7 @@
  sibling.0005.a:0 ""Don't you dare speak of [sibling.GetHerHim|U] like that!""
  sibling.0005.b:0 "[sibling.GetSheHe|U] must learn that [sibling.GetHerHis] behavior is unacceptable."
  sibling.0005.c:0 "Enough is enough, [sibling.GetFirstNameNoTooltip]!"
- sibling.1001.t:0 "Diplomatic Support"
+ sibling.1001.t:0 "Wsparcie dyplomatyczne"
  sibling.1001.desc:0 "My [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('sibling') ) ], [sibling.GetTitledFirstName], has come to me with ideas of how to put [sibling.GetHerHis] silver tongue to good use.\n\n"I can serve as an envoy, or even dictate dispatches for your scribes.""
  sibling.1001.a:0 "I know just where you would be the most useful."
  accepted_sibling_help_tt:0 "A valuable sibling may feel they are owed some kind of reward..."

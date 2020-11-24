@@ -22,7 +22,7 @@
  iberia_north_africa.0015.part1.desc:0 "Thousands and thousands of brave Muslims died on the road to Tours, on the Path of the Martyrs. They were fighting for a better future, a new golden age for the true believers. Today, that future is finally here."
  iberia_north_africa.0015.part2.desc:0 "\n\nWith a firm foothold in Europe, my glorious conquest has only just begun..."
  iberia_north_africa.0015.a:0 "Allahu akbar."
- iberia_north_africa.0016.t:0 "Echoes From the Past"
+ iberia_north_africa.0016.t:0 "Echa przeszłości"
  iberia_north_africa.0016.relation_former.desc:0 "\n\nMy [ROOT.Char.Custom2('RelationToMe', avenger)] [avenger.GetTitledFirstName]"
  iberia_north_africa.0016.former.desc:0 "\n\n[avenger.GetTitledFirstName]"
  iberia_north_africa.0015.islam.desc:0 "has led [avenger.GetHerHis] troops into the heart of the old Frankish kingdom and crushed all opposition. With [avenger.GetHerHis] firm foothold in Europe, the future of Islam looks brighter than ever."

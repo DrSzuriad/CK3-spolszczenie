@@ -14,7 +14,7 @@
  stewardship_general.5011.b.message_1:0 "You make a great deal"
  stewardship_general.5011.b.message_2:0 "The builder outwits you"
  stewardship_general.5011.c:0 "Stop wasting my time!"
- stewardship_general.5011.every_courtier:0 "Every [courtier|E]"
+ stewardship_general.5011.every_courtier:0 "Każdy [courtier|E]"
  stewardship_general.5013.t:0 "Beasts of the Deep"
  stewardship_general.5013.desc:0 "As I stroll through the gardens, I notice my [ROOT.GetCharacter.Custom2('RelationToMe' , SCOPE.sC('carp_food')) ] [carp_food.GetTitledFirstName] sitting on a rock by the carp pond. Leaning down over the edge, [carp_food.GetSheHe] trails [carp_food.GetHerHis] fingers through the water. A shadow stirs beneath the surface..."
  stewardship_general.5013.a:0 "[carp_food.GetFirstNameNoTooltip], step back! Step back from... NOOO!"
