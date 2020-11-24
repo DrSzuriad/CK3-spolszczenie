@@ -20,4 +20,4 @@
  major_decisions.0001.t: ""
  major_decisions.0001.desc: ""
  major_decisions.0001.a: ""
- major_decisions.0002.opening: ""
+ major_decisions.0002.opening: "[actor.Custom2('AppropriateGreeting', ROOT.Char)]"

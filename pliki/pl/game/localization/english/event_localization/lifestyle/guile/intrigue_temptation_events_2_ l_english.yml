@@ -38,7 +38,7 @@
  intrigue_temptation.3110.8_desc: ""
  intrigue_temptation.3110.9_desc: ""
  intrigue_temptation.3110.a: ""
- intrigue_temptation.3110.a.tt_success: ""
+ intrigue_temptation.3110.a.tt_success: "[potential_deviant.GetShortUINameNoTooltip] odkrywa nowe hobby"
  intrigue_temptation.3110.a.tt_fail: ""
  intrigue_temptation.3110.b: ""
  intrigue_temptation.3120.t: ""

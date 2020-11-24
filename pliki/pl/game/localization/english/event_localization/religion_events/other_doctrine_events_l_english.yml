@@ -25,6 +25,6 @@
  event_false_converts_without_counties.desc: ""
  event_false_converts_counties_only.desc: ""
  false_convert_modifier: ""
- false_convert_modifier_desc: ""
+ false_convert_modifier_desc: "Uważa się, że wiele społeczności w tym hrabstwie nadal praktykuje w tajemnicy swoją dawną wiarę."
  relieved_cryptos_modifier: ""
- relieved_cryptos_modifier_desc: ""
+ relieved_cryptos_modifier_desc: " Tutejsi mieszkańcy są wdzięczni za pozwolenie na ponowne praktykowanie swojej wiary w otwartej przestrzeni."

@@ -8,3 +8,7 @@
  claim_throne_preparing_for_struggle_modifier: "Przygotowania do walki"
  claim_throne_preparing_for_struggle_modifier_desc: "Ta postać przygotowuje się do nieuchronnej walki ze swoim seniorem."
  claim_throne_claimed_world_modifier: "Pan wszystkich warzyw"
+ claim_throne_rule_sword_modifier: ""
+ claim_throne_tricked_peasants_modifier: ""
+ claim_throne_tricked_nobles_modifier: ""
+ claim_throne_fooled_them_all_modifier: ""

@@ -65,7 +65,7 @@
  stress_threshold.1721.desc.honest: ""
  stress_threshold.1721.desc.craven: ""
  stress_threshold.1721.desc.content: ""
- stress_threshold.1721.desc.cynical: ""
+ stress_threshold.1721.desc.cynical_no_collide: ""
  stress_threshold.1721.desc.paranoid: ""
  stress_threshold.1721.desc.callous: ""
  stress_threshold.1721.desc.compassionate: ""

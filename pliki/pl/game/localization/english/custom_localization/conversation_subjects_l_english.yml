@@ -20,7 +20,7 @@
  herhis_favorite_daughter: "[ROOT.Char.GetHerHis] ulubiona córka"
  herhis_favorite_son: "[ROOT.Char.GetHerHis] ulubiony syn"
  herhis_beloved_spouse: "[ROOT.Char.GetHerHis] ukochany [ROOT.Char.Custom('WifeHusbandOpp')]"
- herhis_investments: ""
+ herhis_investments: "[ROOT.Char.GetHerHis] inwestycje"
  sword_practise: ""
  herhis_tome_collection: ""
  herhis_friends: "[ROOT.Char.GetHerHis] przyjaciele"

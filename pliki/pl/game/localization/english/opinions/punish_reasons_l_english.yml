@@ -1,5 +1,5 @@
 ﻿l_english:
- I_CAN_PUNISH_DESCRIPTION: ""
+ I_CAN_PUNISH_DESCRIPTION: "#T Znany przestępca#!\n\n[CHARACTER.GetShortUINameNoTooltip] jest znanym [Concept('criminal', 'przestępcą')|E], co pozwala mi na karanie [Select_CString( CHARACTER.IsFemale, 'jej', 'go' )] bez uznania mnie za [Concept('tyrant', 'tyrana')|E]."
  POSSIBLE_PUNISHMENTS: "Możliwe kary:"
  I_CAN_PUNISH_CRIME_HEADER: "\n\n#S $NAME$#!\n$POSSIBLE_PUNISHMENTS$"
  I_CAN_PUNISH_PUNISHMENT_ITEM_ACTIVE: "\n$BULLET_WITH_TAB$$PUNISHMENT$"

@@ -19,6 +19,6 @@
  martial_strategy.4010.b.tt_success: ""
  martial_strategy.4010.b.tt_botch: ""
  strategy_paid_for_walls_modifier: ""
- strategy_let_walls_crumble_modifier: ""
+ strategy_let_walls_crumble_modifier: "Rozpadające się mury"
  strategy_botched_supervised_walls_modifier: ""
  strategy_successfully_supervised_walls_modifier: ""

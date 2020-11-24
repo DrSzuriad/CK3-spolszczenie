@@ -9,4 +9,4 @@
  BANNER_RAISE_PROMPT: "#T Wystaw armię i wszystkich żołnierzy przydzielonych do tego punktu zbornego#!"
  BANNER_CANCEL_RAISING: "Anuluj wystawianie"
  BANNER_CANCEL_RAISING_PROMPT: "#T Anuluj wystawianie z tego punktu zbornego i rozwiąż armię#!"
- BANNER_LIST_DOMAIN_LIMIT_PENALTY_TOOLTIP: ""
+ BANNER_LIST_DOMAIN_LIMIT_PENALTY_TOOLTIP: "@warning_icon!#X Above [domain_limit|E]. Poborowi z [Concept( 'domain', 'domeny ' )|E] zredukowani o $PENALTY|%0$#!"

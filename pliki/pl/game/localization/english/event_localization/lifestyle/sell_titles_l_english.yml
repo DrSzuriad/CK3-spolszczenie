@@ -1,5 +1,5 @@
 ﻿l_english:
- sell_titles.0001.opening: ""
+ sell_titles.0001.opening: "[vassal.Custom2('AppropriateGreetingPositive', ROOT.Char )]"
  sell_titles.0001.desc.dislike: ""
  sell_titles.0001.desc.normal: ""
  sell_titles.0001.a: ""

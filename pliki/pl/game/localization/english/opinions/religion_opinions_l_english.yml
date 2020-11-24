@@ -1,6 +1,6 @@
 ﻿l_english:
  tenet_excommunicated_crime: "[GetTrait('excommunicated').GetName( GetNullCharacter )]"
- tenet_divine_marriage_opinion: "Ma boskie małżeństwo"
+ tenet_divine_marriage_opinion: "Ma boski mariaż"
  tenet_fellow_pacifist_opinion: "Kolega pacyfista"
  tenet_communal_identity_opinion: "Tożsamość społeczna"
  tenet_temporal_condemnation_crime: "Potępienie doczesne"
@@ -9,7 +9,7 @@
  donated_to_church_opinion: "Darowizna dla Kościoła"
  religious_freedom_opinion: "Promowana wolność religijna"
  asked_me_to_take_vows_opinion: "Wymuszone ślubowanie"
- literalist_debate_victor_opinion: "Pokonany w debacie"
+ literalist_debate_victor_opinion: "Pokonano w debacie"
  literalist_debate_loser_opinion: "Pokonał mnie w debacie"
  attempted_literalist_debate_opinion: ""
  cavalier_accusations_opinion: ""

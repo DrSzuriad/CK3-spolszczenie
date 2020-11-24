@@ -261,7 +261,7 @@
  befriend_ongoing.6002.t: ""
  befriend_ongoing.6002.desc: ""
  befriend_ongoing.6002.a: ""
- befriend_ongoing.6002.a.tt: ""
+ befriend_ongoing.6002.a.tt: "Jeżeli [owner.GetFirstNameNoTooltip] zaakceptuje:"
  befriend_ongoing.6002.b: ""
  befriend_ongoing.6002.b.tt: ""
  befriend_ongoing.6004.desc: ""

@@ -8,7 +8,7 @@
  GAMESETUP_TUTORIAL_PROMPT_INTRO: "Crusader Kings III to wciągająca gra strategiczna pełna dynastii oraz intryg!"
  GAMESETUP_TUTORIAL_PROMPT_RECOMMEND: "Jeśli nie masz doświadczenia w świecie Crusader Kings, zdecydowanie zalecamy zapoznanie się z samouczkiem."
  GAMESETUP_TUTORIAL_PROMPT_ABOUT_RULER: "W samouczku będziesz grać jako $bookmark_rags_to_riches_petty_king_murchad$, władca Irlandii. Poprowadź swoją rodzinę i dynastię, aby pokonać swoich wrogów i zostać królem Irlandii!"
- GAMESETUP_TUTORIAL_PROMPT_ASK: "Naucz się gry jako $bookmark_rags_to_riches_petty_king_murchad$?"
+ GAMESETUP_TUTORIAL_PROMPT_ASK: "Czy chcesz nauczyć się gry jako $bookmark_rags_to_riches_petty_king_murchad$?"
  GAMESETUP_TUTORIAL_PROMPT_DISABLE: "Może później"
  GAMESETUP_TUTORIAL_PROMPT_PLAY_TUTORIAL: "$GAMESETUP_PLAY_TUTORIAL$"
  GAMESETUP_PLAY_TUTORIAL: "Samouczek"

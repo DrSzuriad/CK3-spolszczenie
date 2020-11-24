@@ -162,7 +162,7 @@
  vassal.3004.a: ""
  vassal.3004.b: ""
  vassal.3004.c: ""
- vassal.5010.opening: ""
+ vassal.5010.opening: "[vassal.Custom2('AppropriateGreeting', ROOT.Char)]"
  vassal.5010.desc: ""
  vassal.5010.a: ""
  vassal.5010.a.tt: ""

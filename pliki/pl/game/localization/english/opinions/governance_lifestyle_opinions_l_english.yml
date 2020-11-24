@@ -1,8 +1,8 @@
 ﻿l_english:
  governance_careful_mapping_of_my_realm_opinion: ""
- governance_was_impatient_opinion: ""
- governance_emphasised_authority_opinion: ""
- governance_taxed_clergy_when_bankrupt: "Kler opodatkowany w przypadku bankructwa"
+ governance_was_impatient_opinion: "Odmówiono mi odpoczynku"
+ governance_emphasised_authority_opinion: "Podkreślony autorytet"
+ governance_taxed_clergy_when_bankrupt: "Duchowieństwo opodatkowane w przypadku bankructwa"
  governance_taxed_nobles_when_bankrupt: "Szlachta opodatkowana w przypadku bankructwa"
  governance_taxed_cities_when_bankrupt: "Miasta opodatkowane w przypadku bankructwa"
  governance_fish_pond: "Wspaniały staw rybny"

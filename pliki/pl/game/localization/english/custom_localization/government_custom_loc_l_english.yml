@@ -1,7 +1,7 @@
 ﻿l_english:
- tribal_reform_clan: ""
- tribal_reform_feudal: ""
+ tribal_reform_clan: "klanowy"
+ tribal_reform_feudal: "feudalny"
  government_authority_tribe: "[tribal_authority|E]"
  government_authority_crown: "[crown_authority|E]"
- government_authority_revoke_retract_tribe: ""
- government_authority_revoke_retract_crown: ""
+ government_authority_revoke_retract_tribe: "najwyższy"
+ government_authority_revoke_retract_crown: "ograniczony"

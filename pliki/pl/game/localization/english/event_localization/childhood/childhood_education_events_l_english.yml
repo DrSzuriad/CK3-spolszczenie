@@ -1,6 +1,6 @@
 ﻿l_english:
- childhood_education.0004.t: ""
- childhood_education.0004.opening: ""
+ childhood_education.0004.t: "Zmienność młodości"
+ childhood_education.0004.opening: "[Select_CString(ward.IsFemale, 'Moja wychowanka', 'Mój wychowanek')], [ward.GetTitledFirstName], [Select_CString(ward.IsFemale, 'zmieniła', 'zmienił')] kierunek swojej nauki.\n\n"
  childhood_education.0004.desc1: ""
  childhood_education.0004.desc2: ""
  childhood_education.0004.desc_fallback: ""

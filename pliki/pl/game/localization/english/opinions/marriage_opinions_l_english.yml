@@ -1,7 +1,7 @@
 ﻿l_english:
- broke_betrothal_opinion: "Zerwane zaręczyny"
- refused_alliance_opinion: "Odrzucony sojusz"
- polygamous_marriage_opinion: ""
+ broke_betrothal_opinion: "Zerwano zaręczyny"
+ refused_alliance_opinion: "Odrzucono sojusz"
+ polygamous_marriage_opinion: "Nie jest w [Concept( 'marriage', 'małżeństwie' )|E] monogamicznym"
  former_polygamous_marriage_opinion: ""
  relative_in_blasphemous_union_opinion: ""
  spouse_does_not_believe_in_concubines_opinion: ""

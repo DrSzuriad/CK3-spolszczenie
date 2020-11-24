@@ -1,5 +1,5 @@
 ﻿l_english:
- peasant_affair.1001.t: ""
+ peasant_affair.1001.t: "Nieoczekiwane spotkania"
  peasant_affair.1001.desc_opening: ""
  peasant_affair.1001.desc_child: ""
  peasant_affair.1001.desc_their_child: ""
@@ -63,6 +63,6 @@
  peasant_affair.3004.t: ""
  peasant_affair.3004.desc: ""
  peasant_affair.3004.a: ""
- peasant_affair.3004.b: ""
- peasant_affair.3004.c: ""
- peasant_affair.3004.d: ""
+ peasant_affair.3004.b: "Nie możemy się pobrać, ale to nie znaczy, że nie możemy być razem."
+ peasant_affair.3004.c: "Nie możesz być mo[Select_CString( peasant_character.IsFemale, 'ją', 'im' )] [Select_CString( peasant_character.IsFemale, 'żoną, 'mężem' )], ale mimo to należysz do mnie."
+ peasant_affair.3004.d: "Małżeństwo nie wchodzi w rachubę."

@@ -16,6 +16,7 @@
  east_europe.0015.b: "... [target_list_member_b.GetNameNoTierNoTooltip]."
  east_europe.0015.c: "... [target_list_member_c.GetNameNoTierNoTooltip]."
  east_europe.0015.d: "... [target_list_member_d.GetNameNoTierNoTooltip]."
+ east_europe.0015.tooltip: ""
  east_europe.0016.desc: ""
  east_europe.0016.a: ""
  east_europe.0017.desc: ""
