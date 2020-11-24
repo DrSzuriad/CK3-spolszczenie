@@ -1,5 +1,0 @@
-﻿l_english:
- KILL_LIST:0 "Zabójstwa - [KillListWindow.GetCharacter.GetUIName]"
- OPEN_KILL_LIST_TOOLTIP:0 "#T View Kills\n#!View all Characters [Character.GetShortUINameNoTooltip] [Character.LocalPlayerString( 'have', 'has' )] killed, [Character.LocalPlayerString( 'if you want to reminisce...', 'that you know of...' )]"
- DEATH_DATE:0 "Data śmierci"
- DEATH_REASON:0 "Przyczyna śmierci"
