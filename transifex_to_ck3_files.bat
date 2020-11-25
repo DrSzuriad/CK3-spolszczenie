@@ -162,6 +162,7 @@ del /s /f /q jomini
 mkdir jomini
 del /s /f /q clausewitz
 mkdir clausewitz
+del abcd.txt
 cd ../
 echo "Copying new localisation"
 xcopy /s temp\\ck3 "%project_folder%"
