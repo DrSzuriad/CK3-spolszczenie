@@ -1,0 +1,39 @@
+2021-01-29 17:47:33 [main] INFO  LocaleLoader:23 - Loading locale file "D:\ck3\CK3-spolszczeniev2\custom_text\orginal\polish_b_adj_custom_loc_l_english.yml" of type "EUIV".
+2021-01-29 17:47:33 [main] ERROR TextUtils:16 - Provided string has to start and end with quote symbols. Got ""Örgöö" #Ulaanbaatar = modern name".
+2021-01-29 17:47:33 [main] ERROR TextUtils:16 - Provided string has to start and end with quote symbols. Got ""Kuzna" #Kuznetsk".
+2021-01-29 17:47:33 [main] ERROR TextUtils:16 - Provided string has to start and end with quote symbols. Got ""Kyzyl Char" #Krasnoyarsk".
+2021-01-29 17:47:33 [main] ERROR TextUtils:16 - Provided string has to start and end with quote symbols. Got ""Kankhot" #Kansk".
+2021-01-29 17:47:33 [main] ERROR TextUtils:16 - Provided string has to start and end with quote symbols. Got ""Bura" #Bratsk".
+2021-01-29 17:47:33 [main] ERROR TextUtils:16 - Provided string has to start and end with quote symbols. Got ""Erhüü" #Irkutsk".
+2021-01-29 17:47:33 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\ck3\CK3-spolszczeniev2\custom_text\orginal\polish_b_adj_custom_loc_l_english.yml".
+2021-01-29 17:47:33 [main] INFO  ProcessHelper:53 - Converting locale "polish_b_adj_custom_loc_l_english.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2021-01-29 17:47:33 [main] ERROR TextUtils:16 - Provided string has to start and end with quote symbols. Got ""Kankhot" #Kansk".
+2021-01-29 17:47:33 [main] ERROR TextConverter:79 - Quote symbol expected in string ""Kankhot" #Kansk" at index 15. Got "k".
+2021-01-29 17:48:35 [main] INFO  LocaleLoader:23 - Loading locale file "D:\ck3\CK3-spolszczeniev2\custom_text\orginal\polish_b_adj_custom_loc_l_english.yml" of type "EUIV".
+2021-01-29 17:48:35 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\ck3\CK3-spolszczeniev2\custom_text\orginal\polish_b_adj_custom_loc_l_english.yml".
+2021-01-29 17:48:35 [main] INFO  ProcessHelper:53 - Converting locale "polish_b_adj_custom_loc_l_english.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2021-01-29 17:48:35 [main] INFO  LocaleLoader:77 - Writing locale file "polish_b_adj_custom_loc_l_english.yml" to file "D:\ck3\CK3-spolszczeniev2\custom_text\en\polish_b_adj_custom_loc_l_english.yml".
+2021-01-29 18:11:39 [main] INFO  LocaleLoader:23 - Loading locale file "D:\ck3\CK3-spolszczeniev2\custom_text\orginal\polish_b_adj_custom_loc_l_english.yml" of type "YAML".
+2021-01-29 18:11:39 [main] ERROR TextUtils:16 - Provided string has to start and end with quote symbols. Got "0 "Warka"".
+2021-01-29 18:11:39 [main] ERROR ValidatorTransifex:35 - Unescaped quote symbol in string "0 "Warka"" at index 2.
+Check if provided file is correct and not in EUIV format.
+2021-01-29 18:13:23 [main] INFO  LocaleLoader:23 - Loading locale file "D:\ck3\CK3-spolszczeniev2\custom_text\orginal\polish_b_adj_custom_loc_l_english.yml" of type "EUIV".
+2021-01-29 18:13:23 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\ck3\CK3-spolszczeniev2\custom_text\orginal\polish_b_adj_custom_loc_l_english.yml".
+2021-01-29 18:13:23 [main] INFO  ProcessHelper:53 - Converting locale "polish_b_adj_custom_loc_l_english.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2021-01-29 18:13:23 [main] INFO  LocaleLoader:77 - Writing locale file "polish_b_adj_custom_loc_l_english.yml" to file "D:\ck3\CK3-spolszczeniev2\custom_text\en\polish_b_adj_custom_loc_l_english.yml".
+2021-01-29 18:13:38 [main] INFO  LocaleLoader:23 - Loading locale file "D:\ck3\CK3-spolszczeniev2\custom_text\orginal\polish_b_adj_custom_loc_l_english.yml" of type "YAML".
+2021-01-29 18:13:38 [main] ERROR TextUtils:16 - Provided string has to start and end with quote symbols. Got "0 "Warka"".
+2021-01-29 18:13:38 [main] ERROR ValidatorTransifex:35 - Unescaped quote symbol in string "0 "Warka"" at index 2.
+Check if provided file is correct and not in EUIV format.
+2021-01-29 18:14:34 [main] INFO  LocaleLoader:23 - Loading locale file "D:\ck3\CK3-spolszczeniev2\custom_text\orginal\polish_b_adj_custom_loc_l_english.yml" of type "EUIV".
+2021-01-29 18:14:34 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\ck3\CK3-spolszczeniev2\custom_text\orginal\polish_b_adj_custom_loc_l_english.yml".
+2021-01-29 18:14:34 [main] INFO  ProcessHelper:53 - Converting locale "polish_b_adj_custom_loc_l_english.yml" from type "EUIV" to "YAML" using charset "NoCharset".
+2021-01-29 18:14:34 [main] INFO  LocaleLoader:77 - Writing locale file "polish_b_adj_custom_loc_l_english.yml" to file "D:\ck3\CK3-spolszczeniev2\custom_text\en\polish_b_adj_custom_loc_l_english.yml".
+2021-01-29 18:14:37 [main] INFO  LocaleLoader:23 - Loading locale file "D:\ck3\CK3-spolszczeniev2\custom_text\pl\polish_b_adj_custom_loc_l_english.yml" of type "YAML".
+2021-01-29 18:14:37 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\ck3\CK3-spolszczeniev2\custom_text\pl\polish_b_adj_custom_loc_l_english.yml".
+2021-01-29 18:14:37 [main] INFO  ProcessHelper:53 - Converting locale "polish_b_adj_custom_loc_l_english.yml" from type "YAML" to "EUIV" using charset "NoCharset".
+2021-01-29 18:14:37 [main] INFO  LocaleLoader:77 - Writing locale file "polish_b_adj_custom_loc_l_english.yml" to file "D:\ck3\CK3-spolszczeniev2\custom_text\wynik\polish_b_adj_custom_loc_l_english.yml".
+2021-01-29 18:50:58 [main] INFO  LocaleLoader:23 - Loading locale file "D:\ck3\CK3-spolszczeniev2\custom_text\pl\polish_b_adj_custom_loc_l_english.yml" of type "YAML".
+2021-01-29 18:50:58 [main] INFO  LocaleLoader:68 - Finished loading locale file "D:\ck3\CK3-spolszczeniev2\custom_text\pl\polish_b_adj_custom_loc_l_english.yml".
+2021-01-29 18:50:58 [main] INFO  ProcessHelper:53 - Converting locale "polish_b_adj_custom_loc_l_english.yml" from type "YAML" to "EUIV" using charset "NoCharset".
+2021-01-29 18:50:58 [main] INFO  LocaleLoader:77 - Writing locale file "polish_b_adj_custom_loc_l_english.yml" to file "D:\ck3\CK3-spolszczeniev2\custom_text\wynik\polish_b_adj_custom_loc_l_english.yml".
