@@ -1,0 +1,5 @@
+﻿l_english:
+ prisontype_dungeon:0 "loch"
+ prisontype_house_arrest:0 "areszt domowy"
+ prisontypecell_dungeon_cell:0 "cela w lochu"
+ prisontypecell_house_arrest:0 "areszt domowy"

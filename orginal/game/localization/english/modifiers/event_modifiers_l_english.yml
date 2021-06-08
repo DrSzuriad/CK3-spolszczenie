@@ -15,7 +15,6 @@
  bactria_royal_tolls_modifier:0 "Royal Tolls"
  bactria_royal_tolls_modifier_desc:0 "Much of the trade across old Bactria is funneled through here, and the royal toll ensures every trader pays their due."
  witch_coven:0 "Witch Coven"
- witch_coven_desc:1 ""
  seeker_of_knowledge:0 "Seeker of Knowledge"
  diligent_student:0 "Diligent Student"
  recently_tortured:0 "Recently Tortured"
@@ -70,9 +69,11 @@
  seeing_dead_people_modifier_desc:0 "This character is haunted by visits from people long since dead"
  focused_on_mystical_animal_modifier:0 "Focused on Hunt"
  focused_on_mystical_animal_modifier_desc:0 "This character's mind is completely set on the hunt"
+
  the_great_khan_modifier:0 "The Great Khan"
  the_great_khan_modifier_desc:0 "This character has been proclaimed the Great Khan, the rightful successor to the Khan of Khans."
  trickster_modifier:0 "Trickster"
+
  alluring_confidence:0 "Alluring Confidence"
  confident_diplomat:0 "Confident Diplomat"
  confident_strategist:0 "Confident Strategist"
@@ -103,3 +104,7 @@
  almohad_leader_modifier:0 "Almohad Leader"
  rebuilding_marrakesh_modifier:0 "Rebuilding Marrakesh"
  refused_to_rebuild_marrakesh_modifier:0 "Refused to Rebuild Marrakesh"
+ crushing_charge_modifier:0 "Crushing Charge"
+ church_burner_modifier:0 "House of Worship Burner"
+ war_guilt_modifier:0 "War Guilt"
+ liege_discourages_pillaging_modifier:0 "Liege Discourages Pillaging"
