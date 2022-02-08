@@ -89,7 +89,7 @@
  ll_climb_inside_you:0 "Wejść w ciebie"
  ll_sniff_your_breeches:0 "powąchać Twoje spodnie,"
  ll_sniff_your_smock:0 "powąchać Twoją sukienkę,"
- ll_that_i_may_know:0 "aby [ROOT.Char.Custom('love_letter_knowledge_object')]"
+ ll_that_i_may_know:0 "aby [ROOT.Char.Custom2('love_letter_knowledge_object', SCOPE.sC('second') )]"
  ll_belong_together:0 "Ty i ja należymy do siebie"
  ll_together_forever:0 "Ty i ja, na zawsze razem"
  ll_together_makes_the_world_turn:0 "Ty i ja razem jesteśmy tym, co sprawia, że słońce porusza się po niebie"

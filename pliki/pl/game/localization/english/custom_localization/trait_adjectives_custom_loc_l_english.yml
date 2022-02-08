@@ -1,0 +1,13 @@
+﻿l_english:
+ trait_desc_wasteful: "rozrzutn[Select_CString(ROOT.Char.IsFemale, 'a', 'y' )]"
+ trait_desc_magnanimous: "wspaniałomyśln[Select_CString(ROOT.Char.IsFemale, 'a', 'y' )]"
+ trait_desc_munificent: "hojn[Select_CString(ROOT.Char.IsFemale, 'a', 'y' )]"
+ trait_desc_lecherous: "rozpustn[Select_CString(ROOT.Char.IsFemale, 'a', 'y' )]"
+ trait_desc_playful: "figlarn[Select_CString(ROOT.Char.IsFemale, 'a', 'y' )]"
+ trait_desc_lascivious: "lubieżn[Select_CString(ROOT.Char.IsFemale, 'a', 'y' )]"
+ trait_desc_unreliable: "nierzeteln[Select_CString(ROOT.Char.IsFemale, 'a', 'y' )]"
+ trait_desc_dynamic: "dynamiczn[Select_CString(ROOT.Char.IsFemale, 'a', 'y' )]"
+ trait_desc_restless: "nerwow[Select_CString(ROOT.Char.IsFemale, 'a', 'y' )]"
+ trait_desc_rapacious: "chciw[Select_CString(ROOT.Char.IsFemale, 'a', 'y' )]"
+ trait_desc_acquisitive: "zachłann[Select_CString(ROOT.Char.IsFemale, 'a', 'y' )]"
+ trait_desc_avaricious: "skąp[Select_CString(ROOT.Char.IsFemale, 'a', 'y' )]"

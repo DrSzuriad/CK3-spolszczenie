@@ -1,0 +1,6 @@
+﻿l_english:
+ possessed_vision: "wizja"
+ possessed_episode: "epizod"
+ age_young: "młod[Select_CString(ROOT.Char.IsFemale, 'a', 'y' )]"
+ age_middle_aged: "podstarzał[Select_CString(ROOT.Char.IsFemale, 'a', 'y' )]"
+ age_old: "star[Select_CString(ROOT.Char.IsFemale, 'a', 'y' )]"
