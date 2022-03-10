@@ -54,7 +54,7 @@
  stress_threshold.1502.d: "Wizyta w lochach oczyści mój umysł..."
  stress_threshold.1502.e: "Po prostu będę musiał[Select_CString( ROOT.Char.IsFemale, 'a', '' )] wytrzymać."
  stress_threshold.1502.f: "Może gdybym prowadził[Select_CString( ROOT.Char.IsFemale, 'a', '' )] dziennik moich nieszczęść?"
- stress_threshold.1502.g: "[scoped_ruler.Custom('HighGodNameWol')], muszę się napić!"
+ stress_threshold.1502.g: "[scoped_ruler.GetFaith.CustomLoc('HighGodNameWol')], muszę się napić!"
  stress_threshold.1503.t: "Załamanie psychiczne: Pustka w środku"
  stress_threshold.1503.desc: "Nic, co robię, już mnie nie satysfakcjonuje. Mimo wszelkich starań nie mogę znaleźć ani szczęścia, ani spokoju ducha. Jakby czegoś brakowało.\n\nCo mogę zrobić, aby wypełnić tę pustkę, która dręczy moją duszę?"
  stress_threshold.1503.a.a: "Może jeszcze kilka klejnotów?"

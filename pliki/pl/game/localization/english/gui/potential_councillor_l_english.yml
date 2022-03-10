@@ -5,7 +5,7 @@
  POTENTIAL_COUNCILLOR_ASSIGN: "Mianuj"
  POTENTIAL_COUNCILLOR_SWAP: "Zamień"
  FIRE_COUNCILLOR_CONFIRMATION_DESCRIPTION: "[CHARACTER.GetShortUINameNoTooltip] zostanie wyrzucon[Select_CString( CHARACTER.IsFemale, 'a', 'y' )] z mojej rady."
- FIRE_COUNCILLOR_CONFIRMATION_DESCRIPTION_WITH_EFFECT: ""
+ FIRE_COUNCILLOR_CONFIRMATION_DESCRIPTION_WITH_EFFECT: "[CHARACTER.GetShortUINameNoTooltip] zostanie zwolnion[Select_CString( CHARACTER.IsFemale, 'a', 'y' )] z mojej rady z następującymi skutkami:"
  POTENTIAL_COUNCILLOR_ASSIGN_TT_TITLE: "#T Mianuj na stanowisko[Select_CString(EqualTo_string('$NAME$', '$councillor_steward$'), ' zarządcy', Select_CString(EqualTo_string('$NAME$', '$councillor_marshal$'), ' marszałka', Select_CString(EqualTo_string('$NAME$', '$councillor_chancellor$'), ' kanclerza', Select_CString(EqualTo_string('$NAME$', '$councillor_court_chaplain$'), ' nadwornego kapelana', Select_CString(EqualTo_string('$NAME$', '$councillor_spymaster$'), ' mistrza szpiegów', Concatenate(': ', '$NAME$'))))))]#!"
  POTENTIAL_COUNCILLOR_REASSIGN_TT_TITLE: "#T Przenieś na stanowisko[Select_CString(EqualTo_string('$NAME$', '$councillor_steward$'), ' zarządcy', Select_CString(EqualTo_string('$NAME$', '$councillor_marshal$'), ' marszałka', Select_CString(EqualTo_string('$NAME$', '$councillor_chancellor$'), ' kanclerza', Select_CString(EqualTo_string('$NAME$', '$councillor_court_chaplain$'), ' nadwornego kapelana', Select_CString(EqualTo_string('$NAME$', '$councillor_spymaster$'), ' mistrza szpiegów', Concatenate(': ', '$NAME$'))))))]#!"
  POTENTIAL_COUNCILLOR_SWAP_TT_TITLE: "#T Zamień stanowiska w radzie#!"

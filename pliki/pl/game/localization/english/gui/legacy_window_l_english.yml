@@ -3,7 +3,7 @@
  LEGACY_REIGN: "Grano: [LegacyItem.GetStartDate.GetYear]–[LegacyItem.GetEndDate.GetYear] ([LegacyItem.GetReignLength])"
  LEGACY_REIGN_TT: "Grano pomiędzy [LegacyItem.GetStartDate.GetString] i [LegacyItem.GetEndDate.GetString]"
  LEGACY_REIGN_CURRENT: "[LegacyItem.GetStartDate.GetYear]–"
- LEGACY_KILLS_TOOLTIP: ""
+ LEGACY_KILLS_TOOLTIP: "#T Zabójstwa: [GetDataModelSize(Character.GetKills)|V]#!"
  LEGACY_SCORE: "Wynik: [LegacyItem.GetScore]"
  LEGACY_PRESTIGE: "[GetPrestigeLevelName(LegacyItem.GetPrestigeLevel)]"
  LEGACY_CONTINUE_PLAYING: "Możesz kontynuować grę jako"

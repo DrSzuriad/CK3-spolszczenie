@@ -3,6 +3,6 @@
  OPEN_KILL_LIST_TOOLTIP: "#T Wyświetl zabójstwa\n#!Wyświetl wszystkie [Character.LocalPlayerString( 'swoje zabójstwa, jeżeli chcesz je powspominać...', Concatenate( Concatenate('zabójstwa postaci ', Character.GetShortUINameNoTooltip ), ', o których wiesz...') )] "
  ARTIFACT_KILL_LIST: ""
  OPEN_ARTIFACT_KILL_LIST_TOOLTIP: ""
- ARTIFACT_FORGOTTEN_SOLDIER_KILLS: ""
+ ARTIFACT_FORGOTTEN_SOLDIER_KILLS: "#S Zapomniani żołnierze#!: [Artifact.GetForgottenSoldiersCount|V]"
  DEATH_DATE: "Data śmierci"
  DEATH_REASON: "Przyczyna śmierci"

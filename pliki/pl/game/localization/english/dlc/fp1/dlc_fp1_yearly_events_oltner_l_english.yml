@@ -66,7 +66,7 @@
  grizzled_veterans: "Szpakowaci weterani"
  glory_seekers: "Poszukiwacze chwały"
  fp1_yearly.2300.t: "Poszukiwacze chwały"
- fp1_yearly.2300.desc: "Tawerny na terenie [tavern_location.GetAdjective] odnotowały ostatnio napływ wojowników żądnych chwały.\n\nWśród nich — grupa starych i zaprawionych w bojach weteranów, huskarlów szukających nowe[Select_CString(recruiting_character.IsFemale, 'j mistrzyni', 'go mistrza' )].\n\nJest też cała rzesza pełnych entuzjazmu młodych mężczyzn, którzy bez przerwy mówią o poszukiwaniu chwały u obcych brzegów.\n\nMoże warto rozważyć zatrudnienie niektórych z nich?"
+ fp1_yearly.2300.desc: "Karczmy na ziemiach [tavern_location.GetAdjective] odnotowały ostatnio napływ wojowników żądnych chwały.\n\nWśród nich — grupa starych i zaprawionych w bojach weteranów, huskarlów szukających nowe[Select_CString(recruiting_character.IsFemale, 'j mistrzyni', 'go mistrza' )].\n\nJest też cała rzesza pełnych entuzjazmu młodych mężczyzn, którzy bez przerwy mówią o poszukiwaniu chwały u obcych brzegów.\n\nMoże warto rozważyć zatrudnienie niektórych z nich?"
  fp1_yearly.2300.a: "Sprowadzę huskarlów do mojego domu."
  fp1_yearly.2300.b: "Młodzi mężczyźni są niedoświadczeni — ale jest ich wielu!"
  fp1_yearly.2300.c: "Pora podwoić cenę piwa!"

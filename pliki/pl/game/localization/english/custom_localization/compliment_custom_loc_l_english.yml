@@ -1,5 +1,5 @@
 ﻿l_english:
- compliment_fair: "uczciw[Select_CString(ROOT.GetCharacter.IsFemale, 'a', 'y' )]"
+ compliment_fair: "piękn[Select_CString(ROOT.GetCharacter.IsFemale, 'a', 'y' )]"
  compliment_handsome: "przystojn[Select_CString(ROOT.GetCharacter.IsFemale, 'a', 'y' )]"
  compliment_impressive: "zachwycając[Select_CString(ROOT.GetCharacter.IsFemale, 'a', 'y' )]"
  compliment_benign: "przyjazn[Select_CString(ROOT.GetCharacter.IsFemale, 'a', 'y' )]"
@@ -12,7 +12,7 @@
  compliment_sensible: "racjonaln[Select_CString(ROOT.GetCharacter.IsFemale, 'a', 'y' )]"
  compliment_serene: "pogodn[Select_CString(ROOT.GetCharacter.IsFemale, 'a', 'y' )]"
  compliment_fallback: "przyjacielsk[Select_CString(ROOT.GetCharacter.IsFemale, 'a', 'i' )]"
- compliment_fair_article: "uczciw[Select_CString(ROOT.GetCharacter.IsFemale, 'ą', 'ym' )]"
+ compliment_fair_article: "piękn[Select_CString(ROOT.GetCharacter.IsFemale, 'ą', 'ym' )]"
  compliment_handsome_article: "przystojn[Select_CString(ROOT.GetCharacter.IsFemale, 'ą', 'ym' )]"
  compliment_impressive_article: "zachwycając[Select_CString(ROOT.GetCharacter.IsFemale, 'ą', 'ym' )]"
  compliment_benevolent_article: "dobroczynn[Select_CString(ROOT.GetCharacter.IsFemale, 'ą', 'ym' )]"

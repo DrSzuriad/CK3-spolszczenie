@@ -13,4 +13,4 @@
  scheme_power_resistance_difference_trigger: "Różnica siły odporności na spisek"
  can_start_scheme_trigger: "Można rozpocząć [scheme|El]"
  is_scheme_exposed_trigger: "Czy ujawniono [scheme|El]"
- NOT_WANTS_TO_BE_SOULMATES: ""
+ NOT_WANTS_TO_BE_SOULMATES: "[TARGET_CHARACTER.GetShortUIName] nie chce być bratnią duszą"

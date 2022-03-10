@@ -9,7 +9,7 @@
  councillor_spouse_stewardship.1007.desc: "Wygodne życie"
  councillor_spouse_stewardship.1008.desc: "Zdrowy dwór"
  councillor_spouse_stewardship.1009.desc: "Negocjacje rozwojowe"
- councillor_spouse_stewardship.1010.desc: ""
+ councillor_spouse_stewardship.1010.desc: "[ROOT.Char.Custom2('RelationToMeShort', SCOPE.sC('councillor'))|U] reguluje dług dworzanina"
  councillor_spouse_stewardship.1011.desc.guilds: "Pokonane gildie"
  councillor_spouse_stewardship.1011.desc.serfs: "Uspokojeni chłopi"
  councillor_spouse_stewardship.1011.desc.corruption: "Kontrola poborców podatkowych"

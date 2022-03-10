@@ -11,7 +11,7 @@
  DECISIONS_VIEW_MAJOR_TOGGLE: "Powiadom mnie, gdy ta decyzja będzie dostępna"
  DECISION_DETAIL_REQUIREMENTS: "Wymagania"
  DECISION_DETAIL_EFFECTS: "Efekty"
- DECISION_NOT_VALID: ""
+ DECISION_NOT_VALID: "@warning_icon! #X Nie spełniasz wszystkich wymagań#!"
  DECISIONS_VIEW_COUNCILLOR: "W [Concept( 'council', 'radzie' )|E] twojego [Concept( 'liege', 'seniora' )|E]"
  DECISIONS_VIEW_LEAVE_COUNCIL: "Zrezygnuj"
  DECISIONS_VIEW_LEAVE_COUNCIL_TT: "#T Zrezygnuj ze stanowiska w radzie#!\nRezygnacja ze stanowiska [GetPlayer.GetCouncilTitlePossessive|l], będzie oznaczać zrzeczenie się wszelkich korzyści płynących z tego stanowiska"

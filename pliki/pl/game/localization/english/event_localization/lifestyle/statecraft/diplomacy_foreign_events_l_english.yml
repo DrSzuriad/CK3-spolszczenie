@@ -154,7 +154,7 @@
  diplomacy_foreign_special.1030.a_introverted: "Wreszcie trochę ciszy i spokoju."
  diplomacy_foreign_special.1030.a: "Niech Twoja podróż będzie szybka i bezpieczna!"
  diplomacy_foreign_special.1031.t: "$diplomacy_foreign_special.1017.t$: Wczesny wyjazd"
- diplomacy_foreign_special.1031.desc: ""
+ diplomacy_foreign_special.1031.desc: "Ledwie wzeszło słońce, gdy zauważył[Select_CString(ROOT.Char.IsFemale, 'am', 'em' )], że jeden z służących mojego gościa niesie dużą skrzynię. Podążam za [Select_CString(dummy_servant_gender.IsFemale, 'tą kobietą', 'tym mężczyzną' )] na dziedziniec, gdzie [foreign_guest.GetTitledFirstName] nadzoruje załadunek swoich powozów.\n\n[foreign_guest.GetFirstName] przestraszył[Select_CString(foreign_guest.IsFemale, 'a', '' )] się, gdy się z [Select_CString(foreign_guest.IsFemale, 'nią', 'nim' )] przywitał[Select_CString(ROOT.Char.IsFemale, 'am', 'em' )] i zacz[Select_CString(foreign_guest.IsFemale, 'ęła', 'ął' )] wymyślać jakieś niejasne wymówki o liście i pilnych sprawach. Niezręcznie życzę [foreign_guest.GetHerHim] bezpiecznej podróży i wracam do swoich prywatnych kwater."
  diplomacy_foreign_special.1031.a: "Nie tak to sobie wyobrażał[Select_CString( ROOT.Char.IsFemale, 'am', 'em' )]..."
  diplomacy_foreign.0100.opening: "[other_ruler.Custom2('AppropriateGreeting', ROOT.Char)]"
  diplomacy_foreign.0100.desc: "Myślę, że w najlepszym interesie naszych państw byłoby zaaranżowanie spotkania z naszymi spadkobiercami, którymi są [main_heir.GetTitledFirstName] oraz [other_heir.GetTitledFirstName]. Upewnienie się, że teraz zbudują stabilny i zdrowy związek z pewnością zapewni stabilność naszych ziem w przyszłości."

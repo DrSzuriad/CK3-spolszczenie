@@ -7,7 +7,7 @@
  prison_notification.0002.a: "Co mogę teraz dla nie[Select_CString( prisoner.IsFemale, 'j', 'go' )] zrobić?"
  prison_notification.0003.message: "[ROOT.Char.Custom2('RelationToMe', SCOPE.sC('prisoner'))|U] uwięzion[Select_CString( SCOPE.sC('prisoner').IsFemale, 'a', 'y' )]!"
  prison_notification.1001.t: "Z dala od światła"
- prison_notification.1001.desc: "[actor.GetTitledFirstName] wrzucił[Select_CString(actor.IsFemale, 'a', '' )] mnie do lochów! Czy zgniję tutaj, w wilgotnych tunelach [actor.GetHerHis] zamku?"
+ prison_notification.1001.desc: "[actor.GetTitledFirstName] wrzucił[Select_CString(actor.IsFemale, 'a', '' )] mnie do lochów! Czy zgniję tutaj, w wilgotnych tunelach [actor.GetHerHis] [actor.Custom('FortifiedBuildingGenitive')]?"
  prison_notification.1001.a: "[actor.GetSheHe|U] jest gorsz[Select_CString( actor.IsFemale, 'a', 'y' )] od tych szczurów, które się tutaj szwendają."
  prison_notification.1001.a.tt: "Będąc w lochach, mój [stress|El] będzie stopniowo rosnąć, aż do niebezpiecznych poziomów!"
  prison_notification.1002.t: "Powiew świeżego powietrza"

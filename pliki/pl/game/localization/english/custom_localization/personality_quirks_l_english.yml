@@ -379,7 +379,7 @@
  arbitrary_neg_quirk_personal_pp: "nie słuchając dłużej"
  just_neg_quirk_personal_pp: "zastanawiając się"
  cynical_neg_quirk_personal_pp: "przewracając oczami"
- zealous_neg_quirk_personal_pp: "ofiarując [ROOT.GetCharacter.Custom('HighGodNameCel')] modlitwę"
+ zealous_neg_quirk_personal_pp: "ofiarując [ROOT.GetCharacter.GetFaith.CustomLoc('HighGodNameCel')] modlitwę"
  zealous_2_neg_quirk_personal_pp: "mamrocząc pod nosem"
  paranoid_neg_quirk_personal_pp: "rozglądając się"
  trusting_neg_quirk_personal_pp: "cofając się"
