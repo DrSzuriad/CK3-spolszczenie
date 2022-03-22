@@ -227,7 +227,7 @@
  intrigue_scheme_ongoing.5026.b_agent: "„Już zgodził[Select_CString(court_chaplain.IsFemale, 'a', 'e' )]ś się mi pomóc, więc...”"
  intrigue_scheme_ongoing.5026.b: "„Zgodnie z wolą [target.GetFaith.HighGodNamePossessive]...”"
  intrigue_scheme_ongoing.5026.b_scholar: "„Przyjrzyjmy się, czego [target.GetFaith.HighGodName] chce”."
- intrigue_scheme_ongoing.5026.b_scholar_tt: ""
+ intrigue_scheme_ongoing.5026.b_scholar_tt: "Co za zbieg okoliczności, że to będzie to samo, czego ja chcę!"
  intrigue_scheme_ongoing.5026.c: "Nie, tylko [target.GetSheHe] i [target.GetFaith.PantheonTerm] powinni o tym wiedzieć."
  intrigue_scheme_ongoing.3010.t: ""
  intrigue_scheme_ongoing.3010.desc: ""

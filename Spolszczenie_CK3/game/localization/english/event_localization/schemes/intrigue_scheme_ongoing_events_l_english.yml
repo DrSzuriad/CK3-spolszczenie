@@ -227,7 +227,7 @@
  intrigue_scheme_ongoing.5026.b_agent:0 "„Już zgodził[Select_CString(court_chaplain.IsFemale, 'a', 'e' )]ś się mi pomóc, więc...”"
  intrigue_scheme_ongoing.5026.b:0 "„Zgodnie z wolą [target.GetFaith.HighGodNamePossessive]...”"
  intrigue_scheme_ongoing.5026.b_scholar:0 "„Przyjrzyjmy się, czego [target.GetFaith.HighGodName] chce”."
- intrigue_scheme_ongoing.5026.b_scholar_tt:0 "What a coincidence that it will be the same as what I want!"
+ intrigue_scheme_ongoing.5026.b_scholar_tt:0 "Co za zbieg okoliczności, że to będzie to samo, czego ja chcę!"
  intrigue_scheme_ongoing.5026.c:0 "Nie, tylko [target.GetSheHe] i [target.GetFaith.PantheonTerm] powinni o tym wiedzieć."
  intrigue_scheme_ongoing.3010.t:0 "[scheme.GetNameNoTooltip]: [target.GetCulture.GetLanguage.GetNameNoTooltip] Secrets"
  intrigue_scheme_ongoing.3010.desc:0 "As part of my ongoing plan to [scheme.GetNameNoTooltip|l] [target.GetTitledFirstName], some of my minions regularly intercept [target.GetHerHis] letters. Due to my expert comprehension of [target.GetCulture.GetLanguage.GetName], I could personally read them rather than relying on second hand translations, though it is sure to take time away from some of my duties.\n\nPerhaps I would glean valuable insights this way?"

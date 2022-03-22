@@ -64,7 +64,7 @@
  TRAIT_OPINION_DYNASTY: "Opinia [Concept( 'dynasty', 'dynastii' )|E]"
  TRAIT_OPINION_OF_LIEGE: "Opinia o [Concept( 'liege', 'seniorze' )|E]"
  TRAIT_OPINION_OF_VASSAL: "Opinia o [Concept( 'vassals', 'wasalach' )|E]"
- TRAIT_OPINION_LIEGE: "Opinia [Concept( 'liege', 'seniora' )|E]"
+ TRAIT_OPINION_LIEGE: "Opinia o [Concept( 'liege', 'seniorze' )|E]"
  TRAIT_OPINION_VASSAL: "Opinia [Concept( 'vassal', 'wasala' )|E]"
  TRAIT_OPINION_SAME_TRAIT: "Opinia o postaciach z cechą „[TRAIT.GetNameNoTooltip( CHARACTER.Self )|l]”"
  TRAIT_OPINION_SAME_TRAIT_GROUP: "Opinia o postaci z cechą z grupy „[TRAIT_GROUP.GetName|l]”"

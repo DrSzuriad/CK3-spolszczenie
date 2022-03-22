@@ -735,7 +735,7 @@
  TRAIT_FLAG_DESC_can_improve_hostile_schemes_decision: "Odblokowuje decyzję [Concept( 'deceitful_progress_hostile_schemes_decision', 'nauki sztuki spiskowania' )|E] "
  TRAIT_FLAG_DESC_can_improve_capital_decision: "Odblokowuje decyzję [Concept( 'diligent_development_focus_decision', 'rozwinięcia stolicy' )|E]"
  TRAIT_FLAG_DESC_can_accelerate_schemes_decision: "Odblokowuje decyzję [Concept( 'impatient_rushing_all_schemes_decision', 'przyśpieszenia spisków' )|E] "
- TRAIT_FLAG_DESC_can_fabricate_hooks_on_rivals: ""
+ TRAIT_FLAG_DESC_can_fabricate_hooks_on_rivals: "Pozwala użyć [Concept( 'scheme', 'planu' )|E] #L #TOOLTIP:SCHEME_TYPE,fabricate_hook sfabrykowania haka#!#! przeciwko twoim [Concept( 'rival', 'rywalom' )|E]"
  INVALID: "Nieprawidłowe"
  RENAME_STRING_STARTS_WITH_SPACE: "@warning_icon!#X Nazwa zaczyna się od spacji#!"
  RENAME_STRING_STARTS_WITH_SPACE_NAMED: "@warning_icon!#X $NAME$ zaczyna się od spacji#!"

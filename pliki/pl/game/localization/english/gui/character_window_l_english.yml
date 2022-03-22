@@ -137,7 +137,7 @@
  THIRD_IS: "[CHARACTER.GetUIName] jest"
  CV_COURTIER_SPONSOR_INSPIRATION: ""
  CV_COURTIER_STAY_REASON: ""
- CV_COURTIER_WANTS_TO_LEAVE_COURT: ""
+ CV_COURTIER_WANTS_TO_LEAVE_COURT: "[CHARACTER.GetShortUINameNoTooltip] może opuścić[Select_CString( TARGET_CHARACTER.IsLocalPlayer, ' twój ', '' )][court|El][Select_CString( TARGET_CHARACTER.IsLocalPlayer, '', Concatenate(' postaci ', TARGET_CHARACTER.GetShortUIName))]. Zostanie tylko wtedy, gdy dasz [CHARACTER.GetHerHim] powód: $CV_COURTIER_STAY_REASON$."
  CV_COURTIER_WILL_LEAVE_COURT: "[CHARACTER.GetShortUINameNoTooltip] wkrótce opuści [TARGET_CHARACTER.LocalPlayerString( 'twój', '' )] [court|El] [TARGET_CHARACTER.LocalPlayerString( '', Concatenate('postaci ', TARGET_CHARACTER.GetShortUIName) )]. Zostanie tylko wtedy, gdy otrzyma powód, $CV_COURTIER_STAY_REASON$."
  CHARACTER_WINDOW_CLAIM_TOOLTIP: "[Claim.GetTooltip]\n$COA_TOOLTIP_CLICK_INFO_GUI$"
  CHARACTER_WINDOW_FULL_DESCRIPTION: "$RELATION$ • #TOOLTIP:AI_PERSONALITY_TOOLTIP $PERSONALITY$ #!"

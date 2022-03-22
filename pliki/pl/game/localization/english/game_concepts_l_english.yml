@@ -1595,7 +1595,7 @@
  game_concept_winter_severity_harsh: "Surowa zima"
  game_concept_winter_severity_harsh_desc: "[GetModifier( 'winter_harsh_modifier' ).GetDesc]"
  game_concept_deceitful_progress_hostile_schemes_decision: "$deceitful_progress_hostile_schemes_decision$ #weak (decyzja)#!"
- game_concept_deceitful_progress_hostile_schemes_decision_desc: ""
+ game_concept_deceitful_progress_hostile_schemes_decision_desc: "[decision|E] zwiększająca skuteczność [Concept( 'hostile_schemes', 'wrogich spisków' )|E]. Zapewnia [Concept( 'success_chance', 'szansę powodzenia' )|E] i [Concept( 'scheme_power', 'siłę spisku' )|E] w zamian za [stress|El]."
  game_concept_diligent_development_focus_decision: "$diligent_development_focus_decision$ #weak (decyzja)#!"
  game_concept_diligent_development_focus_decision_desc: "[decision|E] pozwalająca ci na ulepszenie twojej [Concept('capital', 'stolicy')|E]. Zapewnia [development|El] w zamian za [stress|El]."
  game_concept_impatient_rushing_all_schemes_decision: "$impatient_rushing_all_schemes_decision$ #weak (decyzja)#!"

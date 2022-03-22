@@ -194,7 +194,7 @@
  east_europe.0143.a: "Na pewno nigdy nie przekroczą Karpat?"
  east_europe.0143.a.tt: "$east_europe.0142.a.tt$"
  east_europe.0200.t: "[founder.GetTitleAsNameNoTooltip] Liwonii"
- east_europe.0200.desc.christian: ""
+ east_europe.0200.desc.christian: "Ziemie nad Bałtykiem przez wieki były prymitywnymi i nieokiełznanymi terenami. Stanowiły jedynie dom dla różnych heretyckich wyznań i czcicieli diabła, ale teraz, gdy przybył[Select_CString( founder.IsFemale, 'a', '' )] tu [founder.GetTitleAsNameNoTooltip|l] Liwonii, [ROOT.Char.GetFaith.GetReligion.GetNameNoTooltip|l] w imię  [founder.GetFaith.HighGodNamePossessive] ogrzeje tę wilgotną i mroźną krainę.\n\nSkoro [ROOT.Char.GetFaith.GetReligion.GetAdjectiveNoTooltip|l] misja w krajach bałtyckich zakończyła się sukcesem, mogę proklamować Liwonię — tytuł, który zjednoczy wszystkich Bałtów, tak jak życzy sobie [founder.GetFaith.random_GoodGodNames]."
  east_europe.0200.desc.nonchristian: ""
  east_europe.0200.desc.outro: ""
  east_europe.0200.a: ""

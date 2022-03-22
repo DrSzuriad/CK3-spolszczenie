@@ -152,7 +152,7 @@
  learning_scholarship_special.3099.termination.toast: "Udaremniona transmutacja"
  learning_scholarship_special.3099.termination.desc.prison: "Nie mogę dalej eksperymentować z transmutacją siedząc w więzieniu."
  learning_scholarship_special.3099.termination.desc.incapable: "Nie mogę dalej eksperymentować z transmutacją z powodu mojej niezdolności."
- learning_scholarship.4000.t: ""
+ learning_scholarship.4000.t: "Drogi [ROOT.GetCharacter.GetFaith.CustomLoc('HighGodNameWol')], wyjdź na zewnątrz!"
  learning_scholarship.4000.desc: "Jest późno, a ja pochłaniam porywający traktat o gramatyce klasycznej. W momencie, gdy zaczynam chichotać na widok rozkosznie złośliwych notek pozostawionych przez poprzedniego czytelnika na marginesie strony, do pokoju wchodzi m[Select_CString( spouse_uninterested_in_study.IsFemale, 'oja żona', 'ój mąż' )].\n\n„Nieudaczni[Select_CString( ROOT.Char.IsFemale, 'ca', 'k' )]! Zaniedbujesz wszystko oprócz nauki, czytając samotnie w domu od zmierzchu do świtu. Wyciągnij głowę z tych zakurzonych zwojów, albo nie przychodź dziś do mojego łóżka”."
  learning_scholarship.4000.a: "Jak sobie życzysz."
  learning_scholarship.4000.b: "Może od teraz moglibyśmy wspólnie czytać fragmenty tekstu."

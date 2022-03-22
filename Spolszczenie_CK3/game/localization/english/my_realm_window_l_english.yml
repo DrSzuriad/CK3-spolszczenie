@@ -104,7 +104,7 @@
  MY_REALM_WINDOW_MAP_ICON_LOW_CONTROL:0 "Niska [Concept( 'control', 'kontrola' )|E]"
  MY_REALM_WINDOW_DOMAIN_LEVIES:0 "[Concept( 'levies', 'Poborowi' )|E] z [Concept( 'domain', 'domeny' )|E] "
  MY_REALM_WINDOW_VASSAL_LEVIES:0 "[Concept( 'levies', 'Poborowi' )|E] od [Concept( 'vassal', 'wasala' )|E] "
- ME_REALM_WINDOW_EMPTY_HOLDINGS:0 "Empty Holdings: #high [GetDataModelSize(CountyGroup.GetEmptyHoldings)]#!"
+ ME_REALM_WINDOW_EMPTY_HOLDINGS:0 "Puste posiadłości: #high [GetDataModelSize(CountyGroup.GetEmptyHoldings)]#!"
  MY_REALM_WINDOW_POWERFUL_VASSAL:0 "[powerful_vassal|X]"
  MY_REALM_WINDOW_TITLES_LOST_ON_SUCCESSION:0 "@warning_icon! Tytuły tracone w wyniku sukcesji: [MyRealmWindow.GetNumTitlesLost]"
  MY_REALM_WINDOW_VASSAL_LIMIT:0 "[vassal_limit|E]: "

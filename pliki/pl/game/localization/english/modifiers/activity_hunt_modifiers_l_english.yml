@@ -48,5 +48,5 @@
  hunt_chose_truth_modifier_desc: "Ta postać powiedziała prawdę ze szkodą dla siebie"
  hunt_mystical_animal_modifier: "Upolowano mistyczne zwierzę"
  hunt_mystical_animal_modifier_desc: "Ta postać upolowała i zabiła mistyczne białe zwierzę"
- hunt_protected_their_secret_modifier: ""
- hunt_protected_their_secret_modifier_desc: ""
+ hunt_protected_their_secret_modifier: "Chroni tajemnice"
+ hunt_protected_their_secret_modifier_desc: "Ta postać trzyma swoje karty blisko piersi"
