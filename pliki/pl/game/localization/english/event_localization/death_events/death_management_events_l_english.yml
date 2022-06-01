@@ -1,5 +1,5 @@
 ﻿l_english:
- death_management.1000.killed.tt: "[THIS.Char.Custom2('MySheHe', SCOPE.sC('dead_character'))|U] [THIS.Char.Custom2('RelationToMe', SCOPE.sC('dead_character'))], [dead_character.GetTitledFirstName], został[Select_CString( dead_character.IsFemale, 'a zabita', ' zabity' )] przez [killer.GetTitledFirstName]."
+ death_management.1000.killed.tt: ""
  death_management.1000.t: "Dopóki śmierć nas nie rozłączy"
  death_management.1000.murder: "[dead_character.GetTitledFirstName] został[Select_CString( dead_character.IsFemale, 'a', '' )] zamordowan[Select_CString( dead_character.IsFemale, 'a', 'y' )]!"
  death_management.1000.like: "Jak serce może znieść taki ból bez pęknięcia? To niemożliwe! A jednak stało się inaczej. Moje serce bije, podczas gdy Twoje zamilkło. Och, [dead_character.GetFirstName], moja miłości. Życie bez Ciebie nie będzie już takie samo."
@@ -26,6 +26,7 @@
  death_management.lover.desc: "Tw[Select_CString( dead_character.IsFemale, 'oja', 'ój' )] kochn[Select_CString( dead_character.IsFemale, 'ka', 'ek' )], [dead_character.GetTitledFirstName], umarł[Select_CString( dead_character.IsFemale, 'a', '' )] "
  death_management.1005.t: "Pozostają tylko wspomnienia"
  death_management.1005.desc: "Och, [dead_character.GetFirstName]. Gdybyś nadal był[Select_CString( dead_character.IsFemale, 'a', '' )] ze mną, wiem, że powiedział[Select_CString( dead_character.IsFemale, 'abyś', 'byś' )] mi, żebym był[Select_CString( ROOT.Char.IsFemale, 'a', '' )] siln[Select_CString( ROOT.Char.IsFemale, 'a', 'y' )]... że będzie lepiej. I z pewnością miał[Select_CString( dead_character.IsFemale, 'abyś', 'byś' )] rację, jak zawsze. Teraz pozostało mi tylko przeklinać i płakać. Jak miał[Select_CString( ROOT.Char.IsFemale, 'abym', 'bym' )] tego nie robić, skoro od[Select_CString( dead_character.IsFemale, 'eszłaś', 'szedłeś' )] z tego świata?"
+ death_management.1005.desc.ritual_best_friend: ""
  death_management.1005.a: " Nigdy nie zostaniesz zapomnian[Select_CString( dead_character.IsFemale, 'a', 'y' )], [Select_CString( dead_character.IsFemale, 'moja przyjaciółko', 'stary przyjacielu' )]."
  death_management.1005.a.tt: "[Select_CString( dead_character.IsFemale, 'Twoja przyjaciółka', 'Twój przyjaciel' )], [dead_character.GetTitledFirstName], [THIS.Char.Custom2('DiedHouse_arrest', dead_character)]."
  death_management.friend.desc: "[Select_CString( dead_character.IsFemale, 'Twoja przyjaciółka', 'Twój przyjaciel' )], [dead_character.GetTitledFirstName], umarł[Select_CString( dead_character.IsFemale, 'a', '' )]."

@@ -49,3 +49,7 @@
  suggestion_request_war_aid_petition_label: "Sugestia: Poproś o wsparcie wojskowe"
  suggestion_request_war_aid_petition_desc: "Możesz poprosić swojego [Concept( 'liege', 'seniora' )|E] o pomoc w [Concept( 'war', 'wojnie' )|E]. Może się przyłączyć, lub zapłacić za żołnierzy."
  suggestion_request_war_aid_petition_click: "#IKliknij, aby wyświetlić [royal_court|El] twojego [Concept( 'lieges', 'seniora' )|E]#!"
+ suggestion_create_nation_fracturing_faction: ""
+ suggestion_create_nation_fracturing_faction_label: ""
+ suggestion_create_nation_fracturing_faction_desc: ""
+ suggestion_create_nation_fracturing_faction_click: ""

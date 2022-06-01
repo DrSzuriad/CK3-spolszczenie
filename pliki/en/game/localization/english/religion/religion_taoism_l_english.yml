@@ -1,8 +1,8 @@
 ﻿l_english:
  taoism_religion: "Taoism"
  taoism_religion_adj: "Taoist"
- taoism_religion_adjerent: "Taoist"
- taoism_religion_adjerent_plural: "Taoists"
+ taoism_religion_adherent: "Taoist"
+ taoism_religion_adherent_plural: "Taoists"
  taoism_religion_desc: "Tao is the source, pattern, and substance from which all things exist. Living in harmony with the Tao leads to peace, contentment, and upon death, ascension to live within the Tao as an immortal spirit."
  taoism_high_god_name: "Tao"
  taoism_high_god_name_2: "$taoism_high_god_name$"

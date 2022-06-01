@@ -628,7 +628,7 @@
  NOT_MISSING_UNIQUE_ANCESTORS_TRIGGER_THIRD: "[CHARACTER.GetShortUIName|U] does #bold not#! have more than $NUM|E$ missing unique ancestors"
  character_this_equal: "Target is [CHARACTER.GetShortUIName]"
  character_scope_equal: "Target is [CHARACTER.GetShortUIName]"
- none_this_equal: "Target is [CHARACTER.GetShortUIName]"
+ none_this_equal: "Target is unknown"
  YOU_COMPLETELY_CONTROL_TITLE_DESC: "You [completely_control|E] [TARGET_TITLE.GetNameNoTier]"
  YOU_DO_NOT_COMPLETELY_CONTROL_TITLE_DESC: "You do #bold not#! [completely_control|E] [TARGET_TITLE.GetNameNoTier]"
  COMPLETELY_CONTROLS_TITLE_DESC: "[completely_controls|E] [TARGET_TITLE.GetNameNoTier]"

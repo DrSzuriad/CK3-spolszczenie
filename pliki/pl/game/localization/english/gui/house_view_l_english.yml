@@ -27,7 +27,7 @@
  DYNASTY_PRESTIGE_AT_MAX_LEVEL: "[DYNASTY.GetBaseName] ma najwyższy poziom sławy"
  HOUSE_VIEW_NAME_WITH_HOUSE: "Ród [DynastyHouse.GetBaseNameNoTooltip]"
  HOUSE_TT_NAME: "Ród [DynastyHouse.GetBaseNameNoTooltip]"
- HOUSE_VIEW_MOTTO: "\"[DynastyHouse.GetMotto]\""
+ HOUSE_VIEW_MOTTO: "„[DynastyHouse.GetMotto]”"
  HOUSE_VIEW_PLAYER_IS_MEMBER: "Twój [Concept( 'house', 'ród' )|E]"
  DYNASTY_HOUSE_TT_HEAD_OF_HOUSE: "[house_head|E]: [DynastyHouse.GetHeadOfHouse.GetShortUIName|U]"
  DYNASTY_HOUSE_TT_DYNASTY: "[dynasty|E]: [DynastyHouse.GetDynasty.GetBaseName]"

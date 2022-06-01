@@ -32,7 +32,7 @@
  GHW_CHANGE_BENEFICIARY: "[Select_CString( GetPlayer.GetBeneficiary.IsValid, 'Zmień', 'Wyznacz' )]"
  GHW_MY_BENEFICIARY: "Mój [beneficiary|El]"
  GHW_MY_CONTRIBUTION: "Moja [contribution|El]"
- GHW_TOGGLE_BENEFICIARY: "Preferowany zamiast preferowanego kandydata"
+ GHW_TOGGLE_BENEFICIARY: "Pomiń preferowanego kandydata"
  GHW_MAX_WARCHEST: "maks.!"
  GHW_WARCHEST_SHARE: "Udział w [Concept('war_chest', 'funduszu wojennym')|E]"
  GHW_SCORE: "Wynik"

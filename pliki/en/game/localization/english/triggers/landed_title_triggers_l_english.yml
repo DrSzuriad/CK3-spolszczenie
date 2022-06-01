@@ -58,6 +58,7 @@
  HAS_TITLE_LAW_FLAG_TRIGGER: "Has title law: $LAW$"
  IS_TITULAR_TRIGGER: "Is [titular_title|E]"
  FORM_GERMANIA_CHRISTIAN_TRIGGER: "As a [CHARACTER.GetFaith.GetAdjective] ruler you can reform the $e_hre$ instead"
+ FORM_HISPANIA_MUST_END_STRUGGLE_TRIGGER: "$e_spain$ cannot be formed till the [iberian_struggle|E] has been resolved"
  TITLE_HELD_YEARS: "$TITLE$ held for $VALUE|V0$ years"
  TITLE_NOT_HELD_YEARS: "$TITLE$ has #bold NOT#! been held for $VALUE|V0$ years"
  LANDED_TITLE_THIS_EQUAL: "Is $TITLE$"

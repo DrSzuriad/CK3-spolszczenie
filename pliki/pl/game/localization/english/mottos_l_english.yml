@@ -49,7 +49,7 @@
  motto_thus_should_law_be_followed: "Dlatego należy przestrzegać prawa"
  motto_from_near_and_far: "Z bliska i z daleka"
  motto_above_all: "Ponad wszystko"
- motto_childhood_games: "Gry z dzieciństwa zwiastują wielki[Select_CString( CHARACTER.IsFemale, 'e', 'ich' )] [Select_CString( CHARACTER.IsFemale, 'kobiety', 'mężczyzn' )]"
+ motto_childhood_games: "Gry z dzieciństwa zwiastują wielki[Select_CString( CHARACTER.IsFemale, 'e', 'ch' )] [Select_CString( CHARACTER.IsFemale, 'kobiety', 'mężczyzn' )]"
  motto_take_up_arms: "Ten, kto stracił wszystko, wciąż może chwycić za broń"
  motto_ancestors: "My także jesteśmy przodkami"
  motto_teaching: "Nauczanie zawsze jest przykładne"
@@ -464,3 +464,4 @@
  dynn_Johansson_3_motto: "Veni, vidi, bibi"
  dynn_Beaumont_vanity_motto: "Biada, co to ma być?"
  dynn_andriamasinavalona_motto: "Granicą mych pól ryżowych jest morze"
+ dynn_Shefket_vanity_motto: ""

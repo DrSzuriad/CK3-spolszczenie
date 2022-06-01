@@ -39,7 +39,7 @@
  REFUND_PERKS_TOOLTIP: "#T Resetuj atrybuty#!\n[CharacterLifestyleWindow.CanRefundPerksDesc]\n[CharacterLifestyleWindow.RefundPerksEffectsDesc]\n#weak Można to zrobić tylko raz w życiu!#!\n#I Kliknij, aby zresetować#!"
  PLAYER_LIFESTYLE_TOOLTIP: "[GetLifestyleTooltipForCharacter( GetPlayer )]\n[GetLifestyleTooltipWarnings( GetPlayer )]\n\n#I Kliknij, aby zobaczyć [Concept( 'lifestyle', 'styl życia' )|E]#!"
  PLAYER_EDUCATION_FOCUS_TOOLTIP: "[GetLifestyleTooltipForCharacter( GetPlayer )]\n\n#I Kliknij, aby zobaczyć [education_focus|E]#!"
- PLAYER_LIFESTYLE_TOOLTIP_NO_FOCUS_WARNING: "@warning_icon!#X Nie wybrałeś [Concept( 'lifestyle', 'stylu życia' )|E]#!"
+ PLAYER_LIFESTYLE_TOOLTIP_NO_FOCUS_WARNING: "@warning_icon!#X Nie wybrano [Concept( 'lifestyle', 'stylu życia' )|E]#!"
  NO_FOCUS: "Brak priorytetu"
  FOCUS_COOLDOWN_DATE: "@warning_icon!#X Jest za wcześnie, aby ponownie zmienić priotytet. Poczekaj do [DATE.GetString]#!"
  FOCUS_SET: "Wybierz ten styl życia"

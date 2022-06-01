@@ -42,7 +42,7 @@
  warhorse.1001.e: "Nie jestem zainteresowan[Select_CString(ROOT.Char.IsFemale, 'a', 'y' )]."
  warhorse.1001.e.tt: "#F „[THIS.Char.Custom('WarhorseStoryName')] nie potrzebuje innego tresera poza mną!”#!"
  warhorse.1001.f: "Za to właśnie płacę koniuszemu!"
- warhorse.1001.f.tt: "Twój koniuszy rozpoczyna tresurę [Select_CString(EqualTo_string(ROOT.Char.Custom('HorseStorySheHe'), 'ona' ), 'twojej klaczy', 'twojego ogiera' )]."
+ warhorse.1001.f.tt: ""
  warhorse.1001.f.failure: "Przecenił[Select_CString(ROOT.Char.IsFemale, 'aś', 'eś' )] swojego koniuszego"
  warhorse.1001.f.failure.tt: "[m_horse.GetTitledFirstNameNoTooltip] nie sprawdza się w tresurze konia."
  warhorse.1002.desc: "[ROOT.Char.Custom('WarhorseStoryName')] dobrze [Select_CString(EqualTo_string(ROOT.Char.Custom('HorseStorySheHe'), 'ona' ), 'radziła', 'radził' )] sobie podczas tresury, a wyniki były widoczne natychmiast!"

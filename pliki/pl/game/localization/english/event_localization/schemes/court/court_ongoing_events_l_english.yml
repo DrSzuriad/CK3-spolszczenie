@@ -9,7 +9,7 @@
  court_ongoing.0501.a: "Zaśpiewaj miłosną balladę."
  court_ongoing.0501.b: "Potajemnie umieść list w [target.GetHerHis] komnatach."
  court_ongoing.0501.c: "Napisz wiersz miłosny."
- court_ongoing.0501.d: "Zaimponuj [target.GetHerHim] wygrywając mecz sparingowy."
+ court_ongoing.0501.d: "Zaimponuj [target.GetHerHim] wygrywając pojedynek sparingowy."
  court_ongoing.0501.x: "Podążaj za własnym instynktem."
  court_ongoing.0501.tt: "[target.GetShortUIName] otrzymuje zapewnienie o twoim dozgonnym oddaniu"
  court_ongoing.0502.t: "$court_event_title$ Wyznanie miłości"

@@ -40,4 +40,4 @@
  COURT_GRANDEUR_ACTIVE_LEVEL: "#bold Aktywny poziom#! $COURT_GRANDEUR_LEVEL_REQUIREMENT$"
  COURT_GRANDEUR_CURRENT_LEVEL: "#bold Obecny poziom#! $COURT_GRANDEUR_LEVEL_REQUIREMENT$"
  COURT_GRANDEUR_INACTIVE_LEVEL: "#bold #X Nieaktywny poziom#!#! $COURT_GRANDEUR_LEVEL_REQUIREMENT$"
- COURT_GRANDEUR_CURRENT_LEVEL_GRACE_PERIOD: ""
+ COURT_GRANDEUR_CURRENT_LEVEL_GRACE_PERIOD: "@warning_icon! #X Niewystarczający [grandeur|El], aby utrzymać ten poziom. Stanie się nieaktywny za [CourtGrandeurData.GetGracePeriodEndDate.GetTimeDiffFromNow], chyba że majestat dworu wzrośnie do co najmniej [CourtGrandeurLevel.GetGrandeurForLevel|V0]#!"
