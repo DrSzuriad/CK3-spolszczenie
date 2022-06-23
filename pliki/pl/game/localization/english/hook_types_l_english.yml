@@ -11,5 +11,5 @@
  fabrication_hook: "Fabrykacja"
  trial_by_combat_hook: "Wygrana próba walki"
  sumptuary_crime_hook: "Naruszono prawo antyzbytkowe"
- minor_crime_accomplice_hook: ""
- major_crime_accomplice_hook: ""
+ minor_crime_accomplice_hook: "Współudział w zbrodni"
+ major_crime_accomplice_hook: "Współudział w poważnej zbrodni"

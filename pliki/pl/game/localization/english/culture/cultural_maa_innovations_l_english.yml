@@ -18,6 +18,7 @@
  culture_parameter_unlock_maa_varangian_veterans: "Można rekrutować #L #TOOLTIP:MEN_AT_ARMS_TYPE,varangian_veterans wareskich weteranów#!#! jako [Concept( 'men_at_arms', 'zbrojnych' )|E]"
  culture_parameter_unlock_maa_longbowmen: "Można rekrutować #L #TOOLTIP:MEN_AT_ARMS_TYPE,longbowmen łuczników angielskich#!#! jako [Concept( 'men_at_arms', 'zbrojnych' )|E]"
  culture_parameter_unlock_maa_huscarls: "Można rekrutować #L #TOOLTIP:MEN_AT_ARMS_TYPE,huscarl huskarli#!#! jako [Concept( 'men_at_arms', 'zbrojnych' )|E]"
+ culture_parameter_unlock_maa_huanch_vaulter: ""
  culture_parameter_unlock_maa_khandayat: "Można rekrutować #L #TOOLTIP:MEN_AT_ARMS_TYPE,khandayat khandajatów#!#! jako [Concept( 'men_at_arms', 'zbrojnych' )|E]"
  culture_parameter_unlock_maa_garudas: "Można rekrutować #L #TOOLTIP:MEN_AT_ARMS_TYPE,garudas lenków#!#! jako [Concept( 'men_at_arms', 'zbrojnych' )|E]"
  culture_parameter_unlock_maa_cataphract: "Można rekrutować #L #TOOLTIP:MEN_AT_ARMS_TYPE,cataphract katafraktów#!#! jako [Concept( 'men_at_arms', 'zbrojnych' )|E]"
@@ -120,3 +121,5 @@
  innovation_repeating_crossbow_desc: "Kusza samopowtarzalna, znana jako Chu-ko-nu, jest genialnym wynalazkiem z łatwym w obsłudze mechanizmem, który może być obsługiwany przez każdego. Braki w zasięgu i sile przebicia nadrabia szybkością salw, co sprawia, że jest idealną bronią do celów obronnych."
  innovation_men_at_arms: "Zbrojni"
  innovation_men_at_arms_desc: "Szkoląc i wyposażając regularną armię, która będzie do stałej dyspozycji naszych władców, położymy kamień węgielny pod fundamenty scentralizowanej władzy."
+ innovation_pole_vault: ""
+ innovation_pole_vault_desc: ""

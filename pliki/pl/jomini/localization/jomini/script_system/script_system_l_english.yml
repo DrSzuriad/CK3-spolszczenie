@@ -54,6 +54,6 @@
  JOMINI_SCRIPTED_GUI_CONFIRM: "Ok"
  JOMINI_SCRIPTED_GUI_DECLINE: "Anuluj"
  EFFECT_LIST_BULLET: "• "
- TRIGGER_AND: ""
- TRIGGER_OR: ""
+ TRIGGER_AND: "Wszystkie wymienione:"
+ TRIGGER_OR: "Co najmniej jedno z wymienionych:"
  SUPPRESS: ""

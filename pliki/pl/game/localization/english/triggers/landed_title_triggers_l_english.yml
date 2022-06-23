@@ -1,8 +1,8 @@
 ﻿l_english:
- RECENT_HISTORY_TRIGGER: "Niedawno $HISTORY|Vl$ (w przeciągu $DURATION$)"
- NOT_RECENT_HISTORY_TRIGGER: "#bold Nie#! $HISTORY|Vl$ niedawno (w przeciągu $DURATION$)"
- RECENT_HISTORY_TRIGGER_THIRD: "Niedawno $HISTORY|Vl$ #V [TITLE.Custom('TitleAdj')|L]#! (w przeciągu $DURATION$)"
- NOT_RECENT_HISTORY_TRIGGER_THIRD: "#bold Nie#! $HISTORY|Vl$ niedawno #V [TITLE.Custom('TitleAdj')|L]#! (w przeciągu $DURATION$)"
+ RECENT_HISTORY_TRIGGER: "Niedawno $HISTORY|Vl$ (nie później niż $DURATION$ temu)"
+ NOT_RECENT_HISTORY_TRIGGER: "#bold Nie#! $HISTORY|Vl$ niedawno (nie później niż $DURATION$ temu)"
+ RECENT_HISTORY_TRIGGER_THIRD: "Niedawno $HISTORY|Vl$ #V [TITLE.Custom('TitleAdj')|L]#! (nie później niż $DURATION$ temu)"
+ NOT_RECENT_HISTORY_TRIGGER_THIRD: "#bold Nie#! $HISTORY|Vl$ niedawno #V [TITLE.Custom('TitleAdj')|L]#! (nie później niż $DURATION$ temu)"
  IS_CONTESTED_TRIGGER: "Jest przedmiotem sporu w [Concept( 'war', 'wojnie' )|E]."
  NOT_IS_CONTESTED_TRIGGER: "#bold Nie#! jest przedmiotem sporu w [Concept( 'war', 'wojnie' )|E]."
  IS_CONTESTED_TRIGGER_THIRD: "#V [TITLE.GetName]#! jest przedmiotem sporu w [Concept( 'war', 'wojnie' )|E]."
