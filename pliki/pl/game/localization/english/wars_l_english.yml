@@ -428,7 +428,7 @@
  nation_fracturing_defeat_end_desc: "[nation_fracturing_faction|E] zostaje rozwiązana, a wszyscy jej członkowie nie mogą dołączyć do frakcji przez [SCOPE.ScriptValue('faction_war_defeat_cooldown')|0] lat."
  MEDI_CONQUEST_CB_NAME: ""
  fp2_mediterranean_conquest_cb: ""
- STRUGGLE_WAR_NAME: ""
+ STRUGGLE_WAR_NAME: "$ORDER$ [struggle_conquest_conquest|El] [ATTACKER.GetPrimaryTitle.GetAdjective] przeciwko [DEFENDER.GetPrimaryTitle.Custom('TitleAdj')]"
  STRUGGLE_WAR_NAME_BASE: ""
  STRUGGLE_COUNTY_CB_NAME: "[struggle_conquest|E]"
  county_struggle_cb: "[struggle_conquest|E]"

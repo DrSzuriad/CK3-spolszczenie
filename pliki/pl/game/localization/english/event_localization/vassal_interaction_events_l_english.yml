@@ -17,7 +17,7 @@
  vassal_interaction.0003.a: "Masz moje słowo."
  vassal_interaction.0003.b: "Powi[Select_CString( recipient.IsFemale, 'nnaś', 'eneś' )] robić to, co mówię, bez względu na wszystko!"
  vassal_interaction.0003.b.tt: "Wojna toczy się dalej"
- vassal_interaction.0004.desc: "Ta wojna kosztowała mnie zbyt wiele, bym m[Select_CString( recipient.IsFemale, 'ogła', 'ógł' )] ją teraz porzucić. Jednakże, niewielki wkład w odbudowę mojego skarbca może mnie przekonać, że jest powi[Select_CString( recipient.IsFemale, 'nnam', 'enem' )] postąpić inaczej."
+ vassal_interaction.0004.desc: "Ta wojna kosztowała mnie zbyt wiele, bym m[Select_CString( recipient.IsFemale, 'ogła', 'ógł' )] ją teraz porzucić. Jednakże niewielki wkład w odbudowę mojego skarbca może mnie przekonać, że powi[Select_CString( recipient.IsFemale, 'nnam', 'enem' )] postąpić inaczej."
  vassal_interaction.0004.a: "Rekompensata jest jedyną sprawiedliwością."
  vassal_interaction.0004.b: "To skandaliczna kwota!"
  vassal_interaction.0005.opening: "[recipient.Custom2('GreetingToLiege', ROOT.Char)]"

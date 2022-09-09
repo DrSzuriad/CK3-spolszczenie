@@ -1,8 +1,8 @@
 ﻿l_english:
- secure_high_kingdom_north_sea_decision: "Zabezpiecz Najwyższe Królestwo Morza Północnego"
+ secure_high_kingdom_north_sea_decision: "Proklamuj Najwyższe Królestwo Morza Północnego"
  secure_high_kingdom_north_sea_decision_desc: "Królestwa Anglii, Danii i Norwegii idealnie do siebie pasują. Bogate, zaciekłe, połączone handlem i szlachetną krwią. Gdyby tylko ktoś mógł przezwyciężyć ich indywidualizm i złączyć je na stałe..."
- secure_high_kingdom_north_sea_decision_tooltip: "Zjednocz Anglię, Danię i Norwegię w jedno [Concept( 'realm', 'państwo' )|E]"
- secure_high_kingdom_north_sea_decision_confirm: "Przede wszystkim, najwyższy król!"
+ secure_high_kingdom_north_sea_decision_tooltip: "Połącz Anglię, Danię i Norwegię w jedno [Concept( 'realm', 'państwo' )|E] [de_jure|El]"
+ secure_high_kingdom_north_sea_decision_confirm: "Najwyższy król rządzi wszystkimi!"
  secure_high_kingdom_north_sea_decision_solve_danelaw: "$k_danelaw$ posiada obecnie [counties|El] [de_jure|El], a $k_england$ musi zostać najpierw podzielona."
  secure_high_kingdom_north_sea_scripted_effect.daneland_reabsorbed.tt: "Wszystkie [Concept( 'completely_controlled', 'w pełni kontrolowane' )|E] [duchies|El] Danelandu [Concept( 'de_jure_drift_drifted', 'wracają' )|E] z powrotem do Anglii."
  found_capital_of_the_rus_decision: "Załóż stolicę Rusi"
@@ -39,3 +39,4 @@
  forge_the_jomsvikings_decision.tt.empty_castle_or_city: "Musisz posiadać co najmniej jedną pustą posiadłość [Concept( 'castle', 'zamkową')|E] lub [Concept( 'city', 'miastową' )|E] leżącą poza [Concept( 'county_capital', 'stolicą hrabstwa' )|E]"
  forge_the_jomsvikings_decision_tooltip: "Założono grupę pobożnych Wikingów do obrony starych zwyczajów"
  forge_the_jomsvikings_decision_confirm: "Walhalla tylko dla godnych!"
+ fp1_valid_norse_faith_for_jomsvikings_trigger_tt: ""

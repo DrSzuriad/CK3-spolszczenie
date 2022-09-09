@@ -253,7 +253,7 @@
  court_ongoing.1211.a.success: "Udaje ci się nie zasnąć"
  court_ongoing.1211.a.failure: "Kusi cię pokusa snu"
  court_ongoing.1211.b: "Nie zawracaj mi głowy w nocy, a zapewnię ci bezpieczeństwo."
- court_ongoing.1211.b.tt: "Miotła z otulona moim płaszczem równie dobrze może zwalczać koszmary."
+ court_ongoing.1211.b.tt: "Miotła z przywiązanym na końcu płaszczem równie dobrze może zwalczać koszmary."
  court_ongoing.1211.b.success: "Nikt nie odkrywa podstępu"
  court_ongoing.1211.b.failure: "Zauważa oszustwo"
  court_ongoing.1211.c: "Nie zrobię tego."

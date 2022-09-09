@@ -24,6 +24,8 @@
  SCHEME_AGAINST_FRIEND: "Spiskowanie przeciwko swojemu przyjacielowi: $VALUE|+0$"
  SCHEME_AGAINST_SPOUSE: "Lojalność wobec małżonka: $VALUE|+0$"
  SCHEME_IS_SACRED: "Moja wiara uważa intrygi za święte: $VALUE|+0=$"
+ HAS_LOYAL_TRAIT: ""
+ HAS_DISLOYAL_TRAIT: ""
  BEFRIEND_MUTUAL_FRIENDS: "\"Chcę, żeby moi przyjaciele byli przyjaciółmi!\": $VALUE|+0$"
  BEFRIEND_WOULD_MAKE_GOOD_FRIEND: "Zależy na celu: $VALUE|+0$"
  BEFRIEND_WOULD_MAKE_BAD_FRIEND: "Zależy na celu: $VALUE|+0$"
