@@ -333,7 +333,7 @@
  fp1_yearly.0591.desc.border_dispute: "kłócą się o wioskę wzdłuż granicy [county_b.Custom('TitleAdjRealmAdjNoTier')], a obie grupy twierdzą, ze ta ziemia jest ich."
  fp1_yearly.0591.desc.stolen_flocks: "oskarżają znaczącego możnowładcę z [county_b.Custom('TitleAdjRealmAdjNoTier')] o kradzież ich stad."
  fp1_yearly.0591.desc.kidnapped_child: "krzyczą na swoich sąsiadów z [county_b.Custom('TitleAdjRealmAdjNoTier')] za rzekome porwanie dziecka."
- fp1_yearly.0591.desc.drunken_arson: "zapewniają o swojej niewinności odnośnie serii pijackich podpaleń na ziemiach [county_b.Custom('TitleAdjRealmAdjNoTier')]."
+ fp1_yearly.0591.desc.drunken_arson: "zapewniają o swojej niewinności odnośnie do serii pijackich podpaleń na ziemiach [county_b.Custom('TitleAdjRealmAdjNoTier')]."
  fp1_yearly.0591.desc.lost_dog: "twierdzą, że kultowy pies wioski został skradziony przez zazdrosne pospólstwo z [county_b.Custom('TitleAdjRealmAdjNoTier')]."
  fp1_yearly.0591.desc.disrupted_wedding: "żądają zadośćuczynienia za spowodowanie chaosu na ślubie przez pijanych gości z [county_b.Custom('TitleAdjRealmAdjNoTier')]."
  fp1_yearly.0591.desc.suspicious_will: "domagają się prawomocności testamentu, w którym pozostawia się im duże pasy ziemi [county_b.Custom('TitleAdjRealmAdjNoTier')]."

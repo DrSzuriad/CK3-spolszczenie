@@ -105,7 +105,7 @@
  CHARACTER_WINDOW_VIEW_EDUCATION_FOCUS:0 "#I Kliknij, aby wyświetlić priorytet edukacji#!"
  LIFESTYLE_FOCUS_ICON_HEADER:0 "#T [lifestyle|E]: [CHARACTER.GetFocus.GetName]#!"
  LIFESTYLE_FOCUS_ICON_HEADER_NO_FOCUS:0 "#T [lifestyle|E]: brak#!"
- EDUCATION_FOCUS_ICON_HEADER:0 "#T Education Focus: [CHARACTER.GetFocus.GetNameNoTooltip]#!"
+ EDUCATION_FOCUS_ICON_HEADER:0 "#T Priorytet edukacji: [CHARACTER.GetFocus.GetNameNoTooltip]#!"
  EDUCATION_FOCUS_ICON_HEADER_NO_FOCUS:0 "#T Priorytet edukacji: brak#!"
  SKILL_ITEM_TOOLTIP:0 "[SkillItem.GetSkillBreakdownTooltip]\n\n#S Efekty:#!\n[SkillItem.GetSkillEffects]"
  SKILL_NO_EFFECT:0 "Brak efektów na tym poziomie"

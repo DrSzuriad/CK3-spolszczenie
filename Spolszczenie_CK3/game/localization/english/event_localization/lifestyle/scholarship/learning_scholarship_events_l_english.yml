@@ -101,7 +101,7 @@
  learning_scholarship_special.2097.conclusion:0 "\n\nTom zajął honorowe miejsce w mojej bibliotece, a każdy [ROOT.Char.GetFaith.PriestNeuter|l], który go czyta, jest pod ogromnym wrażeniem mojej pracy. Niektórzy już mówią o tworzeniu własnych kopii."
  learning_scholarship_special.2097.a:0 "Ta praca wiele mnie nauczyła."
  learning_scholarship_special.2098.t:0 "Moje tłumaczenie zostało ukończone"
- learning_scholarship_special.2098.opening:0 "Nareszcie moje tłumaczenie [ROOT.Char.Custom('TranslationBook')] zostało ukończone. Słowa otoczone są pięknymi iluminacjami, przy czym te najbardziej wystawne odwracają uwagę od fragmentów, odnośnie których miał[Select_CString(ROOT.Char.IsFemale, 'am', 'em' )] wątpliwości."
+ learning_scholarship_special.2098.opening:0 "Nareszcie moje tłumaczenie [ROOT.Char.Custom('TranslationBook')] zostało ukończone. Słowa otoczone są pięknymi iluminacjami, przy czym te najbardziej wystawne odwracają uwagę od fragmentów, odnośnie do których miał[Select_CString(ROOT.Char.IsFemale, 'am', 'em' )] wątpliwości."
  learning_scholarship_special.2098.conclusion:0 "\n\nChociaż niektóre fragmenty są trudne do zrozumienia, nie ma wątpliwości, że to tłumaczenie było bardzo potrzebne. Książka spoczywa w mojej bibliotece, gdzie często czytają ją [ROOT.Char.GetFaith.DevoteeNeuterPlural|l], z niecierpliwością czekam na pierwsze próby wykonania jej kopii."
  learning_scholarship_special.2098.a:0 "Wiele się dzięki temu nauczył[Select_CString(ROOT.Char.IsFemale, 'am', 'em' )]!"
  learning_scholarship_special.2099.termination.toast:0 "Tłumaczenie udaremnione"

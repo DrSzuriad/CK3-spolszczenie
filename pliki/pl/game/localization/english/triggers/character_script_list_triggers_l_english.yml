@@ -12,3 +12,5 @@
  NOT_ANY_IN_DE_JURE_ALL_GLOBAL: "[titles|E] nie będące de iure"
  ANY_IN_DE_JURE_ALL_THIRD: "Dowolne [titles|El] de iure [TITLE.Custom('TitleAdj')|L]"
  NOT_ANY_IN_DE_JURE_ALL_THIRD: "[titles|E] [TITLE.Custom('TitleAdj')|L] nie będące de iure"
+ ANY_REALM_COUNTY: "Dowolne [county|El] w [Concept( 'realm', 'państwie' )|E]:"
+ ANY_REALM_COUNTY_COUNT: "$PARAMETERS$ [Concept( 'counties', 'hrabstwa' )|E] w [Concept( 'realm', 'państwie' )|E]:"

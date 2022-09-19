@@ -13300,7 +13300,7 @@
  c_malaga_adj: "Malagi"
  c_malagon: "Malagon"
  c_malagon_adj: "Malagonu"
- c_maldives_article: ""
+ c_maldives_article: "$CustomLoc_PL_Brak$"
  c_maldives: "Malediwy"
  c_maldives_adj: "Malediwów"
  c_maldwyn: "Penllyn"

@@ -55,7 +55,7 @@
  CUSTOMIZE_HOUSE: "#T Spersonalizuj ród#!"
  CUSTOMIZE_HOUSE_PLAYER_NOT_ALLOWED: "@warning_icon!#X Ród [DYNASTY_HOUSE.GetBaseNameNoTooltip] nie jest twój, co oznacza, że nie możesz go spersonalizować#!"
  HOUSE_MEMBERS_TITLE: "Członkowie [Concept( 'house', 'rodu' )|E] $NAME$"
- DYNASTY_MEMBERS_TITLE: ""
+ DYNASTY_MEMBERS_TITLE: "Członkowie [Concept( 'dynasty', 'dynastii' )|E] $NAME$"
  HOUSE_SORT_FOUNDATION_DATE: "Data założenia"
  HOUSE_SORT_MEMBERS_COUNT: "Żyjący członkowie"
  HOUSE_SORT_HEAD_POWER: "Siła militarna głowy rodu"
